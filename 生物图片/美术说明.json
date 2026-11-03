@@ -1,0 +1,308 @@
+[
+  {
+    "id": "BIO-0001",
+    "name": "变种黏菌",
+    "description": "A representative spreading fungal colony: olive flat branching mat, ochre rootlike tendrils and ivory rounded incubation nodules on tall branching stalks. Colony rather than humanoid. Spore dispersal, differentiated tissues and incubation structures are canonical; this colony sample's palette and precise arrangement are artistic supplements.",
+    "sources": "V05·P000928、P003589",
+    "artNote": "外形以档案和回溯原文为依据；提示词中 Art supplements / Artistic interpretation 为游戏美术补充，非原文事实。",
+    "iconPrompt": null,
+    "modelPrompt": null
+  },
+  {
+    "id": "BIO-0002",
+    "name": "啃食者",
+    "description": "A weak shambling humanoid slime-mold fruiting body, hunched torso, slack jaw, arms hanging forward, fungal surface, plain tattered modest clothing. Zombie-like silhouette motivated only by feeding instinct. Art supplements: gray olive skin, dark burgundy fungal patches. No exposed organs.",
+    "sources": "V02·P000188",
+    "artNote": "外形以档案和回溯原文为依据；提示词中 Art supplements / Artistic interpretation 为游戏美术补充，非原文事实。",
+    "iconPrompt": null,
+    "modelPrompt": null
+  },
+  {
+    "id": "BIO-0003",
+    "name": "爬行者",
+    "description": "Gray-black crawling humanoid fungal predator with red eyes, multiple elongated arms and hooked fingers, low ground-hugging posture for climbing concrete and ambushing. Keep limbs separated and readable; no wings or mechanical parts. Exact arm count is an artistic implementation choice: four arms and two hind legs.",
+    "sources": "档案BIO-0003；V02返程遭遇",
+    "artNote": "外形以档案和回溯原文为依据；提示词中 Art supplements / Artistic interpretation 为游戏美术补充，非原文事实。",
+    "iconPrompt": null,
+    "modelPrompt": null
+  },
+  {
+    "id": "BIO-0004",
+    "name": "殉爆者",
+    "description": "Slime-mold humanoid with huge bulbous spore-filled nodules growing on its back, stooped plantlike resting posture, compact legs, uncluttered front silhouette. Art supplements: muted dark burgundy nodules with pale ochre caps, gray brown body. Intact dormant specimen, no explosion or injury.",
+    "sources": "V04·P004089",
+    "artNote": "外形以档案和回溯原文为依据；提示词中 Art supplements / Artistic interpretation 为游戏美术补充，非原文事实。",
+    "iconPrompt": null,
+    "modelPrompt": null
+  },
+  {
+    "id": "BIO-0005",
+    "name": "暴君",
+    "description": "Three-meter massive humanoid fungal creature: smaller eater-like inner organism enclosed in thick self-healing organic keratin armor. Bulky shoulder plates, powerful limbs, heavy armored head, clearly biological armor grown on body, not manufactured metal. Art supplements: dark charcoal shell, burgundy seams. No crown or weapon.",
+    "sources": "V04·P006594；V08·P000358—P000722",
+    "artNote": "外形以档案和回溯原文为依据；提示词中 Art supplements / Artistic interpretation 为游戏美术补充，非原文事实。",
+    "iconPrompt": null,
+    "modelPrompt": null
+  },
+  {
+    "id": "BIO-0006",
+    "name": "腐朽骑士",
+    "description": "Rust-pitted prewar T10 power armor overgrown with dark red fungal mat and spore-producing nodules. Massive armored humanoid silhouette, rounded industrial armor, helmet and a chainsaw held to one side. The mold colonizes actual old armor. No medieval knight costume, no crown, no exposed tissue.",
+    "sources": "V06·P009653",
+    "artNote": "外形以档案和回溯原文为依据；提示词中 Art supplements / Artistic interpretation 为游戏美术补充，非原文事实。",
+    "iconPrompt": null,
+    "modelPrompt": null
+  },
+  {
+    "id": "BIO-0007",
+    "name": "黏菌女皇",
+    "description": "Medusa-like fungus queen: broad shoulders, elongated waist, NO LEGS, lower body is a wide skirt-shaped fungal mass moving on many short tentacles underneath; finger-thick tendrils on head, dark red fungal mat covers entire body. Nonsexual closed organic torso. No snakes, human hair, crown or clothing gown.",
+    "sources": "V06·P009653—P009654",
+    "artNote": "外形以档案和回溯原文为依据；提示词中 Art supplements / Artistic interpretation 为游戏美术补充，非原文事实。",
+    "iconPrompt": null,
+    "modelPrompt": null
+  },
+  {
+    "id": "BIO-0008",
+    "name": "死亡之爪",
+    "description": "Huge four-meter reptilian biped predator, black scales, amber eyes, extremely powerful claws, thick long balancing tail, muscular hind legs. Distinctive reptilian silhouette, short strong forearms with long claws. No wings, no saddle, no armor; specific horn shape not established, omit invented horns.",
+    "sources": "V05·P004113、P004123、P004143",
+    "artNote": "外形以档案和回溯原文为依据；提示词中 Art supplements / Artistic interpretation 为游戏美术补充，非原文事实。",
+    "iconPrompt": null,
+    "modelPrompt": null
+  },
+  {
+    "id": "BIO-0009",
+    "name": "79智慧死爪母体",
+    "description": "Representative UNDERGROUND administrator individual from Vault79, NOT surface Yongshi. A very large intelligent deathclaw reptile with black scales, amber attentive eyes, thick long tail and claws; calm upright non-attacking pose. Use subtly aged scale texture and restrained expression as artistic supplements. No mammalian breasts, eggs or literal mother-with-young; 'mother body' is a research identity, not a shape instruction. No cybernetic implants or lab clothes invented.",
+    "sources": "档案BIO-0009；V08·P011463—P011757",
+    "artNote": "外形以档案和回溯原文为依据；提示词中 Art supplements / Artistic interpretation 为游戏美术补充，非原文事实。",
+    "iconPrompt": null,
+    "modelPrompt": null
+  },
+  {
+    "id": "BIO-0010",
+    "name": "变种人",
+    "description": "Green-skinned powerfully built mutant humanoid, huge shoulders and muscular arms, broad face, crude patched metal armor and simple opaque cloth trousers, one rough club held low to side. Primitive fabricated equipment; no precision sci-fi technology, no magical runes. Body intact and non-graphic.",
+    "sources": "档案BIO-0010；V01·P001685—P001721",
+    "artNote": "外形以档案和回溯原文为依据；提示词中 Art supplements / Artistic interpretation 为游戏美术补充，非原文事实。",
+    "iconPrompt": null,
+    "modelPrompt": null
+  },
+  {
+    "id": "BIO-0011",
+    "name": "铁背猿",
+    "description": "Long-armed ape with black fur, black overlapping scales protecting its back, green eyes; massive forelimbs and agile crouched knuckle-walking pose. Main identification feature is the armored BACK. No metal armor, no extra arms, no clothing; tool usage does not require a weapon in the specimen image.",
+    "sources": "V06·P014567；档案BIO-0011",
+    "artNote": "外形以档案和回溯原文为依据；提示词中 Art supplements / Artistic interpretation 为游戏美术补充，非原文事实。",
+    "iconPrompt": null,
+    "modelPrompt": null
+  },
+  {
+    "id": "BIO-0012",
+    "name": "变异水蛭",
+    "description": "One adult giant mutant leech, 1–3 meter biological type, thick elongated segmented soft body, broad rounded suction-mouth front, tapering posterior sucker. Art supplements: wet dark plum and brown body with muted ring segmentation. Legless, eyeless simple body; no tentacles or insect legs. Closed small stylized mouth, non-graphic.",
+    "sources": "档案BIO-0012；V01·P001695—P001721",
+    "artNote": "外形以档案和回溯原文为依据；提示词中 Art supplements / Artistic interpretation 为游戏美术补充，非原文事实。",
+    "iconPrompt": null,
+    "modelPrompt": null
+  },
+  {
+    "id": "BIO-0013",
+    "name": "铁背蚁",
+    "description": "One fist-sized ironback worker ant: six legs, two antennae, three main body segments, extremely hard armor-like dark carapace, conspicuous strong pincer mandibles. Art supplements: gunmetal charcoal chitin with brown joints. Keep insect anatomy readable, no actual metal attachments, not an ant queen.",
+    "sources": "V02·P001342、P003150",
+    "artNote": "外形以档案和回溯原文为依据；提示词中 Art supplements / Artistic interpretation 为游戏美术补充，非原文事实。",
+    "iconPrompt": null,
+    "modelPrompt": null
+  },
+  {
+    "id": "BIO-0014",
+    "name": "魔鬼蛾",
+    "description": "One adult devil moth, broad fiber-covered wings, chunky furry thorax, six legs, two antennae, soft segmented abdomen and visible hard cutting mouthparts. Adult carnivorous moth rather than butterfly. Art supplements: charcoal and muted tan angular wing markings. Do not depict rumored queen, magical powers or steel-cutting action.",
+    "sources": "V03·P004658、P004687、P004759",
+    "artNote": "外形以档案和回溯原文为依据；提示词中 Art supplements / Artistic interpretation 为游戏美术补充，非原文事实。",
+    "iconPrompt": null,
+    "modelPrompt": null
+  },
+  {
+    "id": "BIO-0015",
+    "name": "裂爪蟹",
+    "description": "Huge heavily armored wetland crab, broad squat shell, two enormous crushing pincers with jagged inner edges, eight walking legs; silhouette low and wide. Art supplements: dark mossy olive carapace, stony angular shell plates, mud brown joints. No lobster tail, no metal armor. Natural ambush coloration.",
+    "sources": "V03·P001132—P001137；V04·P008797",
+    "artNote": "外形以档案和回溯原文为依据；提示词中 Art supplements / Artistic interpretation 为游戏美术补充，非原文事实。",
+    "iconPrompt": null,
+    "modelPrompt": null
+  },
+  {
+    "id": "BIO-0016",
+    "name": "变异鬣狗",
+    "description": "Mutant hyena, choose ONE normal single-headed representative because only some have two heads. Sloping back, powerful shoulders, shaggy coarse fur, large alert ears and heavy muzzle. Art supplements: dark tawny spotted coat, charcoal mane. No glowing mutations, no oversized spikes, no collar.",
+    "sources": "档案BIO-0016；V01·P000469",
+    "artNote": "外形以档案和回溯原文为依据；提示词中 Art supplements / Artistic interpretation 为游戏美术补充，非原文事实。",
+    "iconPrompt": null,
+    "modelPrompt": null
+  },
+  {
+    "id": "BIO-0017",
+    "name": "双头牛",
+    "description": "Heavy caravan bovine with EXACTLY TWO heads side by side sharing one broad chest and one four-legged body; massive torso, short sturdy legs, horns on both heads. Art supplements: muted brown coat, simple unobtrusive rope halter. Both heads fully visible, no second body, no extra legs. No packs obscuring body.",
+    "sources": "V02·P001161；档案BIO-0017",
+    "artNote": "外形以档案和回溯原文为依据；提示词中 Art supplements / Artistic interpretation 为游戏美术补充，非原文事实。",
+    "iconPrompt": null,
+    "modelPrompt": null
+  },
+  {
+    "id": "BIO-0018",
+    "name": "蓝伞菇",
+    "description": "A small cluster of BLUE parasol-capped mushrooms with fine fuzzy hairs on caps, slender stems and visible gills in side view. A toxic resource mushroom, no eyes or animated face. Art supplements: cobalt-blue cap tops, pale blue-gray stalks. Clear blue identification, no magical glow or medicine bottles.",
+    "sources": "档案BIO-0018；V01·P001692—P001721",
+    "artNote": "外形以档案和回溯原文为依据；提示词中 Art supplements / Artistic interpretation 为游戏美术补充，非原文事实。",
+    "iconPrompt": null,
+    "modelPrompt": null
+  },
+  {
+    "id": "BIO-0019",
+    "name": "精神叶",
+    "description": "One greenhouse-grown leafy resource plant used as devil-moth larval food and stimulant ingredient. Canon lacks exact leaf geometry, so clearly artistic botanical interpretation: compact upright plant with several broad lance-shaped muted green leaves, prominent veins, short woody stem and small root tuft. No cannabis-like leaf arrangement, no potion props, no magical aura.",
+    "sources": "V03·P004658、P004660",
+    "artNote": "外形以档案和回溯原文为依据；提示词中 Art supplements / Artistic interpretation 为游戏美术补充，非原文事实。",
+    "iconPrompt": null,
+    "modelPrompt": null
+  },
+  {
+    "id": "BIO-0020",
+    "name": "青麦",
+    "description": "One clump of drought-tolerant cereal crop used as staple grain and feed. Canon gives function rather than exact morphology. Artistic interpretation: green-blue wheatlike slender leaves, sturdy straw stems, compact grain heads with short awns and fibrous roots. Clearly a cereal rather than grass-only tufts; no fantasy glow.",
+    "sources": "档案BIO-0020；V01·P000607",
+    "artNote": "外形以档案和回溯原文为依据；提示词中 Art supplements / Artistic interpretation 为游戏美术补充，非原文事实。",
+    "iconPrompt": null,
+    "modelPrompt": null
+  },
+  {
+    "id": "BIO-0021",
+    "name": "羊角薯",
+    "description": "Food root crop whose edible tuber is shaped like a GOAT HORN. Show one whole compact plant with a pair of visible curved tapering horn-shaped tubers, a small stem and muted green leaves. Art supplements: tan brown ridged skin, cream root tips, modest broad leaf rosette. No actual animal horns attached to leaves.",
+    "sources": "V02·P000093—P000094",
+    "artNote": "外形以档案和回溯原文为依据；提示词中 Art supplements / Artistic interpretation 为游戏美术补充，非原文事实。",
+    "iconPrompt": null,
+    "modelPrompt": null
+  },
+  {
+    "id": "BIO-0022",
+    "name": "卡姆树",
+    "description": "Economic oil tree bearing TOUGH YELLOW-GREEN fruits. Show compact whole tree with trunk, readable branching crown, muted green leaves and several conspicuous yellow-green oval fruits; one attached fruit in side silhouette, no cutaway necessary. Exact branching, leaf and fruit shapes are art supplements. No rubber hoses or oil machinery.",
+    "sources": "V03·P000091—P000099",
+    "artNote": "外形以档案和回溯原文为依据；提示词中 Art supplements / Artistic interpretation 为游戏美术补充，非原文事实。",
+    "iconPrompt": null,
+    "modelPrompt": null
+  },
+  {
+    "id": "BIO-0023",
+    "name": "大脑菌",
+    "description": "Ground fungal cluster of thumb-thick RED NOODLELIKE fungal cords tangled into a compact brain-like mound, occurs beneath iron-rich trees. This is a fungus unrelated to mutant slime mold. Art supplements: muted red cords with rounded ends, small earthy base. No actual brain, skull, exposed organs, eyes or mushroom caps.",
+    "sources": "V06·P014750—P014751",
+    "artNote": "外形以档案和回溯原文为依据；提示词中 Art supplements / Artistic interpretation 为游戏美术补充，非原文事实。",
+    "iconPrompt": null,
+    "modelPrompt": null
+  },
+  {
+    "id": "BIO-0024",
+    "name": "绿松菇",
+    "description": "A resource mushroom containing antibiotic-like compound. Source does NOT specify external morphology. Artistic interpretation for game: modest cluster of pine-green convex mushroom caps, cream stems and pale gills, a few subtle tan cap scales; asymmetrical natural grouping. No medicinal logos, bottles or literal pine trees.",
+    "sources": "V07·P009449—P009450",
+    "artNote": "外形以档案和回溯原文为依据；提示词中 Art supplements / Artistic interpretation 为游戏美术补充，非原文事实。",
+    "iconPrompt": null,
+    "modelPrompt": null
+  },
+  {
+    "id": "BIO-0025",
+    "name": "水牛草",
+    "description": "A grasslike plant used dried and powdered to preserve fish and improve food flavor. Canon lacks external morphology. Artistic interpretation: dense bunch of sturdy blue-green long grass blades with broader slightly curled leaves and fibrous roots, compact harvestable clump. No buffalo animal features, no flowers or magical aura.",
+    "sources": "V05·P009381、P009521",
+    "artNote": "外形以档案和回溯原文为依据；提示词中 Art supplements / Artistic interpretation 为游戏美术补充，非原文事实。",
+    "iconPrompt": null,
+    "modelPrompt": null
+  },
+  {
+    "id": "BIO-0026",
+    "name": "银嘴蛇",
+    "description": "Venomous snake with canonical SILVER-WHITE stripe running from lip seam to outer eye corner. One elongated coiled serpent with head lifted and stripe fully visible; two fangs small and intact. Art supplements: dark olive scales and pale gray underside. No hood or rattles invented, no multiple heads, no exposed venom glands.",
+    "sources": "V06·P014568",
+    "artNote": "外形以档案和回溯原文为依据；提示词中 Art supplements / Artistic interpretation 为游戏美术补充，非原文事实。",
+    "iconPrompt": null,
+    "modelPrompt": null
+  },
+  {
+    "id": "BIO-0027",
+    "name": "瘟疫巨人",
+    "description": "Five-story tall siege-sized fungal humanoid, extremely bulky fused rounded tissue masses, legs thick as bridge piers. TWO mouths: smaller on head and much larger on abdomen, closed or minimally open, stylized intact surfaces. Can generate eater organisms but depict only this specimen. Art supplements: muted gray-burgundy biological mass. No visible gore, victims or exposed organs, no weapon.",
+    "sources": "V06·P009652",
+    "artNote": "外形以档案和回溯原文为依据；提示词中 Art supplements / Artistic interpretation 为游戏美术补充，非原文事实。",
+    "iconPrompt": null,
+    "modelPrompt": null
+  },
+  {
+    "id": "BIO-0028",
+    "name": "屠夫",
+    "description": "Fat heavy humanoid slime-mold fruiting body, extremely thick soft body mass, unarmored, huge belly, broad arms for throwing other organisms. Show one intact brute with empty hands in neutral stance; NOT a human butcher, no apron, cleaver or occupation costume. Art supplements: desaturated gray-brown skin and burgundy fungal patches. No exposed organs.",
+    "sources": "V06·P009651",
+    "artNote": "外形以档案和回溯原文为依据；提示词中 Art supplements / Artistic interpretation 为游戏美术补充，非原文事实。",
+    "iconPrompt": null,
+    "modelPrompt": null
+  },
+  {
+    "id": "BIO-0029",
+    "name": "菌覆坦克",
+    "description": "Fungal-colonized armored vehicle hull WITHOUT turret or tracks, supported and moved by many soft dark red fungal tentacles underneath. Low wedge-shaped rusted armored chassis, clearly biological locomotion. Keep entire undercarriage visible. No conventional tank tread, cannon turret or fantasy face. Art supplements: faded olive armor, burgundy fungal mat.",
+    "sources": "V06·P011668—P011719",
+    "artNote": "外形以档案和回溯原文为依据；提示词中 Art supplements / Artistic interpretation 为游戏美术补充，非原文事实。",
+    "iconPrompt": null,
+    "modelPrompt": null
+  },
+  {
+    "id": "BIO-0030",
+    "name": "飞虫炮兵",
+    "description": "Fungal artillery organism formed by an old cargo TRUCK overgrown by dark red fungal mat. Cargo bed tilts upward, packed with rounded organic growths, producing lantern-shaped explosive flying organisms with fleshy wings. Show one truck organism with ONE small representative winged projectile adjacent above rear bed for identification. No military gun barrels. Art supplements: rusted ochre truck cab and burgundy colony tissue.",
+    "sources": "V06·P011793",
+    "artNote": "外形以档案和回溯原文为依据；提示词中 Art supplements / Artistic interpretation 为游戏美术补充，非原文事实。",
+    "iconPrompt": null,
+    "modelPrompt": null
+  },
+  {
+    "id": "BIO-0031",
+    "name": "变异牦牛",
+    "description": "One robust shaggy mutant yak used for caravan transport through rubble. SINGLE head and four legs, heavy shoulder hump, long coarse dark brown coat and broad curved horns. Canon lacks exact mutation anatomy: retain plausible yak body, subtly oversized and stocky as art supplement. No two heads; no packs obscuring modeling silhouette.",
+    "sources": "V01·P001816、P001834",
+    "artNote": "外形以档案和回溯原文为依据；提示词中 Art supplements / Artistic interpretation 为游戏美术补充，非原文事实。",
+    "iconPrompt": null,
+    "modelPrompt": null
+  },
+  {
+    "id": "BIO-0032",
+    "name": "变异骆驼",
+    "description": "Mutant caravan camel whose TWO humps have FUSED INTO ONE broad uneven hump; facial features crowded together. Four long legs, thick neck, compact comically compressed but non-graphic face. Art supplements: sandy tan coarse coat. Clearly fused broad hump rather than ordinary two separated humps. No saddle or load hiding silhouette.",
+    "sources": "V07·P009359",
+    "artNote": "外形以档案和回溯原文为依据；提示词中 Art supplements / Artistic interpretation 为游戏美术补充，非原文事实。",
+    "iconPrompt": null,
+    "modelPrompt": null
+  },
+  {
+    "id": "BIO-0033",
+    "name": "红眼狼蛛",
+    "description": "Large wolf spider with RED EYES, large individuals observed reaching human waist. Eight hairy legs, two main body segments, prominent forward-facing red eyes and compact wolf-spider mouthparts. Art supplements: charcoal brown body with muted rust leg joints. No web scene, no giant scorpion tail, no invented venom claims.",
+    "sources": "档案BIO-0033；V08·P010066、P012462",
+    "artNote": "外形以档案和回溯原文为依据；提示词中 Art supplements / Artistic interpretation 为游戏美术补充，非原文事实。",
+    "iconPrompt": null,
+    "modelPrompt": null
+  },
+  {
+    "id": "BIO-0034",
+    "name": "裂齿虎",
+    "description": "Large tiger-shaped mutant with long OUTWARD-CURVING saber teeth protruding from upper jaw, powerful feline body, muscular forequarters. Art supplements: muted ochre coat with dark tiger stripes, pale muzzle, amber eyes. Keep both elongated outward tusklike teeth readable, no spikes or extra heads. Neutral intact specimen.",
+    "sources": "档案BIO-0034；V08·P010066、P012462",
+    "artNote": "外形以档案和回溯原文为依据；提示词中 Art supplements / Artistic interpretation 为游戏美术补充，非原文事实。",
+    "iconPrompt": null,
+    "modelPrompt": null
+  }
+]
