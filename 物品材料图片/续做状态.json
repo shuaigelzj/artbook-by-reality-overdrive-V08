@@ -1,0 +1,28 @@
+{
+  "checkedAt": "2026-11-04T03:16:19.595Z",
+  "status": "配图已全部完成",
+  "report": [
+    {
+      "type": "BIO",
+      "entries": 34,
+      "complete": 34,
+      "imageCount": 68
+    },
+    {
+      "type": "GROUP_V2",
+      "entries": 23,
+      "complete": 23,
+      "imageCount": 46
+    },
+    {
+      "type": "ITM",
+      "entries": 78,
+      "complete": 78,
+      "imageCount": 158
+    }
+  ],
+  "nextId": null,
+  "remainingItems": 0,
+  "pendingGroups": [],
+  "blocker": null
+}
