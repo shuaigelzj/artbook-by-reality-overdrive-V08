@@ -1,0 +1,15 @@
+[
+  {
+    "file": "BLD-0002_interior_02.png",
+    "prompt": "Use case: precise-object-edit. Correct ONLY the left window area of this underground B4 reading lounge. This room is DEEPLY BURIED, so there can be no real window looking onto a lake, forest or outdoor sky. Replace the entire exterior-view window and its frame with a matching curved opaque pale composite wall containing a softly glowing FROSTED LIGHT PANEL with simple vertical divisions, clearly an interior luminaire, no landscape, no photograph, no outdoor view. Preserve exactly the seats, shelf, table, room shape, corridor, matte low-poly Roblox style, amber trim and composition. Light comes entirely from integrated interior fixtures. No new props, no text, no further changes."
+  },
+  {
+    "file": "BLD-0004_interior_01.png",
+    "prompt": "Use case: precise-object-edit. Correct ONLY the rectangular window over the bed of this DEEPLY UNDERGROUND shelter apartment. It cannot physically overlook the surface ecological garden. Replace that outdoor-view window with an opaque softly glowing frosted daylight-simulation wall panel, a built-in interior luminaire with a clear composite border and subtle abstract diffused pale light, NO recognizable outdoor landscape, sky, egg building or trees. Keep the bed, refrigerator, bathroom door, corridor, furniture, room proportions, clean worn composite materials, amber lighting, leaf emblem and low-poly Roblox style otherwise identical. No new objects, no other changes."
+  },
+  {
+    "file": "BLD-0002_exterior.png",
+    "extraRef": "BLD-0001_exterior.png",
+    "prompt": "Use case: precise-object-edit. Image 1 is the target 404 shelter exterior/burial illustration; image 2 is the canonical surface sanitarium identity. Correct ONLY the small surface building and its connection at the top of image 1. Replace that cross-marked two-storey medical building with the EXACT THREE-STOREY sanitarium in image 2: three distinct window storeys across both wings, flat roof, central entrance canopy and taller central bay, weathered concrete and original window rhythm; no hospital cross. Scale this building to the existing surface footprint without changing its three-storey identity. Elevator shaft should connect behind/within its central hall, not form a separate freestanding outside tower. Keep the four-level underground protected shell, ground line, removed-soil presentation, background lake, framing, palette and all other details of image 1 unchanged. Architectural continuity between the landmark and its subterranean vault is essential."
+  }
+]
