@@ -1,0 +1,191 @@
+[
+  {
+    "id": "ORG-0002",
+    "name": "巨石城政权",
+    "kind": "旗帜",
+    "sourceRanges": [
+      [
+        "V06",
+        3819,
+        3827
+      ],
+      [
+        "V06",
+        3960,
+        3998
+      ],
+      [
+        "V08",
+        7673,
+        7678
+      ]
+    ],
+    "artNote": "旗帜为基于巨壁庇护、工业贸易与城主权威的美术设计，未确认原书旗制。宣传画采用巨石城自我展示的秩序与繁荣视角，不表示墙外贫困不存在。",
+    "ref": "地标图片/LMK-0042_scene.png",
+    "emblemPrompt": "Use case: stylized-concept. Asset type: standalone fictional faction flag for a Roblox post-apocalyptic artbook. Create ONE complete rectangular cloth flag seen almost perfectly front-on, width-to-height 3:2, centered within a square transparent canvas with generous clear margins. Deep oxblood burgundy fabric with restrained antique-gold narrow inset border. Central bold gold emblem: TWO tall modern rectangular concrete-tower silhouettes connected by ONE massive trapezoidal defensive wall with a single rectangular gateway cutout; a shallow industrial shield outline frames this architecture. Geometric modern civic authority, not medieval battlements. The twin towers rise well above the wall. Strong readable silhouette, few large shapes. Subtle broad cloth undulation and matte low-poly 3D fabric, crisp stitched edges, minimal surface wear, no pole, no stand, no environment, no cast background shadow. No writing, no letters, no animals, no real-world national motifs, no watermark. The flag itself is fully opaque, surrounding background genuinely transparent.",
+    "bannerPrompt": "Use case: stylized-concept. Asset type: ONE 16:9 landscape organization promotional key visual, requested 1920x1080 composition. Input image 1 is the EXACT faction flag identity; input image 2 is the existing Giant Stone City gate architectural/style reference. Make a polished matte low-poly Roblox game-world scene, cohesive with image 2, blocky R15 characters, cinematic warm afternoon, restrained amber lights, no photoreal people. A broad street-level view of the vast concrete defensive wall spanning between TWO much taller remnant high-rise towers, the gateway processing an orderly merchant truck convoy. View from outside near the approach, showing gate, impressive height, protected commercial activity and a hint of rehabilitated industrial streets beyond. A few disciplined militia, loaded cargo pallets and traders are enough. Show repaired concrete, steel reinforcement and surviving advanced equipment layered onto wasteland-era wear. Foreground LEFT has ONE large front-readable burgundy civic flag on a simple pole, occupying roughly a quarter of frame width; its exact gold tower-wall-gateway shield design and border from image 1 must be preserved clearly, not redesigned. This flag is the prominent organization identification and the city is its backdrop. Camera deliberately selects the government's reassuring image of security and prosperous trade; do not turn entire city into a luxury utopia. Do not place weapons catalogue, arbitrary monuments or heaps of objects. One continuous scene, no inset, no panel split, no typography, no additional logo, no watermark. Ensure full flag and main gateway remain inside frame.",
+    "emblemFile": "ORG-0002_emblem.png",
+    "bannerFile": "ORG-0002_banner.png",
+    "status": "两张已完成",
+    "archive": "# ORG-0002 巨石城政权\n\n材料终点：V08·P013569。类型：组织。\n\n【名称 / 别称】巨石城政权；没有在本轮确认的其他称谓。\n\n【已知身份、功能与状态】城主掌最终军权，市政厅银行工业各有利益，墙防浪潮、贸易贷款与联盟相连。\n\n【限制、差异及未明确事项】对外冷淡不等于无军备，报纸不直接决定城主。\n\n## 跨卷依据\n\n- V01｜楚光离站觅买家，遇巨石城商队并跟出两街，议价以菌菇换9mm枪、60弹、25点；又约月底交20公斤菌菇抵2000点，订10kW发电机和KV-1外骨骼。〔FACT-V01-0002；V01·P001728—P001740、V01·P001812—P001941｜蓝伞菇换武器并订立月底换货约定〕\n- V02｜〔｜到农庄〕 - 清泉市有已开及仍待年限解锁的避难所，存续可成势力、失败可被异种或变种人毁；夏盐记忆中巨石城近旁一所排外、少出门的避难所，具体编号未知。〔FACT-V02-0012；V02·P000017—P000031、V02·P000319—P000339、V02·P000543—P000548｜地理、空间与聚落〕\n- V04｜巨石城先通过远端情报作中立善后盘算，后派黎华等乘无旋翼机来赎瓦努斯；企业近防警告后让其落地，征求楚光意见。〔FACT-V04-0008；V04·P005815—P005919、V04·P006066—P006218、V04·P007190—P007315、V04·P007428—P007504、V04·P007862—P007946｜伙伴申请、巨石城赎俘失败与长久农庄留下〕\n- V05｜暴雪的可观察影响：部落木屋牛棚、长久流民棚倒，工业砖屋泡沫房较好，巨石城外棚塌、贫民搜人。〔FACT-V05-0017；V05·P000001—P000159、V05·P000327—P000637、V05·P001935—P002221、V05·P003595—P004278、V05·P004961—P005626、V05·P001339—P001541、V05·P002248—P002930、V05·P002248—P003594、V05·P005627—P006294、V05·P007923—P007940、V05·P007353—P007390、V05·P007576—P007595、V05·P005627—P006463、V05·P007592—P007608、V05·P008425—P008535、V05·P009891—P009955、V05·P010127—P010185、V05·P011122—P011197、V05·P007262—P007608、V05·P007905—P007940｜地理、道路、建筑与空间〕\n- V06｜钢牙逃到远溪，将敌情夸大到四千人、百余炮弹互相覆灭；伯尼误以巨石城援助，狮牙因此同意撤向西洲。〔FACT-V06-0002；V06·P001109—P002495｜2. 俘虏劳动、军团关系与北线退却〕\n- V08｜楚光判断巨石城更关心市中心黏菌、古代遗产与考古，杜隆一方内心也表明原目标仅四环，但并非巨石城军事弱于联盟。〔FACT-V08-0002；V08·P000003—P000509、V08·P000876—P001386｜01 中心侦察撤回与巨石城空域交涉〕\n\n## 来源\n\n- FACT-V01-0002｜V01·P001728—P001740、V01·P001812—P001941｜蓝伞菇换武器并订立月底换货约定（[分卷事实](C:/Users/Leung/vwork/b2g-zyx/Novel_World_Reconstruction_v3/01_分卷事实/V01_分卷事实.md)）\n- FACT-V02-0012｜V02·P000017—P000031、V02·P000319—P000339、V02·P000543—P000548｜地理、空间与聚落（[分卷事实](C:/Users/Leung/vwork/b2g-zyx/Novel_World_Reconstruction_v3/01_分卷事实/V02_分卷事实.md)）\n- FACT-V04-0008｜V04·P005815—P005919、V04·P006066—P006218、V04·P007190—P007315、V04·P007428—P007504、V04·P007862—P007946｜伙伴申请、巨石城赎俘失败与长久农庄留下（[分卷事实](C:/Users/Leung/vwork/b2g-zyx/Novel_World_Reconstruction_v3/01_分卷事实/V04_分卷事实.md)）\n- FACT-V05-0017｜V05·P000001—P000159、V05·P000327—P000637、V05·P001935—P002221、V05·P003595—P004278、V05·P004961—P005626、V05·P001339—P001541、V05·P002248—P002930、V05·P002248—P003594、V05·P005627—P006294、V05·P007923—P007940、V05·P007353—P007390、V05·P007576—P007595、V05·P005627—P006463、V05·P007592—P007608、V05·P008425—P008535、V05·P009891—P009955、V05·P010127—P010185、V05·P011122—P011197、V05·P007262—P007608、V05·P007905—P007940｜地理、道路、建筑与空间（[分卷事实](C:/Users/Leung/vwork/b2g-zyx/Novel_World_Reconstruction_v3/01_分卷事实/V05_分卷事实.md)）\n- FACT-V06-0002｜V06·P001109—P002495｜2. 俘虏劳动、军团关系与北线退却（[分卷事实](C:/Users/Leung/vwork/b2g-zyx/Novel_World_Reconstruction_v3/01_分卷事实/V06_分卷事实.md)）\n- FACT-V08-0002｜V08·P000003—P000509、V08·P000876—P001386｜01 中心侦察撤回与巨石城空域交涉（[分卷事实](C:/Users/Leung/vwork/b2g-zyx/Novel_World_Reconstruction_v3/01_分卷事实/V08_分卷事实.md)）\n\n其他尺寸、数量、制造过程、内部层级或感官细节仅以这些已有材料为限；未提供的不补齐。以上不是个人档案或后续情节预测。\n",
+    "originalExcerpts": [
+      {
+        "volume": "V06",
+        "start": "P003819",
+        "end": "P003827",
+        "text": "P003819 　　拐过了一处街角，站在一条笔直的十二车道高架上，方长脸上的兴奋，渐渐被震撼取代。\nP003820 　　一座巍峨的巨壁，足足有二十层楼那么高，如水坝一样耸立在两座直入云霄的大厦之间。\nP003821 　　巨物的威压感扑面而来。\nP003822 　　即便隔着一公里远，也能清晰感觉到！\nP003823 　　“看到了那座巨壁，就等于看见了巨石城。后面的路会好走很多，”钱莱的脸上露出了如释重负地笑容，“总算是有温暖的床垫可以睡了，你们可以住我家里，那里虽然不大，但环境肯定比旅店好很多！”\nP003824 　　同样被眼前的景象震撼到了，徐顺忍不住开口说道。\nP003825 　　“这得多少吨水泥？”\nP003826 　　钱莱笑着说。\nP003827 　　“这谁知道，而且里面也并非全是水泥，也许混了一些垃圾或者废弃的混凝土块，总之有些历史了。这座巨壁主要是为了应对异种以及‘浪潮’的威胁，不过有一说一，浪潮已经很久没有威胁到巨石城的墙角下了。”"
+      },
+      {
+        "volume": "V06",
+        "start": "P003960",
+        "end": "P003998",
+        "text": "P003960 　　“城内的情况与城外截然不同，这里的街道被翻新过，楼房是在推倒的废墟上重建的，越往城内越高，但都高不过那座巨壁。”\nP003961 　　“好的酒店很贵，便宜的旅店和酒馆都藏在错综复杂的小巷中，那儿的条件比外面的贫民窟好不了太多。但值得一提的是，由于修建了排水系统，所以闻起来不算太臭。”\nP003962 　　“或许策划是在暗示我们，我们也该考虑给地表的据点新增一些市政设施了？”\nP003963 　　“再说衣着方面，这里的居民衣着主要以棉布和亚麻布为主，织布产业应该很发达。对于在城内有工作的市民们而言，穿衣基本上没什么问题，只不过一件衣服会穿很久。佣兵更喜欢选择皮革制的衣服，或者特殊材料做成的防弹衣，所以即便他们将枪藏起来，也很好区分他们。”\nP003964 　　“少数的医院与学校，零星分布在内城边缘的几个社区。生活在那里的人们，精神面貌与外面完全不同，消费能力也更强。”\nP003965 　　“在市中心还有一道围墙，那里是巨石城的内城，十余座战前的高楼被翻新，构成了巨石城的金字塔顶。而支配这一切的统治者，是一个叫房明的男人。他很少直接在大众面前露面，多以全息影像示人。大多数人对他充满敬畏，但也有相当一部分人并不关心。”\nP003966 　　“值得一提的是，巨石城的物资并不算匮乏，生产力也不低，不少技术甚至达到了科幻的领域，但绝大多数人仍然过的很拮据。尤其是对于未受教育的下层人士而言，想要发财只有两条路，要么加入商队，要么成为佣兵。”\nP003967 　　“解决了落脚的地方之后，我们和商队的人一起，将魔鬼布和精神叶带去了贸易站。整个巨石城的大宗商品都在那儿交易，里面有上百个摊位，像集贸市场一样。那里的摊主惊叹于我们的织布工艺，这里得给藤藤小改改点赞……但我能感觉到，他们明显对精神叶更感兴趣。”\nP003968 　　“最后，10匹魔鬼布以5000枚筹码成交，100公斤的精神叶同样卖了5000筹码……这是讨价还价之后的结果，一开始他们只打算给这个数字的一半。货物的重量其实相差不多，但就我个人感觉，后者的获取难度更低，明显更赚。”\nP003969 　　“交易完成之后，我和警卫NPC在这里逛了一圈，对市场进行了简单的调研，发现这里对橡胶和生物质油的需求非常稳定，采购量大的出奇，而且最关键的是价格透明！唯一的缺点就是，价格不高，上哪儿弄这么多橡胶和油是个问题。”\nP003970 　　“另外棉花、亚麻、谷物也是，还有像是钢铁、铝材等材料、甚至是白银黄金这样的贵金属，都可以在这儿交易。”\nP003971 　　“以下仅作为推测！”\nP003972 　　“考虑到巨石城重点突出了【商人】与【佣兵】这两个职业的特性，下个版本可能开放跑商和佣兵玩法。”\nP003973 　　“如果打算跑商，务必注意这里的居民们消费能力偏弱，美食估计很难卖出很高的溢价！”\nP003974 　　“但相对的，佣兵们的消费能力很强，而且需求明确。便宜的武器，护具，辅助装备，释放压力的酒精甚至是精神叶，以及医用纱布和干粮，在这里都能卖出不错的价格！”\nP003975 　　“也许我们应该在巨石城经营一家店铺？我们的武器很明显已经供大于求了！”\nP003976 　　“当然如果有力量系的兄弟感兴趣，也可以去工厂里打螺丝？但目前触发方式未知，且收益很低，过程疑似极度枯燥。”\nP003977 　　“除非你在现实中没进过厂，否则强烈不推荐！”\nP003978 　　-\nP003979 　　（查资料查的卡文了，把细纲捋顺就舒服多了，但时间不够了。没有存稿确实难顶……铺垫完开始新剧情，今天就一更了。）\nP003980 　　巨石城很大。\nP003981 　　不只是设施，还有人口。\nP003982 　　想要深入调查这里的风土人情，一周的时间恐怕都未必够。\nP003983 　　更何况“新地图体验卡”只有三天有效期……\nP003984 　　第二日傍晚。\nP003985 　　坐在窗户旁边的方长，看了一眼窗外逐渐热闹起来的街道，收起了手中的小本本和笔。\nP003986 　　总的来说进展还算顺利。\nP003987 　　除了内城没办法进去，外城的探索度已经达到了60%，需要了解的东西基本上也调查清楚了。\nP003988 　　尤其是那些深入到社会层面的部分。\nP003989 　　而这一部分，也是最令他感到惊讶的。\nP003990 　　“与贝特街、布朗农庄等小型幸存者聚居地不同，巨石城除了巨大之外，成分上也有别于大多数中小型幸存者聚居地的‘封建领主式’统治，而更像是一个关系错综复杂的利益集合体。”\nP003991 　　“城主是这里的最高权力者，拥有着民兵团的指挥权，但并不参与城中具体事物，也不从事任何资产的经营，只负责应对浪潮和其他威胁，以及从市政厅的金库拿钱。”\nP003992 　　“生活在这里的居民自己建立了一套适合自己的官僚系统，负责处理乱七八糟的事物以及税收这项头等大事儿。但由于无法直接获得暴力机器的支持，导致他们对地区的统治力很弱，甚至于在解决某些问题的时候，不得不依赖于一些‘大人物们’的帮忙。”\nP003993 　　“有意思的是，我在与NPC交流时，意外发现了制作组留下的彩蛋。”\nP003994 　　“在废土纪元早期，巨石城其实并不叫巨石城，而是叫‘大厦镇’。直到他们在一个叫‘战后重建委员会’古老组织的帮助下，完成了从第一栋大厦到外城的扩张，并为应对浪潮修建了一座巨大的混凝土墙。”\nP003995 　　“在往后的一个世纪中，他们似乎失去了建造巨壁的能力，也停止了扩张的脚步，取而代之的是通过贸易开拓看不见的疆土。也正是通过这样的方式，他们在河谷行省南部地区积攒了大量的地区威望，并让‘筹码’在整个清泉市流行，成为了当地人心目中的硬通货……而这也是大多数巨石城居民傲慢的根源。”\nP003996 　　“即便那些通过筹码掠夺来的财富，与他们并没有任何关系，也根本没有改善他们的现状。”\nP003997 　　“与这样的势力接触，比起直接的战争手段，通过利益进行拉拢似乎是个更好的选择。”\nP003998 　　“然而必须得注意的是，这同时也是他们最擅长的领域，这里的NPC远比北郊的那些狡猾。”"
+      },
+      {
+        "volume": "V08",
+        "start": "P007673",
+        "end": "P007678",
+        "text": "P007673 　　其实比起蓄谋已久，他也有怀疑过也许是巧合。\nP007674 　　然而如果解释成巧合，根本解释不通为何一座荒山上会出现这么一串意义不明的氢气球。\nP007675 　　“巨石城……我记得是前文明的遗民。”\nP007676 　　副官从怀中抽出一支笔记本，拿在手中翻了两页，嘀咕着继续说道。\nP007677 　　“根据可靠情报记载，战后重建委员会帮他们修了一堵墙，还给了他们一些用来对抗‘浪潮’的武器……听说那儿生活着几万人，也没准是几十万。他们的聚居地距离这里不算远，只有150公里……不过他们为什么要对付我们？”\nP007678 　　“也许是想警告我们离他们远点？但这种概率很小。”"
+      }
+    ]
+  },
+  {
+    "id": "ORG-0008",
+    "name": "长戈集团",
+    "kind": "招牌",
+    "sourceRanges": [
+      [
+        "V08",
+        11305,
+        11316
+      ],
+      [
+        "V08",
+        11366,
+        11380
+      ]
+    ],
+    "artNote": "集团招牌、配色、展厅及展出装备外形为军火企业形象的美术补全，不作为原书确认商标或产品目录。",
+    "ref": "地标图片/LMK-0038_scene.png",
+    "emblemPrompt": "Use case: stylized-concept. Asset type: standalone corporate sign for fictional Chang Ge Group, an advanced arms company in Ideal City, Roblox world artbook. ONE complete wide horizontal premium manufactured corporate sign, front elevation, aspect about 2:1, centered within a square transparent canvas with clear margins. Dark graphite matte composite panel, subtly bevelled metal edging, a narrow cool cyan accent line. Left third: a bold minimal SILVER angular spear glyph, one very long straight shaft leaning northeast ending in a single broad asymmetric spear blade, distinct and memorable, geometric engineered logo with no circle, no wings. Right two thirds: exactly FOUR large clear Chinese characters '长戈集团' in clean silver geometric sans serif lettering, left-to-right in one line, no other text. Prosperity-derived precision materials, slight relief, polished game-ready low-poly rendering, calm soft studio illumination, not a neon billboard, no gross rust. No pole, no wall, no room, no background, no drop shadow beyond the object, transparent exterior, opaque sign. No real-world brands, no watermark.",
+    "bannerPrompt": "Use case: stylized-concept. Asset type: ONE 16:9 landscape corporate promotional key visual, requested 1920x1080 composition. Input image 1 is the exact Chang Ge Group sign, preserve its silver diagonal spear and four Chinese characters '长戈集团'. Input image 2 gives the established Ideal City skyline and matte low-poly Roblox style; do NOT copy its unrelated transport-company insignia. Create a sophisticated advanced arms supplier's showroom overlooking dense vertical Ideal City through tall glazing: clean engineered composite architecture, high-rise masses, a maglev passing between buildings in soft background, afternoon light with cool cyan and restrained amber accents. Foreground LEFT integrates image 1 as a large physical graphite branding panel, crisp readable spear and original text occupying around a quarter of frame width. Center/right show a carefully curated raised display with ONLY two representative futuristic small arms and one compact robotic support unit, alongside a couple of R15 blocky armored demonstrators and a civilian corporate representative discussing capabilities. Fictional generic exhibit silhouettes only, no claim of canonical model numbers, no technical diagrams or assembly steps. Premium precise manufacturing and confidence, security technology marketed through a corporate aesthetic, not a scavenger gun market. Preserve chunky simplified forms and matte materials; avoid realistic human anatomy or glossy toy plastic. Let skyline and roomy display create depth. One cohesive continuous scene, no inset or collage, no extra slogans or text, no unrelated flags, no watermark.",
+    "emblemFile": "ORG-0008_emblem.png",
+    "bannerFile": "ORG-0008_banner.png",
+    "status": "两张已完成",
+    "archive": "# ORG-0008 长戈集团\n\n材料终点：V08·P013569。类型：组织。\n\n【名称 / 别称】长戈集团；没有在本轮确认的其他称谓。\n\n【已知身份、功能与状态】理想城主要军火商、五巨头之一，支持援助提案。\n\n【限制、差异及未明确事项】材料未给完整产品目录。\n\n## 跨卷依据\n\n- V08｜企业数万子公司持母公司股份取得重大表决权，主要股份集中银翼重工、康茂辅助装备医疗、长戈军火、端点智能、理想公共事业公建五巨头，三家支持即足通过。〔FACT-V08-0049；V08·P010822—P011450｜18 轨道漂流瓶联系企业与五巨头利益交换〕\n\n## 来源\n\n- FACT-V08-0049｜V08·P010822—P011450｜18 轨道漂流瓶联系企业与五巨头利益交换（[分卷事实](C:/Users/Leung/vwork/b2g-zyx/Novel_World_Reconstruction_v3/01_分卷事实/V08_分卷事实.md)）\n\n其他尺寸、数量、制造过程、内部层级或感官细节仅以这些已有材料为限；未提供的不补齐。以上不是个人档案或后续情节预测。\n",
+    "originalExcerpts": [
+      {
+        "volume": "V08",
+        "start": "P011305",
+        "end": "P011316",
+        "text": "P011305 　　如果要说这片废土上还有哪个地方，能瞻仰到人联的最后一抹余晖，那毫无疑问是东海岸的明珠——那座名为“理想城”的乌托邦。\nP011306 　　层层叠叠的混凝土与钢筋骨架从地表一直延伸到天空，站在地表抬头向上望去，甚至一眼望不到尽头。\nP011307 　　霓虹闪烁的光污染是这座城市最形象的写照，投屏在最外围大厦上的全息影像哪怕隔着数十公里都能看到。\nP011308 　　不管是从多繁华的地方来到这儿的废土客，都会像土包子一样瞪大眼睛四处张望，并被那闪烁的灯光和四通八达的交通弄的不知所措。\nP011309 　　一架架磁悬浮列车穿梭在高楼大厦之间，如同游动在海藻之间的鱼群。\nP011310 　　只有少数大鱼，能游到最高处，欣赏清晨的第一缕初阳……\nP011311 　　站在落地窗前，男人静静地看着窗外，就像在欣赏着客厅的鱼缸。\nP011312 　　他的名字叫罗永，是银翼集团董事会的核心成员之一，持有17%的股份。\nP011313 　　“紧急通讯手段……看来我们的开拓者号真的遇到麻烦了。”坐在沙发上的客人饶有兴趣地端详着手中的酒杯，忽然若无其事地开口说了句。\nP011314 　　他的名字叫康乐，是康茂集团董事会的核心成员之一。\nP011315 　　和主要从事重型工程装备制造的银翼集团不同，康茂集团的业务范围主要是辅助装备与医疗器械。\nP011316 　　两人虽然是酒友，但聚在一起的时候，讨论的话题总是与酒无关。"
+      },
+      {
+        "volume": "V08",
+        "start": "P011366",
+        "end": "P011380",
+        "text": "P011366 　　没有去问条件，康乐目光注视着他。\nP011367 　　“哦？你想让我帮你什么？”\nP011368 　　“再过两个小时，数据的解析应该就会完成……”\nP011369 　　罗永用食指挑开袖口，看了一眼腕表上的时间，“我们会在今日午时提交扩大增援规模的方案，我们已经得到长戈集团的支持，只差最后一票……我希望你能说服康茂集团的董事会，在企业最高董事会议上支持我们的提案。”\nP011370 　　长戈集团是理想城最大的军火商。\nP011371 　　康乐对于银翼集团能得到那些家伙的支持一点儿也不意外。\nP011372 　　那些军火贩子巴不得外面打的热火朝天，他们每天最爱干的事儿就是一边给自家的产品打折促销，一边嚷嚷企业的武备费拉不堪，要求扩大突击队的规模。\nP011373 　　虽然企业有着数以万计的子公司，每一家持有母公司股份的子公司都拥有重大决议的投票权，但由于绝大多数的股权都掌握在五家巨头手中，因此当一份提案有三家巨头支持时，提案的通过便不会有任何悬念。\nP011374 　　而相反的，如果有三家巨头反对，则一份提案无论如何也不会通过。\nP011375 　　康乐在心中思忖着，这家伙找到自己的头上，8成是在另外两家那儿碰壁了。\nP011376 　　想来也是，主营智能业务的“端点”集团和主营公共事业与城市建设的“理想”集团对废土上的事务根本漠不关心。\nP011377 　　有可能被拉拢的……\nP011378 　　似乎也只有自己这边。\nP011379 　　“扩大增员规模……康茂集团可以接受装备和经济上的援助，也只能接受这个。我不知道你和长戈集团达成了什么协议，但突击队的规模已经足够大了，你们也不希望看到那些战争狂们做大吧？”\nP011380 　　罗永表情没有任何变化的说道。"
+      }
+    ]
+  },
+  {
+    "id": "ORG-0014",
+    "name": "战后重建委员会",
+    "kind": "徽章",
+    "sourceRanges": [
+      [
+        "V06",
+        3990,
+        3998
+      ],
+      [
+        "V06",
+        10023,
+        10039
+      ],
+      [
+        "V08",
+        7673,
+        7678
+      ]
+    ],
+    "artNote": "徽章与画面为废土纪元早期重建行动的概念复现，标识并非原文确认样式。以工程建设和文明恢复为主，不将该组织在当前时期画成仍正常运作，也不据图判断其历史行动结局。",
+    "ref": "建筑图片/BLD-0017_interior_01.png",
+    "emblemPrompt": "Use case: stylized-concept. Asset type: standalone fictional Post-war Reconstruction Committee enamel badge for a Roblox artbook. ONE complete front-facing manufactured badge centered on a square truly transparent canvas. Broad rounded HEXAGON outline in brushed pale titanium, cobalt blue enamel inner field, opaque solid badge. In the center a simple warm ivory geometric OPEN PAIR OF HANDS cradles THREE ascending rectilinear buildings; above the shortest building a tiny single amber rising-sun semicircle signals recovery. Bold readable emblem with only a handful of large shapes, no tiny textures. Humanitarian civil-engineering institution inherited from a highly advanced civilization, not a medieval coat of arms and not a real UN logo. Subtle raised enamel bevels, restrained matte low-poly 3D treatment, clean utility manufacture with small realistic edge wear only. Soft even studio light. No text, no initials, no laurel, no stars, no weapons, no skull, no scene, no ribbon, no background, no watermark. Show all badge edges with ample transparent margins.",
+    "bannerPrompt": "Use case: stylized-concept. Asset type: ONE 16:9 landscape historical reconstruction campaign key visual, requested 1920x1080 composition. Input image 1 is the exact Reconstruction Committee badge identity; input image 2 supplies only matte low-poly Roblox industrial material and R15 style, do NOT copy its vehicle emblem or whole workshop. Depict an ACTIVE EARLY POSTWAR rebuilding operation, nearly two centuries before the present-day wasteland scenes: surviving Prosperity-Era engineering machinery, composite modular public-service buildings being assembled among damaged concrete city blocks. Main action is a large articulated crane lowering ONE prefabricated wall module into a fresh civic shelter; a short completed protective wall section and restored utility lighting suggest permanent recovery. Few R15 engineers in functional suits and hard hats coordinate with residents; one compact advanced armored escort stands unobtrusively back, reconstruction stays central. Foreground left incorporates a large opaque cobalt-and-titanium committee plaque carrying the EXACT ivory cupped-hands/three-buildings/amber-sun emblem of image 1, cleanly readable about a fifth of frame. Warm morning sunlight after dust clears, hopeful but materially grounded, infrastructure competence amid real damage. Cohesive existing low-poly faceted environment style, matte materials, broad clean shapes, sophisticated inherited civilization rather than 20th-century brick-only construction. No modern real-world relief organization logos, no war victory spectacle, no dense equipment checklist, no text, no split panels, no inset, no watermark. This is an imaginative campaign view of reconstruction while the organization was active, not a present-day surviving office.",
+    "emblemFile": "ORG-0014_emblem.png",
+    "bannerFile": "ORG-0014_banner.png",
+    "status": "两张已完成",
+    "archive": "# ORG-0014 战后重建委员会\n\n材料终点：V08·P013569。类型：组织。\n\n【名称 / 别称】战后重建委员会；重建委。\n\n【已知身份、功能与状态】战后重建组织，71装甲旅记录及巨石城墙军备资料中出现。\n\n【限制、差异及未明确事项】79对其失败担忧不等于已证明所有实际举措失败。\n\n## 跨卷依据\n\n- V06｜黑盒指向人联71装甲旅、战后重建委员会，百余年前的行动记录显示攻击市中心核弹坑母巢时遭EMP熄火、弹尽被围，侵蚀系统持续二十年直至记录停止；EMP来自何处与整场结果未知。〔FACT-V06-0011；V06·P009683—P010449、V06·P010486—P010609｜11. 68号街守住浪潮，样本揭开节点生物与战前装甲经历〕\n- V08｜夏盐所述巨石起源为民间口传；后军团资料称重建委修墙、给抗浪潮武器，是另一带出处的资料。〔FACT-V08-0014；V08·P001752—P002090、V08·P002452—P002799、V08·P003422—P004152、V08·P008771—P009103｜05 两亿贷款把巨石工业与联盟建设连在一起〕\n\n## 来源\n\n- FACT-V06-0011｜V06·P009683—P010449、V06·P010486—P010609｜11. 68号街守住浪潮，样本揭开节点生物与战前装甲经历（[分卷事实](C:/Users/Leung/vwork/b2g-zyx/Novel_World_Reconstruction_v3/01_分卷事实/V06_分卷事实.md)）\n- FACT-V08-0014｜V08·P001752—P002090、V08·P002452—P002799、V08·P003422—P004152、V08·P008771—P009103｜05 两亿贷款把巨石工业与联盟建设连在一起（[分卷事实](C:/Users/Leung/vwork/b2g-zyx/Novel_World_Reconstruction_v3/01_分卷事实/V08_分卷事实.md)）\n\n其他尺寸、数量、制造过程、内部层级或感官细节仅以这些已有材料为限；未提供的不补齐。以上不是个人档案或后续情节预测。\n",
+    "originalExcerpts": [
+      {
+        "volume": "V06",
+        "start": "P003990",
+        "end": "P003998",
+        "text": "P003990 　　“与贝特街、布朗农庄等小型幸存者聚居地不同，巨石城除了巨大之外，成分上也有别于大多数中小型幸存者聚居地的‘封建领主式’统治，而更像是一个关系错综复杂的利益集合体。”\nP003991 　　“城主是这里的最高权力者，拥有着民兵团的指挥权，但并不参与城中具体事物，也不从事任何资产的经营，只负责应对浪潮和其他威胁，以及从市政厅的金库拿钱。”\nP003992 　　“生活在这里的居民自己建立了一套适合自己的官僚系统，负责处理乱七八糟的事物以及税收这项头等大事儿。但由于无法直接获得暴力机器的支持，导致他们对地区的统治力很弱，甚至于在解决某些问题的时候，不得不依赖于一些‘大人物们’的帮忙。”\nP003993 　　“有意思的是，我在与NPC交流时，意外发现了制作组留下的彩蛋。”\nP003994 　　“在废土纪元早期，巨石城其实并不叫巨石城，而是叫‘大厦镇’。直到他们在一个叫‘战后重建委员会’古老组织的帮助下，完成了从第一栋大厦到外城的扩张，并为应对浪潮修建了一座巨大的混凝土墙。”\nP003995 　　“在往后的一个世纪中，他们似乎失去了建造巨壁的能力，也停止了扩张的脚步，取而代之的是通过贸易开拓看不见的疆土。也正是通过这样的方式，他们在河谷行省南部地区积攒了大量的地区威望，并让‘筹码’在整个清泉市流行，成为了当地人心目中的硬通货……而这也是大多数巨石城居民傲慢的根源。”\nP003996 　　“即便那些通过筹码掠夺来的财富，与他们并没有任何关系，也根本没有改善他们的现状。”\nP003997 　　“与这样的势力接触，比起直接的战争手段，通过利益进行拉拢似乎是个更好的选择。”\nP003998 　　“然而必须得注意的是，这同时也是他们最擅长的领域，这里的NPC远比北郊的那些狡猾。”"
+      },
+      {
+        "volume": "V06",
+        "start": "P010023",
+        "end": "P010039",
+        "text": "P010023 　　“当然可以，T-10动力装甲是人联陆军的陆战动力装甲，‘黑匣子’位于腰部附近。”\nP010024 　　说着，殷方将一枚拇指大小、形似指甲刀的橙色盒子，轻轻放在了桌上。\nP010025 　　“虽然数据损毁严重……但我还是还原了一点点碎片。”\nP010026 　　楚光：“你发现了什么？”\nP010027 　　殷方：“这台装甲的编号是T-10：A71C98U，我之前在落霞行省调查遗迹的时候，层在一座废弃研究所内偶然见过这个系列。不出意外，它原隶属于人联第71装甲旅，在废土纪元之后归属于‘战后重建委员会’。”\nP010028 　　战后重建委员会。\nP010029 　　他最早听到这个名字，似乎是在原理博士留下的全息影像。种种迹象表明，这个组织在废土纪元的早期——也就是两百年前，具有相当规模的影响力。\nP010030 　　根据玩家们提供的线索，巨石城似乎就是战后重建委员会筹建的幸存者聚居地之一。\nP010031 　　甚至就连那座巍峨的巨壁，都是战后重建委员会建造的。\nP010032 　　楚光隐隐皱起了眉头。\nP010033 　　一条条线索似乎串联在了一起，但却少了几个关键的拼图。\nP010034 　　他想知道。\nP010035 　　404号避难所在这其中究竟扮演着什么样的角色。\nP010036 　　殷方停顿了片刻，继续说道。\nP010037 　　“两个世纪之前，这台动力装甲所属的部队，对市中心展开了军事行动，目标疑似清除位于市中心核弹坑中的母巢。黑匣子中并没有记录这场行动的最终结果，但想来应该是失败了，残存的数据记录了这台动力装甲报废的原因。”\nP010038 　　楚光：“是因为什么？”\nP010039 　　“EMP。”"
+      },
+      {
+        "volume": "V08",
+        "start": "P007673",
+        "end": "P007678",
+        "text": "P007673 　　其实比起蓄谋已久，他也有怀疑过也许是巧合。\nP007674 　　然而如果解释成巧合，根本解释不通为何一座荒山上会出现这么一串意义不明的氢气球。\nP007675 　　“巨石城……我记得是前文明的遗民。”\nP007676 　　副官从怀中抽出一支笔记本，拿在手中翻了两页，嘀咕着继续说道。\nP007677 　　“根据可靠情报记载，战后重建委员会帮他们修了一堵墙，还给了他们一些用来对抗‘浪潮’的武器……听说那儿生活着几万人，也没准是几十万。他们的聚居地距离这里不算远，只有150公里……不过他们为什么要对付我们？”\nP007678 　　“也许是想警告我们离他们远点？但这种概率很小。”"
+      }
+    ]
+  },
+  {
+    "id": "ORG-0030",
+    "name": "布格拉自由邦",
+    "kind": "旗帜",
+    "sourceRanges": [
+      [
+        "V07",
+        9708,
+        9730
+      ],
+      [
+        "V07",
+        10934,
+        10936
+      ],
+      [
+        "V07",
+        13042,
+        13063
+      ]
+    ],
+    "artNote": "自由邦旗帜、商贸街区与配色为美术设计，表现北部平原交通枢纽、军火和佣兵中转的特征；不将自由邦等同于火石集团，也不把其与大裂谷的关系改写为独立于原情报的确定结论。",
+    "ref": "地标图片/LMK-0042_scene.png",
+    "emblemPrompt": "Use case: stylized-concept. Asset type: standalone fictional Free State of Bugra flag for a Roblox wasteland artbook. ONE complete rectangular flag, front-facing, width-to-height 3:2, centered on a square genuine transparent canvas with generous clear margins. Charcoal-black matte cloth with broad deep PETROL-TEAL horizontal bands along the upper and lower edges. Center is a single bold BRASS emblem: an open circular coin-like ring enclosing THREE straight trade-route lines meeting at a small central diamond, each line ending in a broad outward arrowhead; the three routes form a balanced three-way junction. A small clean gap in the bottom of the ring lets one route extend out. Readable mercantile crossroads motif, geometric modern industrial city-state, not skull piracy, not a specific corporation's flint or torch mark. Large flat color regions, subtle restrained woven texture and broad low-poly folds, lightly handled but intact cloth. No flagpole, no stand, no lettering, no currency numbers, no animals, no environment or cast background shadow, no watermark; flag opaque, exterior background transparent.",
+    "bannerPrompt": "Use case: stylized-concept. Asset type: ONE 16:9 landscape Free State of Bugra organization promotional scene, requested 1920x1080 composition. Input image 1 is the EXACT black/petrol-teal/brass crossroads flag identity. Input image 2 is ONLY a reference for matte low-poly Roblox wasteland material, scale and R15 people, do not copy Giant Stone City's twin-tower great wall. Bugra is a northern PLAINS transport junction near the Great Rift, a survivor trading center for weapons, caravan forwarding, repairs and mercenary employment. Do not place the whole city on a sheer canyon edge or in a generic sandy desert. Create one broad freight-market street on a flat northern plain, layered warehouses and reused old concrete commercial buildings, distant rock escarpment subtly on the horizon, overcast dusk with warm shop lights and restrained teal signage glow. Foreground left prominently shows the full exact flag from image 1 on a utilitarian metal pole, front-readable, around a quarter frame width. Center/right: a covered arms-and-spares wholesaler with secured crates and a few rack silhouettes, a loaded truck stopping at a warehouse, small R15 groups of caravan merchants and practical mixed-armour mercenaries making a business deal. A repair bay and upper-floor brokerage windows can imply services without overcrowding. Mercantile confidence with moral ambiguity, selected to show how the city sells itself as the place where goods and contracts find buyers. Not a utopia, not a tribal raider camp. No corporation logo replacing state flag, no depicted trafficking or violence, no modern national flags, no legible slogans or text, no inset, no multi-panel collage, no watermark. Continuous cinematic scene, coherent practical city architecture, same matte stylized game world.",
+    "emblemFile": "ORG-0030_emblem.png",
+    "bannerFile": "ORG-0030_banner.png",
+    "status": "两张已完成",
+    "archive": "# ORG-0030 布格拉自由邦\n\n材料终点：V08·P013569。类型：组织。\n\n【名称 / 别称】布格拉自由邦；没有在本轮确认的其他称谓。\n\n【已知身份、功能与状态】贸易军火佣兵中转势力，返途电话称大裂谷为其宗主。\n\n【限制、差异及未明确事项】宗主关系按这条情报保留。\n\n## 跨卷依据\n\n- V07｜伯尼实际接受战俘赎罪入军事顾问；称牙氏族坦克由金牙直领不分各千人队，布格拉为贸易军火佣兵中转。〔FACT-V07-0019；V07·P004983—P006664、V07·P007235—P008300｜07 松林峪阻援、火力升级与装甲集结〕\n\n## 来源\n\n- FACT-V07-0019｜V07·P004983—P006664、V07·P007235—P008300｜07 松林峪阻援、火力升级与装甲集结（[分卷事实](C:/Users/Leung/vwork/b2g-zyx/Novel_World_Reconstruction_v3/01_分卷事实/V07_分卷事实.md)）\n\n其他尺寸、数量、制造过程、内部层级或感官细节仅以这些已有材料为限；未提供的不补齐。以上不是个人档案或后续情节预测。\n",
+    "originalExcerpts": [
+      {
+        "volume": "V07",
+        "start": "P009708",
+        "end": "P009730",
+        "text": "P009708 　　“大概是前年，我所在的第14万人队在与大裂谷作战时遭遇重创，我几乎以为我死定了，但我很幸运的活了下来……”\nP009709 　　“你确实很幸运，直接说重点吧。”楚光瞧了眼他身上的绷带继续说道。\nP009710 　　“……我没有回去和远征军汇合，也根本回不去，所以就去了大裂谷南边的布格拉自由邦，在当地谋了一份机械修理师的差事儿，勉强能养活自己。然而有一天我去酒馆喝酒，恰好碰到了我曾经的上司，他说要给我介绍一份新工作。”\nP009711 　　“给掠夺者开坦克？”\nP009712 　　巴格罗沉默了一会儿，但最终还是选择了坦白。\nP009713 　　“他告诉我，他有个朋友弄到了一批坦克，但找不到专业的驾驶员，如果我有兴趣重操旧业，并替他们训练一批专业的驾驶员，他们愿意一次性支付我五万第纳尔的酬劳。如果有出勤任务，会有额外的奖励，而且说不定有机会回家。”\nP009714 　　楚光轻轻抬了下眉毛。\nP009715 　　“然后你就去了金牙那儿？”\nP009716 　　巴格罗摇了摇头，无奈地说道。\nP009717 　　“那是之后的事情了……起初他把我介绍给了一家当地有名的军火商，名字叫‘火石’。我起初以为自己会拿到一份训练教官兼保镖的工作，结果没想到他们把我和坦克打包一起卖给了嚼骨部落。”\nP009718 　　楚光打趣道。\nP009719 　　“这么说你还是个受害者咯？”\nP009720 　　“我无意为自己辩解，理由这种东西根本不重要，不是吗？”巴格罗平静地说道，“输了就是输了，我输给了你们，也输给了自己的傲慢……现在我是你们的俘虏，仅此而已。”\nP009721 　　这家伙还挺有个性。\nP009722 　　楚光并没有完全相信这家伙的说辞，也的确不怎么关心他是自愿还是被迫成为掠夺者。\nP009723 　　不过从他的这番话中，楚光却是捕捉到了两条令他在意的情报。\nP009724 　　【布格拉自由邦的军火商与嚼骨部落的关系或许并非生意上的往来那么简单，后者疑似受到前者的扶持。】\nP009725 　　以及——\nP009726 　　【军团极有可能牵扯其中！】\nP009727 　　虽然很早之前，楚光就听说过布格拉自由邦的事情，说是北边的某个靠近大裂谷的幸存者聚居地，有一群替掠夺者处理赃物、顺便卖些好东西给他们的行商。\nP009728 　　不过当时楚光并没有将这件事儿放在心上，毕竟红河镇之前也和嚼骨部落做过买卖，这种事情在废土上太常见了。\nP009729 　　现在看来，这事儿或许并不如自己想象中的那么“单纯”。\nP009730 　　楚光随手记下了这条线索，看着巴格罗继续问道。"
+      },
+      {
+        "volume": "V07",
+        "start": "P010934",
+        "end": "P010936",
+        "text": "P010934 　　根据从俘虏那里收集到的情报，牙氏族主要的贸易对象是布格拉自由邦。\nP010935 　　那里背靠着大裂谷，又位于河谷行省北部平原的交通枢纽，理论上任何人都有可能在那做买卖，很难锁定具体的卖家是谁。\nP010936 　　不过话说回来，一个掠夺者买这东西是闹哪样啊……"
+      },
+      {
+        "volume": "V07",
+        "start": "P013042",
+        "end": "P013063",
+        "text": "P013042 　　“你见过那位管理者了？”\nP013043 　　“是的。”\nP013044 　　西洲市北部的荒原，远处隐隐约约能够听见几声狼嚎。\nP013045 　　站在简易搭建的帐篷旁边，泽维尔手中捧着电话，神态写满了恭敬。\nP013046 　　此刻与他通话的人，正是布格拉自由邦的无冕之王、火石集团的总裁兼董事长西格玛。\nP013047 　　简单的询问过那个管理者的情况之后，西格玛继续问起了他最关心的事情。\nP013048 　　“迪隆呢。”\nP013049 　　泽维尔语气沉重道。\nP013050 　　“迪隆……死了。”\nP013051 　　通讯频道短暂的沉默。\nP013052 　　西格玛缓缓问道。\nP013053 　　“怎么死的？”\nP013054 　　泽维尔如实回答道。\nP013055 　　“新联盟的人说，他死在了战场上，就地埋在了松林附近的战壕……”\nP013056 　　说这些话的时候，泽维尔的心情充满了紧张。\nP013057 　　虽然大裂谷是布格拉自由邦的宗主，但军团却是火石集团的主要贸易伙伴。\nP013058 　　他并不知道老板和军团达成了什么协议，但直觉告诉他，那个迪隆的身份应该不简单。\nP013059 　　不过幸好老板是个明事理的人，并没有将气撒在他的头上。\nP013060 　　花了一点时间平复情绪，通讯频道那头的声音继续问道。\nP013061 　　“……贸易协定？”\nP013062 　　泽维尔惭愧地说道。\nP013063 　　“没谈拢……他们仅同意在关税上给我们一定的优惠，而且只针对非军火产品。至于勘探权和采矿权，他们不打算和我们谈。”"
+      }
+    ]
+  }
+]

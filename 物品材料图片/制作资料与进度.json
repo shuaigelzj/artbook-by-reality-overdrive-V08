@@ -9828,17 +9828,8 @@
     "model": "物品材料图片/ITM-0049_model.png",
     "status": "已生成",
     "reuseFrom": "ITM-0048",
-    "representative": "药丸变体：蓝色抗辐剂；紫色消辐剂",
-    "variants": {
-      "antiRadiation": {
-        "icon": "物品材料图片/ITM-0049_icon.png",
-        "model": "物品材料图片/ITM-0049_model.png"
-      },
-      "decontamination": {
-        "icon": "物品材料图片/ITM-0049_decon_icon.png",
-        "model": "物品材料图片/ITM-0049_decon_model.png"
-      }
-    }
+    "representative": "蓝色药瓶与药丸（统一代表图）",
+    "imageSetPolicy": "按用户要求仅保留一组蓝色图鉴图标与建模参考图；不另生成消辐剂配色组。"
   },
   {
     "id": "ITM-0050",
