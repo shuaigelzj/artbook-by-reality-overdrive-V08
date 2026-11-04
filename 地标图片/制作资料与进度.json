@@ -1,0 +1,1915 @@
+[
+  {
+    "id": "LMK-0001",
+    "type": "LOC",
+    "classification": "LANDMARK",
+    "name": "初始疗养院与周围环境",
+    "aliases": [],
+    "summary": "林木与湖泊包围的疗养院废墟，混凝土残墙、破窗和室内长草构成初始地表据点。 所属／关联地区：菱湖湿地公园、清泉市。 场景时期：V01初始、修缮前。 【原文场景】疗养院周围植被茂盛，附近靠湖；404入口位于大厅最内侧的电梯，地表外观是一座不起眼的疗养院。 【原文场景】破损窗户和混凝土废墟的缝隙透入阳光，地板上长草，光束中可见浮尘；三楼北侧窗口可望向院外。 【原文场景】建筑和院墙均为混凝土结构，尚处于需要修缮的状态。",
+    "limits": "地图要点：以疗养院主楼、院墙缺口、院外林地为核心；北侧树林与东南停车场按另列地标连接。 范围与缺项：这是修缮前的时间切片，不与建成前哨同时画成两座相邻据点。大厅通往地下，不能把全部避难所规模等同地表楼体。",
+    "source": "环境资料：详尽；V01·P000670—P000678；V01·P000868—P000894；V01·P000588—P000589",
+    "href": "../03_实体档案/地标/LMK-0001_初始疗养院与周围环境.md",
+    "regionIds": [
+      "REG-0003",
+      "REG-0002"
+    ],
+    "detailLevel": "详尽",
+    "physicalAnchor": "疗养院—前哨同址",
+    "phase": "V01初始、修缮前",
+    "archive": "# 初始疗养院与周围环境\n\nLMK-0001 · 地标 · 环境资料：详尽 · 所属／关联地区：菱湖湿地公园、清泉市。\n\n林木与湖泊包围的疗养院废墟，混凝土残墙、破窗和室内长草构成初始地表据点。\n\n**场景时期**：V01初始、修缮前。\n\n**同址标识**：疗养院—前哨同址。\n\n## 环境与场景依据\n\n- **原文场景**：疗养院周围植被茂盛，附近靠湖；404入口位于大厅最内侧的电梯，地表外观是一座不起眼的疗养院。（[V01·P000670—P000678](C:/Users/Leung/vwork/b2g-zyx/Novel_World_Reconstruction_v3/00_分卷原文/V01.txt)）\n\n- **原文场景**：破损窗户和混凝土废墟的缝隙透入阳光，地板上长草，光束中可见浮尘；三楼北侧窗口可望向院外。（[V01·P000868—P000894](C:/Users/Leung/vwork/b2g-zyx/Novel_World_Reconstruction_v3/00_分卷原文/V01.txt)）\n\n- **原文场景**：建筑和院墙均为混凝土结构，尚处于需要修缮的状态。（[V01·P000588—P000589](C:/Users/Leung/vwork/b2g-zyx/Novel_World_Reconstruction_v3/00_分卷原文/V01.txt)）\n\n## 地图整理要点\n\n以疗养院主楼、院墙缺口、院外林地为核心；北侧树林与东南停车场按另列地标连接。\n\n**范围与缺项**：这是修缮前的时间切片，不与建成前哨同时画成两座相邻据点。大厅通往地下，不能把全部避难所规模等同地表楼体。\n\n**关联建筑**：BLD-0001、BLD-0002；建筑档案补充功能与内部信息，本卡以环境场景为主。\n\n[返回地标入口](地标入口.md) · [集中阅读地标设定集](C:/Users/Leung/vwork/b2g-zyx/Novel_World_Reconstruction_v3/05_世界设定集/地标设定集.md)\n",
+    "excerpts": [
+      {
+        "source": "V01·P000670—P000678",
+        "text": "　　就在玩家们讨论着的时候，身在废土的楚光还在忙碌地做着最后的准备。\n　　5公斤的青麦和一些铁质工具。\n　　楚光费了好些功夫才将这些东西，在不引人注意的情况下从贝特街搬到了三公里外的湿地公园。\n　　404号避难所就藏在这座公园的地下，入口在一座其貌不扬的疗养院内。\n　　这里的植被繁多，而且还靠着湖，理论上应该有不少野生动物在这片区域活动。\n　　靠近这里之后楚光便非常小心，提防着周围可能存在的危险。\n　　不过所幸的是，意外并没有发生。\n　　检查了在疗养院门口做的标记，确认没有异种或者掠夺者趁他不在的时候溜进去，楚光伸出手中带尖儿的水管顶开了门，小心地走了进去。\n　　404号避难所的入口在疗养院大厅最内侧的那台电梯，也只有那台电梯的表盘上写着B1层的标识。"
+      },
+      {
+        "source": "V01·P000868—P000894",
+        "text": "　　电梯停稳。\n　　看着越过残缺的窗户，洒在电梯前的阳光，四名玩家又是齐齐发出了没见过世面的惊叹。\n　　“卧槽……”\n　　“这光！这墙！这，这这这……”\n　　“这也太牛逼了！”\n　　“阳光从混凝土废墟的缝隙中穿过，照在钻出地板的小草上，肉眼可见的尘糜在光束中浮动……每一帧都是艺术，每一秒都是经费的燃烧！”\n　　“牛逼！还是咱日哥有文化！”\n　　“滚，叫爷方哥！”\n　　“好的来日兄。”\n　　“……”\n　　一群没见过世面的家伙……\n　　楚光觉得有些好笑，但也能理解，故装作什么也没听见，履行自己身为NPC的职责，带着他们来到了疗养院外。\n　　看着放在地上的工具，楚光转过身面向他们。\n　　“如你们眼前所见，核战已经结束了两百年。”\n　　“我们现在所在的地方位于清泉市北部远郊，离核弹坑很远。除非是碰上‘发光雨’或者肉眼可见的放射云，不用太担心伽马值过量的问题。”\n　　“避难所不可能永远庇护我们，我们的文明也不可能永远躲藏在废墟之下。记住，我们是重返地表的先头部队，在我们的身后还有成千上万的人等待着我们的好消息，没有时间可以耽搁。”\n　　“我们现在要做的第一件事儿，就是修缮我们脚下的这座疗养院，在这片废墟上建立一座前哨。”\n　　“它将成为我们重返地表的桥头堡。”\n　　“交给你们一个任务，捡起地上的斧子，去外面砍些木头回来。”\n　　“在冬天来临之前，我们要储备足够多的燃料，同时还要修好我们周围的这些破墙。”\n　　“记得别走太远，遇到异种不要轻举妄动，立刻撤回。”\n　　“行动！”\n　　楚光原本以为自己需要费一番口舌。\n　　结果没想到，这些玩家比自己想象中的还要听话，干脆利落地拎起斧子出去干活儿了。\n　　那迅速的动作，简直像巴不得自己赶紧说完，生怕耽搁了自己干活儿。\n　　“主人，这些家伙真的没问题吗？”跟在一旁的小柒表示了自己的担忧，它总觉得这些克隆人脑袋不太正常。\n　　“所以我才让你也跟出来，”楚光抬头看了一眼身后的疗养院，停顿片刻，继续说道，“你去三楼正北方的窗户看着，如果他们遭遇状况，或者走得太远，你提醒我一声。”"
+      },
+      {
+        "source": "V01·P000588—P000589",
+        "text": "　　“避难所上方的疗养院废墟可以利用起来，还有建筑周围的围墙，都是混凝土结构……有玩家可以使唤的话，在附近搜集些材料，修缮难度应该不会太大。”\n　　“疗养院附近是湿地公园，搜集金属废品不太方便，但周围的植被还算茂盛，取暖的燃料应该不会太缺，除此之外木头还能作为修补建筑和制作家具的材料……斧头！对，还得买四把斧子。”"
+      }
+    ],
+    "scene": "地标图片/LMK-0001_scene.png",
+    "layout": "地标图片/LMK-0001_layout.png",
+    "status": "已完成两张",
+    "images": {
+      "scene": "地标图片/LMK-0001_scene.png",
+      "layout": "地标图片/LMK-0001_layout.png"
+    },
+    "selectedVisual": "Initial, unrepaired sanitarium: a modest THREE-STOREY cracked concrete main building and broken courtyard wall in lush woodland beside a lake. Focus on the abandoned entrance courtyard; grass through paving and broken windows. No repaired outpost or exposed underground megavault.",
+    "spatialCore": "Main building inside an incomplete courtyard wall; woodland wraps back and north; lake glimpsed beyond trees. One clear entrance gap.",
+    "conceptual": false
+  },
+  {
+    "id": "LMK-0002",
+    "type": "LOC",
+    "classification": "LANDMARK",
+    "name": "建设后的前哨基地",
+    "aliases": [],
+    "summary": "围墙内以疗养院为核心的前哨聚居点，主路、作坊、土窑和日益密集的生产活动呈现重建后的面貌。 所属／关联地区：菱湖湿地公园、曙光城、清泉市。 场景时期：V01开始建设，V03—V04前哨布局。 【原文场景】早期围墙外已有四座半人高土炉和一座约一人高半球形土窑，分别用于烧炭和煅烧。 【原文场景】按当时围墙计算长宽均一百米出头；疗养院南侧划出五米宽主路，再沿路分配作坊地块。 【原文场景】南门进入后，南侧工业地段有冒烟的烟囱与半掩厂房，金属敲击声从内部传出。",
+    "limits": "地图要点：保存早期围墙内布局尺度，主楼与主路作为定位轴；南侧作坊属于此点的局部，远处新工业区另见轮胎厂。 范围与缺项：建成是相对初始废墟而言；不可把不同卷的炉窑、作坊和更晚城市规划全部画成同一时期已完成设施。",
+    "source": "环境资料：详尽；V01·P002320—P002329；V03·P001470—P001475；V04·P006351—P006356",
+    "href": "../03_实体档案/地标/LMK-0002_建设后的前哨基地.md",
+    "regionIds": [
+      "REG-0003",
+      "REG-0008",
+      "REG-0002"
+    ],
+    "detailLevel": "详尽",
+    "physicalAnchor": "疗养院—前哨同址",
+    "phase": "V01开始建设，V03—V04前哨布局",
+    "archive": "# 建设后的前哨基地\n\nLMK-0002 · 地标 · 环境资料：详尽 · 所属／关联地区：菱湖湿地公园、曙光城、清泉市。\n\n围墙内以疗养院为核心的前哨聚居点，主路、作坊、土窑和日益密集的生产活动呈现重建后的面貌。\n\n**场景时期**：V01开始建设，V03—V04前哨布局。\n\n**同址标识**：疗养院—前哨同址。\n\n## 环境与场景依据\n\n- **原文场景**：早期围墙外已有四座半人高土炉和一座约一人高半球形土窑，分别用于烧炭和煅烧。（[V01·P002320—P002329](C:/Users/Leung/vwork/b2g-zyx/Novel_World_Reconstruction_v3/00_分卷原文/V01.txt)）\n\n- **原文场景**：按当时围墙计算长宽均一百米出头；疗养院南侧划出五米宽主路，再沿路分配作坊地块。（[V03·P001470—P001475](C:/Users/Leung/vwork/b2g-zyx/Novel_World_Reconstruction_v3/00_分卷原文/V03.txt)）\n\n- **原文场景**：南门进入后，南侧工业地段有冒烟的烟囱与半掩厂房，金属敲击声从内部传出。（[V04·P006351—P006356](C:/Users/Leung/vwork/b2g-zyx/Novel_World_Reconstruction_v3/00_分卷原文/V04.txt)）\n\n## 地图整理要点\n\n保存早期围墙内布局尺度，主楼与主路作为定位轴；南侧作坊属于此点的局部，远处新工业区另见轮胎厂。\n\n**范围与缺项**：建成是相对初始废墟而言；不可把不同卷的炉窑、作坊和更晚城市规划全部画成同一时期已完成设施。\n\n**关联建筑**：BLD-0001、BLD-0002；建筑档案补充功能与内部信息，本卡以环境场景为主。\n\n[返回地标入口](地标入口.md) · [集中阅读地标设定集](C:/Users/Leung/vwork/b2g-zyx/Novel_World_Reconstruction_v3/05_世界设定集/地标设定集.md)\n",
+    "excerpts": [
+      {
+        "source": "V01·P002320—P002329",
+        "text": "　　不止如此。\n　　只见在那疗养院的围墙外面，还杵着四座半人高的土炉子，以及一座约莫有一人高的半球形土窑。\n　　这……\n　　是啥？\n　　他不记得自己交代过建炉子的任务啊。\n　　“管理者大人！您总算是回来了。”看着一脸吃惊的管理者，方长笑着走上前来说道。\n　　“我在外面耽搁了一晚上，”目不转睛地盯着那几座炉子，楚光连背上扛着的东西都忘了放，“……你们这边情况如何？有遇到异种或者其他幸存者吗？”\n　　“一切正常！没有任何意外情况！”\n　　方长满面红光地向楚光汇报了他们的工作。\n　　那四座半人高的炉子，是用来烧炭的，旁边带鼓风口的炉子，则是用来高温煅烧水泥的粗料。"
+      },
+      {
+        "source": "V03·P001470—P001475",
+        "text": "　　做完了这些事儿之后，外面套上一件鹿皮大衣的楚光，接着走去了疗养院南边的工业区。\n　　只见他搬来四根木头，两根插在门口，两根贴着疗养院的楼，两点一线，量了一条5m宽的主路。\n　　整个前哨基地的面积其实不是很大，按围墙来算，长宽也就一百米出头。\n　　五米宽的主路怎么看都有些多余，但为了以后的规划，楚光还是决定把“复活点”周围的路修宽点。\n　　主路规范了出来，接着楚光像画格子一样，沿着主干道每隔一段距离便用树枝做一个标记，同时在前哨基地的草图上标出相应点位，用数字在点位之前的区域坐上记号。\n　　之后还要给圈出的地块插上牌子，与地图上画着的格子一一对应。"
+      },
+      {
+        "source": "V04·P006351—P006356",
+        "text": "　　前哨基地外，大雪稍停。\n　　背着猎弓的余虎走了一路，总算是看见了南门口的轮廓。只不过让他感到困惑的是，他总感觉今天这里的人比平时少了好多。\n　　是都忙去了吗？\n　　门口的警卫认得他的脸，例行公事地检查过通行证之后便将他放行了。\n　　工业区的烟囱还在飘着，敲打金属的声音时不时从半掩着的厂房内飘出，看样子里面应该是有人的。\n　　没在南边的工业区停留太久，余虎径直去了疗养院的主楼。"
+      }
+    ],
+    "scene": "地标图片/LMK-0002_scene.png",
+    "layout": "地标图片/LMK-0002_layout.png",
+    "status": "已完成两张",
+    "images": {
+      "scene": "地标图片/LMK-0002_scene.png",
+      "layout": "地标图片/LMK-0002_layout.png"
+    },
+    "selectedVisual": "Established early outpost around the repaired sanitarium, at the V03 workshop stage. Compact square concrete enclosure, central old main building and a broad south access lane with a few humble working sheds. Rebuilding activity, not a finished modern city; choose workshops rather than all historical furnaces. The repaired main building is the SAME THREE-STOREY sanitarium from the input image; preserve its facade proportions, entrance canopy, courtyard position, lake and forest orientation.",
+    "spatialCore": "Square enclosure around main building; south gate connects broad lane; small workshop plots along its south side. Keep open circulation.",
+    "conceptual": false
+  },
+  {
+    "id": "LMK-0003",
+    "type": "LOC",
+    "classification": "LANDMARK",
+    "name": "菱湖废弃停车场",
+    "aliases": [],
+    "summary": "树根拱裂混凝土、及膝草灌、藤蔓缠绕的锈车组成荒废停车场。 所属／关联地区：菱湖湿地公园、清泉市。 【原文场景】停车场位于疗养院东南面；树根钻破混凝土，灌木与野草已长至膝盖。 【原文场景】锈蚀车辆爬满蔓藤，破车窗内的座椅与空调出风口也长满青苔，部分引擎盖锈死。",
+    "limits": "地图要点：放在疗养院东南，突出废车阵列与侵入路面的植物；停车位数量和地块边界未明确。 范围与缺项：仅是菱湖这处停车场，不与百货楼地下车库或瑞谷图书馆停车场混并。",
+    "source": "环境资料：详尽；V01·P001617—P001620；V01·P001621—P001631",
+    "href": "../03_实体档案/地标/LMK-0003_菱湖废弃停车场.md",
+    "regionIds": [
+      "REG-0003",
+      "REG-0002"
+    ],
+    "detailLevel": "详尽",
+    "archive": "# 菱湖废弃停车场\n\nLMK-0003 · 地标 · 环境资料：详尽 · 所属／关联地区：菱湖湿地公园、清泉市。\n\n树根拱裂混凝土、及膝草灌、藤蔓缠绕的锈车组成荒废停车场。\n\n## 环境与场景依据\n\n- **原文场景**：停车场位于疗养院东南面；树根钻破混凝土，灌木与野草已长至膝盖。（[V01·P001617—P001620](C:/Users/Leung/vwork/b2g-zyx/Novel_World_Reconstruction_v3/00_分卷原文/V01.txt)）\n\n- **原文场景**：锈蚀车辆爬满蔓藤，破车窗内的座椅与空调出风口也长满青苔，部分引擎盖锈死。（[V01·P001621—P001631](C:/Users/Leung/vwork/b2g-zyx/Novel_World_Reconstruction_v3/00_分卷原文/V01.txt)）\n\n## 地图整理要点\n\n放在疗养院东南，突出废车阵列与侵入路面的植物；停车位数量和地块边界未明确。\n\n**范围与缺项**：仅是菱湖这处停车场，不与百货楼地下车库或瑞谷图书馆停车场混并。\n\n[返回地标入口](地标入口.md) · [集中阅读地标设定集](C:/Users/Leung/vwork/b2g-zyx/Novel_World_Reconstruction_v3/05_世界设定集/地标设定集.md)\n",
+    "excerpts": [
+      {
+        "source": "V01·P001617—P001620",
+        "text": "　　停车场在疗养院的东南面。\n　　两百年的时间无人问津。\n　　自然已经完全吞噬了这里。\n　　树根钻破了坚硬的混凝土地面，灌木野草丛生，已经有膝盖那么高。"
+      },
+      {
+        "source": "V01·P001621—P001631",
+        "text": "　　锈迹斑驳的车辆爬满了蔓藤，透过破损的车窗，甚至能看见爬满座椅和空调出风口的青苔。\n　　看到眼前这一切，狂风总算是明白了管理者大人的那句话。\n　　这里确实已经没有什么值得回收的东西了。\n　　夜十同样面露难色。\n　　都这副模样了，还能找个鬼的发电机。\n　　“要回去吗？”\n　　狂风沉默了一会儿，不信邪地走上前去。\n　　“来都来了。”\n　　夜十耸了耸肩，跟了过去。\n　　认识这么多年，他对这位网友最大的印象就是固执，也不知道现实里是干什么的。\n　　停车场里的不少车，引擎盖已经锈死，根本打不开。狂风在停车场里寻了一大圈，才找到了勉强能开盖的。"
+      }
+    ],
+    "scene": "地标图片/LMK-0003_scene.png",
+    "layout": "地标图片/LMK-0003_layout.png",
+    "status": "已完成两张",
+    "images": {
+      "scene": "地标图片/LMK-0003_scene.png",
+      "layout": "地标图片/LMK-0003_layout.png"
+    },
+    "selectedVisual": "Abandoned Linghu parking ground. Hero: cracked concrete parking lanes with tree roots lifting slabs, a few vine-covered rusty cars and knee-high scrub. Quiet reclaimed-by-nature scene, no multistorey garage or active settlement.",
+    "spatialCore": "A small parking patch with 5-7 old vehicles grouped along broken lanes, encroaching woodland at edges and an exit toward northwest.",
+    "conceptual": false
+  },
+  {
+    "id": "LMK-0004",
+    "type": "LOC",
+    "classification": "LANDMARK",
+    "name": "北部废工地与倾倒塔吊",
+    "aliases": [],
+    "summary": "未竣工的高层楼体、裸露地基坑和砸在楼上的塔吊，地面残存锈钢材与建筑石料。 所属／关联地区：菱湖湿地公园、清泉市。 【原文场景】沿出城高架向北可到废工地，一座楼已建至十七八层，其他大坑被判断为未完工地基。 【原文场景】报废塔吊砸在未完工大楼上形成斜坡，楼体有缺口；钢材锈蚀，袋装水泥水化变质。 【原文场景】后来明确介绍为湿地公园东北方向、沿出城高架向北的未完成工地，并有废弃手推车。",
+    "limits": "地图要点：以高架残骸通路、塔吊斜坡、半成品楼与地基坑构成垂直层次；作为公园周边资源场景挂在菱湖分组。 范围与缺项：原文给的是相对方位与行路描述，工地不一定处于公园围界内；不画确定公园边界，也不把地基坑当湖泊。",
+    "source": "环境资料：详尽；V01·P002791—P002792；V01·P002793—P002798；V01·P002811—P002813",
+    "href": "../03_实体档案/地标/LMK-0004_北部废工地与倾倒塔吊.md",
+    "regionIds": [
+      "REG-0003",
+      "REG-0002"
+    ],
+    "detailLevel": "详尽",
+    "archive": "# 北部废工地与倾倒塔吊\n\nLMK-0004 · 地标 · 环境资料：详尽 · 所属／关联地区：菱湖湿地公园、清泉市。\n\n未竣工的高层楼体、裸露地基坑和砸在楼上的塔吊，地面残存锈钢材与建筑石料。\n\n## 环境与场景依据\n\n- **原文场景**：沿出城高架向北可到废工地，一座楼已建至十七八层，其他大坑被判断为未完工地基。（[V01·P002791—P002792](C:/Users/Leung/vwork/b2g-zyx/Novel_World_Reconstruction_v3/00_分卷原文/V01.txt)）\n\n- **原文场景**：报废塔吊砸在未完工大楼上形成斜坡，楼体有缺口；钢材锈蚀，袋装水泥水化变质。（[V01·P002793—P002798](C:/Users/Leung/vwork/b2g-zyx/Novel_World_Reconstruction_v3/00_分卷原文/V01.txt)）\n\n- **原文场景**：后来明确介绍为湿地公园东北方向、沿出城高架向北的未完成工地，并有废弃手推车。（[V01·P002811—P002813](C:/Users/Leung/vwork/b2g-zyx/Novel_World_Reconstruction_v3/00_分卷原文/V01.txt)）\n\n## 地图整理要点\n\n以高架残骸通路、塔吊斜坡、半成品楼与地基坑构成垂直层次；作为公园周边资源场景挂在菱湖分组。\n\n**范围与缺项**：原文给的是相对方位与行路描述，工地不一定处于公园围界内；不画确定公园边界，也不把地基坑当湖泊。\n\n[返回地标入口](地标入口.md) · [集中阅读地标设定集](C:/Users/Leung/vwork/b2g-zyx/Novel_World_Reconstruction_v3/05_世界设定集/地标设定集.md)\n",
+    "excerpts": [
+      {
+        "source": "V01·P002791—P002792",
+        "text": "　　楚光带着夜十绕开了76号街，沿着出城高架路桥向北走了大概一里地，发现了一座废弃的工地。\n　　工地的面积很大，应该是刚动工不久的楼盘，其中一座大楼盖到了十七八层，另外几个大坑应该是正在挖的地基。"
+      },
+      {
+        "source": "V01·P002793—P002798",
+        "text": "　　施工用的器械大多已经报废，吊塔更是砸在了未完工的大楼上，形成了一道斜坡。\n　　看得出来，这房子的质量还是不错的。\n　　连吊塔都被核爆的冲击波给掀倒了，而混凝土建筑却只是被砸出了一个缺口，甚至没伤到主体结构。\n　　堆放在工地内的钢材已经锈蚀，装在袋子里的水泥也都水化变质，无法再使用。\n　　然而让人惊喜的是，楚光在这里发现了大量未使用的青灰色石子！\n　　楚光一眼便认了出来，这玩意儿是石灰石，主要成分没记错应该是碳酸钙，正好可以作为烧制水泥的原料。"
+      },
+      {
+        "source": "V01·P002811—P002813",
+        "text": "　　楚光回答说。\n　　“好消息是，湿地公园东北方向沿着出城高架一路向北，有一座未完成的工地，我们在那里发现了大量工程用的石灰石，应该是经过脱硫处理的那种。还有一些废弃的手推车，修一修应该能用。”\n　　老白的脸上浮起喜悦的表情，激动地捏紧了拳头。"
+      }
+    ],
+    "scene": "地标图片/LMK-0004_scene.png",
+    "layout": "地标图片/LMK-0004_layout.png",
+    "status": "已完成两张",
+    "images": {
+      "scene": "地标图片/LMK-0004_scene.png",
+      "layout": "地标图片/LMK-0004_layout.png"
+    },
+    "selectedVisual": "Unfinished northern construction site. Hero: a tall unfinished concrete frame, about seventeen storeys in silhouette, with a fallen tower crane leaning against it as a rough diagonal ramp. Two bare foundation pits and scattered rusty steel supply context. No filled-water lakes.",
+    "spatialCore": "Unfinished high-rise as anchor, crane forms diagonal approach; foundation pits beside it, broken elevated-road approach at the south edge.",
+    "conceptual": false
+  },
+  {
+    "id": "LMK-0005",
+    "type": "LOC",
+    "classification": "LANDMARK",
+    "name": "菱湖湖岸与林地",
+    "aliases": [],
+    "summary": "水岸、茂密林木、浅河与泥岸交替，兼有动物活动与湖岸粪石沉积。 所属／关联地区：菱湖湿地公园、清泉市。 【原文场景】疗养院附近植被繁多并靠湖，构成动物栖息和采集区域的环境基础。 【人物报告】探索者沿东至南侧湖岸行动，发现湖东一条浅河，河旁淤泥丰富；其形成于近两百年只是探索者推测。 【原文场景】湖岸存在大量异种排泄物风化形成的粪石沉积；形成时代的解释属于书内推断。",
+    "limits": "地图要点：只保留湖岸、浅河、林地的已知相邻关系；河流并非战前地图已载，不补全整湖轮廓或河口。 范围与缺项：林地与水边有异种活动，不能按景点名称补人工栈道、凉亭或整齐湖滨公园。",
+    "source": "环境资料：中等；V01·P000673—P000675；V01·P002103—P002118；V02·P001132—P001137",
+    "href": "../03_实体档案/地标/LMK-0005_菱湖湖岸与林地.md",
+    "regionIds": [
+      "REG-0003",
+      "REG-0002"
+    ],
+    "detailLevel": "中等",
+    "archive": "# 菱湖湖岸与林地\n\nLMK-0005 · 地标 · 环境资料：中等 · 所属／关联地区：菱湖湿地公园、清泉市。\n\n水岸、茂密林木、浅河与泥岸交替，兼有动物活动与湖岸粪石沉积。\n\n## 环境与场景依据\n\n- **原文场景**：疗养院附近植被繁多并靠湖，构成动物栖息和采集区域的环境基础。（[V01·P000673—P000675](C:/Users/Leung/vwork/b2g-zyx/Novel_World_Reconstruction_v3/00_分卷原文/V01.txt)）\n\n- **人物报告**：探索者沿东至南侧湖岸行动，发现湖东一条浅河，河旁淤泥丰富；其形成于近两百年只是探索者推测。（[V01·P002103—P002118](C:/Users/Leung/vwork/b2g-zyx/Novel_World_Reconstruction_v3/00_分卷原文/V01.txt)）\n\n- **原文场景**：湖岸存在大量异种排泄物风化形成的粪石沉积；形成时代的解释属于书内推断。（[V02·P001132—P001137](C:/Users/Leung/vwork/b2g-zyx/Novel_World_Reconstruction_v3/00_分卷原文/V02.txt)）\n\n## 地图整理要点\n\n只保留湖岸、浅河、林地的已知相邻关系；河流并非战前地图已载，不补全整湖轮廓或河口。\n\n**范围与缺项**：林地与水边有异种活动，不能按景点名称补人工栈道、凉亭或整齐湖滨公园。\n\n[返回地标入口](地标入口.md) · [集中阅读地标设定集](C:/Users/Leung/vwork/b2g-zyx/Novel_World_Reconstruction_v3/05_世界设定集/地标设定集.md)\n",
+    "excerpts": [
+      {
+        "source": "V01·P000673—P000675",
+        "text": "　　404号避难所就藏在这座公园的地下，入口在一座其貌不扬的疗养院内。\n　　这里的植被繁多，而且还靠着湖，理论上应该有不少野生动物在这片区域活动。\n　　靠近这里之后楚光便非常小心，提防着周围可能存在的危险。"
+      },
+      {
+        "source": "V01·P002103—P002118",
+        "text": "　　“菱湖东面有一条河，地图上没有，应该是最近两百年间形成的。整个东面到南面的湖岸线，我们都探索了一圈，异种活跃的区域和疑似巢穴的位置，都标在地图上了。”\n　　说着，狂风让夜十拿出了地图，地图上用木炭画着一些记号。\n　　有了这张地图，他们去湖边取水会安全的多。\n　　不过方长的注意力，却在他手上的那个桶。\n　　“这桶里的是……”\n　　“我在河边发现的，”将桶放在了地上，狂风继续说道，“我突然想到，可以用这玩意儿来当建筑材料，就带回来了。”\n　　“这东西当不了建筑材料，水一冲就没了，”蹲在地上，老白伸手挑了点泥浆，用拇指和食指搓了搓，脸上忽然浮起了兴奋的表情，“不过这玩意儿可是个好东西，咱们的窑炉有着落了。”\n　　“窑炉？”夜十愣了下。\n　　“我和老白商量了下，打算炼水泥。”方长说道。\n　　狂风诧异地看着他。\n　　“这……能行吗？”\n　　“有什么不行的？这不是沙盒游戏么，”老白站起身来，兴奋地说道，“泥巴倒这儿就行了，你们再去弄几桶回来，方长帮我捡些树枝，动作快点。”\n　　“好嘞。”方长干劲十足地去了。\n　　狂风和夜十相视一眼，也一脸懵逼地去了。\n　　……\n　　小河不深，但旁边的淤泥倒是不少，而且距离疗养院的位置也不算远，没费多少力气就弄了一堆回来。"
+      },
+      {
+        "source": "V02·P001132—P001137",
+        "text": "　　其实不只是鸟粪，菱湖湖岸上分布着大量的异种排泄物，这些排泄物随着时间的推移，逐渐风化沉积板结，最后形成了粪石矿。\n　　至于湖边为什么会有这么多粪石，其实也很好想明白。\n　　这颗星球刚进入废土纪元的早些年，曾经历过一段长达近半个世纪的严寒期。\n　　而在那段时期里，菱湖湿地公园作为这一带水资源最丰富的区域，曾有大量的野生动物和逃离牧场的家畜在这里生活。\n　　这些粪便应该就是当时留下来的。\n　　直到严寒期结束，无人的城区形成了更加繁茂的生态系统，这里才渐渐冷清了下来。"
+      }
+    ],
+    "scene": "地标图片/LMK-0005_scene.png",
+    "layout": "地标图片/LMK-0005_layout.png",
+    "status": "已完成两张",
+    "images": {
+      "scene": "地标图片/LMK-0005_scene.png",
+      "layout": "地标图片/LMK-0005_layout.png"
+    },
+    "selectedVisual": "Linghu natural lake shore and woodland. Hero: a quiet muddy bank where shallow water meets dense faceted trees; a small shallow stream joins from the east. Modest wetland ground, not an ornamental landscaped park. No gazebo, boardwalk or arranged animal collection.",
+    "spatialCore": "Lake occupies one edge; irregular muddy shore and contiguous woodland; one shallow feeder stream to east. Do not invent an entire lake outline.",
+    "conceptual": false
+  },
+  {
+    "id": "LMK-0006",
+    "type": "LOC",
+    "classification": "LANDMARK",
+    "name": "轮胎厂与附近工业环境",
+    "aliases": [],
+    "summary": "旧轮胎厂厂房围墙与血手营寨遗迹，后来改为烟囱、仓库、生产车间相接的工业据点。 所属／关联地区：北部工业区、曙光城、清泉市。 场景时期：V03旧营寨；V06工业改造。 【原文场景】从公园北门沿出城高架残骸向北四公里到轮胎厂；厂墙外有简陋工事，墙上涂有污秽图案和符号。 【原文场景】重建后夜间灯火通明，烟囱从厂房屋顶伸出并吞吐浓烟，仓库货物成堆，小车往返不同车间。 【原文场景】现场介绍明确这里原为血手巢穴，随后改造厂房冶炼材料、生产武器和机械。",
+    "limits": "地图要点：以同一轮胎厂用地作时间变化场景；周边厂房、仓库与货运联系合并，不再另建泛称北部工业区卡片。 范围与缺项：旧营寨与生产区分期显示；四公里是早期行路描述，与后文约五公里讲述不混算精确坐标。",
+    "source": "环境资料：详尽；V03·P002540—P002542；V06·P002641—P002648；V06·P002654—P002656",
+    "href": "../03_实体档案/地标/LMK-0006_轮胎厂与附近工业环境.md",
+    "regionIds": [
+      "REG-0006",
+      "REG-0008",
+      "REG-0002"
+    ],
+    "detailLevel": "详尽",
+    "physicalAnchor": "北部轮胎厂旧址",
+    "phase": "V03旧营寨；V06工业改造",
+    "archive": "# 轮胎厂与附近工业环境\n\nLMK-0006 · 地标 · 环境资料：详尽 · 所属／关联地区：北部工业区、曙光城、清泉市。\n\n旧轮胎厂厂房围墙与血手营寨遗迹，后来改为烟囱、仓库、生产车间相接的工业据点。\n\n**场景时期**：V03旧营寨；V06工业改造。\n\n**同址标识**：北部轮胎厂旧址。\n\n## 环境与场景依据\n\n- **原文场景**：从公园北门沿出城高架残骸向北四公里到轮胎厂；厂墙外有简陋工事，墙上涂有污秽图案和符号。（[V03·P002540—P002542](C:/Users/Leung/vwork/b2g-zyx/Novel_World_Reconstruction_v3/00_分卷原文/V03.txt)）\n\n- **原文场景**：重建后夜间灯火通明，烟囱从厂房屋顶伸出并吞吐浓烟，仓库货物成堆，小车往返不同车间。（[V06·P002641—P002648](C:/Users/Leung/vwork/b2g-zyx/Novel_World_Reconstruction_v3/00_分卷原文/V06.txt)）\n\n- **原文场景**：现场介绍明确这里原为血手巢穴，随后改造厂房冶炼材料、生产武器和机械。（[V06·P002654—P002656](C:/Users/Leung/vwork/b2g-zyx/Novel_World_Reconstruction_v3/00_分卷原文/V06.txt)）\n\n## 地图整理要点\n\n以同一轮胎厂用地作时间变化场景；周边厂房、仓库与货运联系合并，不再另建泛称北部工业区卡片。\n\n**范围与缺项**：旧营寨与生产区分期显示；四公里是早期行路描述，与后文约五公里讲述不混算精确坐标。\n\n[返回地标入口](地标入口.md) · [集中阅读地标设定集](C:/Users/Leung/vwork/b2g-zyx/Novel_World_Reconstruction_v3/05_世界设定集/地标设定集.md)\n",
+    "excerpts": [
+      {
+        "source": "V03·P002540—P002542",
+        "text": "　　一群人穿过公园北门，沿着出城高架的残骸一路向北，直接杀向了四公里外掠夺者们的老巢。\n　　这是一座废弃的轮胎厂。\n　　墙的外面放着简陋的防御工事，墙上用污秽涂抹着奇怪的图案和符号。"
+      },
+      {
+        "source": "V06·P002641—P002648",
+        "text": "　　没有辜负他的期待，楚光很快带着他来到了五公里之外的工业区。\n　　虽然夜幕已经降临，但这里仍旧是一片灯火通明，生产工作仍然在进行着。\n　　在工业区的门口下了车，李斯特很快被这里的情况给惊呆了。\n　　这里的一切远比他在菱湖湿地公园那里看到的要震撼的多！\n　　高大的烟囱从厂房的屋顶钻出，浓烟从吞吐不停，产出的货物和原材料，在仓库里堆成了小山。\n　　时不时有人推着小车，将货物从一个车间送去另个车间，或者从一座工厂送去另一座工厂。\n　　尤其是在参观过了LD-47机匣和子弹的生产车间之后，李斯特的脸上更是写满了震撼。\n　　那连接着传送带的冲压设备，就像是打印机一样，将那些零件一个接一个地印出来。"
+      },
+      {
+        "source": "V06·P002654—P002656",
+        "text": "　　“……这里原来是血手氏族的巢穴，但后来我们解决掉了那些讨厌的家伙，把他们送去了他们该去的地方。”\n　　“再然后，我们改造了整个厂房，把拾荒捡来的垃圾冶炼成钢铁、铝材或者其他合金，并用它们来制作武器、生产机械、以及任何能够帮助我们重建家园的东西。”\n　　“这里的配套虽然不如巨石城，但我们也有巨石城没有的东西。比如便利的交通，比如便宜的劳动力和原材料成本。”"
+      }
+    ],
+    "scene": "地标图片/LMK-0006_scene.png",
+    "layout": "地标图片/LMK-0006_layout.png",
+    "status": "已完成两张",
+    "images": {
+      "scene": "地标图片/LMK-0006_scene.png",
+      "layout": "地标图片/LMK-0006_layout.png"
+    },
+    "selectedVisual": "Reconstructed V06 tyre-factory industrial compound. Hero: reused old factory shell with one active chimney and a modest goods yard. One neighboring workshop and stacked freight imply a connected working industrial site. No simultaneous Blood Hand battle camp.",
+    "spatialCore": "Old walled factory shell anchors yard; warehouse and workshop flank a clear freight passage. Small active production footprint, not a vast industrial city.",
+    "conceptual": false
+  },
+  {
+    "id": "LMK-0007",
+    "type": "LOC",
+    "classification": "LANDMARK",
+    "name": "贝特街聚居地",
+    "aliases": [],
+    "summary": "废儿童乐园改成的围墙聚落，中心残缺古堡、近处砖木房与外围杂料窝棚形成明显层次。 所属／关联地区：清泉市。 【原文场景】小镇建在旧儿童乐园中，泥地窝棚由塑料板、雨棚、木头和金属支架混搭；旧围墙以铁丝及钉木板修补。 【原文场景】中央古堡在早期外观中为五层，掉漆、向市中心一侧大半坍塌，只余北半和孤塔。 【原文场景】城堡附近是统治家族关联人员的砖木房，更外围是破旧窝棚，适合画聚落的中心—边缘结构。",
+    "limits": "地图要点：位于湿地公园以南约三公里的早期直线口径，整体作一个地标，古堡作为内部节点。 范围与缺项：后文有不同城堡层数口径，保留所用时期，不补统一测量；聚落政权变化不自动意味着全部建筑重建。",
+    "source": "环境资料：详尽；V01·P000473—P000480；V01·P000481—P000484；V03·P006411—P006414",
+    "href": "../03_实体档案/地标/LMK-0007_贝特街聚居地.md",
+    "regionIds": [
+      "REG-0002"
+    ],
+    "detailLevel": "详尽",
+    "archive": "# 贝特街聚居地\n\nLMK-0007 · 地标 · 环境资料：详尽 · 所属／关联地区：清泉市。\n\n废儿童乐园改成的围墙聚落，中心残缺古堡、近处砖木房与外围杂料窝棚形成明显层次。\n\n## 环境与场景依据\n\n- **原文场景**：小镇建在旧儿童乐园中，泥地窝棚由塑料板、雨棚、木头和金属支架混搭；旧围墙以铁丝及钉木板修补。（[V01·P000473—P000480](C:/Users/Leung/vwork/b2g-zyx/Novel_World_Reconstruction_v3/00_分卷原文/V01.txt)）\n\n- **原文场景**：中央古堡在早期外观中为五层，掉漆、向市中心一侧大半坍塌，只余北半和孤塔。（[V01·P000481—P000484](C:/Users/Leung/vwork/b2g-zyx/Novel_World_Reconstruction_v3/00_分卷原文/V01.txt)）\n\n- **原文场景**：城堡附近是统治家族关联人员的砖木房，更外围是破旧窝棚，适合画聚落的中心—边缘结构。（[V03·P006411—P006414](C:/Users/Leung/vwork/b2g-zyx/Novel_World_Reconstruction_v3/00_分卷原文/V03.txt)）\n\n## 地图整理要点\n\n位于湿地公园以南约三公里的早期直线口径，整体作一个地标，古堡作为内部节点。\n\n**范围与缺项**：后文有不同城堡层数口径，保留所用时期，不补统一测量；聚落政权变化不自动意味着全部建筑重建。\n\n**关联建筑**：BLD-0011；建筑档案补充功能与内部信息，本卡以环境场景为主。\n\n[返回地标入口](地标入口.md) · [集中阅读地标设定集](C:/Users/Leung/vwork/b2g-zyx/Novel_World_Reconstruction_v3/05_世界设定集/地标设定集.md)\n",
+    "excerpts": [
+      {
+        "source": "V01·P000473—P000480",
+        "text": "　　当看到贝特街儿童乐园的牌子时，楚光总算是松了口气。\n　　前面就是“贝特街”——附近这一带比较大的幸存者聚居地，里面居住着一百多户幸存者。\n　　战争爆发之前，这里曾经是一座儿童乐园，有着大量的游乐设施和一片宽阔的草坪。\n　　战后这里被军队划为临时避难点，收容了大量从清泉市市区内出逃的市民。\n　　那些难民们后来怎么样了无从知晓，不过两百多年后的今天，这里已经发展成了一座“小镇”。\n　　人们用废弃的塑料板、雨棚以及木头和金属支架，在光秃的泥巴地上混搭成了简易的窝棚。\n　　像极了“刁民时代”里的那种。\n　　游乐园的围墙是天然的屏障，也在经过粗糙的修缮之后，扎上铁丝和带钉子的木板。"
+      },
+      {
+        "source": "V01·P000481—P000484",
+        "text": "　　游乐园的中央是一座五层高的古典城堡，很有童话的感觉。只是那表面的油漆早已掉光，面朝市中心的那一侧墙体更是垮了大半，只剩下北侧的半边和一座摇摇欲坠的孤塔。\n　　就算是童话，也绝对黑暗童话。\n　　不过即便这座建筑破成了这样，它依然是贝特街上“最豪华”的建筑。\n　　同时，也是镇长的家。"
+      },
+      {
+        "source": "V03·P006411—P006414",
+        "text": "　　镇长一家人住在贝特街中央的古堡。\n　　这座原本是作为娱乐设施修建来的城堡，如今倒是成了金字塔尖的象征。\n　　城堡里住着这座小镇的统治者，仆人、警卫、嫡系则住在城堡附近的砖木房里，再往外则是破烂不堪的窝棚。\n　　向门口执勤的警卫请示，经过简单的搜身，老查理被准许进入。"
+      }
+    ],
+    "scene": "地标图片/LMK-0007_scene.png",
+    "layout": "地标图片/LMK-0007_layout.png",
+    "status": "已完成两张",
+    "images": {
+      "scene": "地标图片/LMK-0007_scene.png",
+      "layout": "地标图片/LMK-0007_layout.png"
+    },
+    "selectedVisual": "Bet Street settlement inside a former children's theme park. Hero: battered half-collapsed five-storey faux castle with surviving northern tower; a modest band of brick-and-timber houses near it and rough mixed-material shacks farther out. No ornate intact medieval kingdom.",
+    "spatialCore": "Central ruined castle, inner band of sturdier houses, outer low shacks, patched perimeter boundary and a simple entry lane. Three readable spatial bands.",
+    "conceptual": false
+  },
+  {
+    "id": "LMK-0008",
+    "type": "LOC",
+    "classification": "LANDMARK",
+    "name": "布朗农庄与田园围墙",
+    "aliases": [],
+    "summary": "泥路通向宽铁门，低混凝土围墙上堆着工业废料，弹孔、绞刑架与农田聚落同在。 所属／关联地区：清泉市。 【原文场景】从湿地公园向东南行进，地图直距约三公里；道路曲折且需要绕废墟，实走路程更长。 【原文场景】泥路尽头有宽铁门与混凝土石块围墙，墙不足三米，上插铝合金雨棚和钢筋增高，墙面有密集弹孔，墙外绞刑架挂骸骨。 【原文场景】公路旁路牌表明战前这里是田园风格农家乐，后来成为地主农庄。",
+    "limits": "地图要点：保持农庄入口、围墙与周围农业场景为一个节点，不把地主屋、农田和整片地区机械分卡。 范围与缺项：早期压迫时期的绞刑架外观不得直接当作后期解放后的永久状态；田亩口径不统一，不按后期自报反推边界。",
+    "source": "环境资料：详尽；V02·P000017—P000022；V02·P000024—P000026；V02·P000027—P000031",
+    "href": "../03_实体档案/地标/LMK-0008_布朗农庄与田园围墙.md",
+    "regionIds": [
+      "REG-0002"
+    ],
+    "detailLevel": "详尽",
+    "archive": "# 布朗农庄与田园围墙\n\nLMK-0008 · 地标 · 环境资料：详尽 · 所属／关联地区：清泉市。\n\n泥路通向宽铁门，低混凝土围墙上堆着工业废料，弹孔、绞刑架与农田聚落同在。\n\n## 环境与场景依据\n\n- **原文场景**：从湿地公园向东南行进，地图直距约三公里；道路曲折且需要绕废墟，实走路程更长。（[V02·P000017—P000022](C:/Users/Leung/vwork/b2g-zyx/Novel_World_Reconstruction_v3/00_分卷原文/V02.txt)）\n\n- **原文场景**：泥路尽头有宽铁门与混凝土石块围墙，墙不足三米，上插铝合金雨棚和钢筋增高，墙面有密集弹孔，墙外绞刑架挂骸骨。（[V02·P000024—P000026](C:/Users/Leung/vwork/b2g-zyx/Novel_World_Reconstruction_v3/00_分卷原文/V02.txt)）\n\n- **原文场景**：公路旁路牌表明战前这里是田园风格农家乐，后来成为地主农庄。（[V02·P000027—P000031](C:/Users/Leung/vwork/b2g-zyx/Novel_World_Reconstruction_v3/00_分卷原文/V02.txt)）\n\n## 地图整理要点\n\n保持农庄入口、围墙与周围农业场景为一个节点，不把地主屋、农田和整片地区机械分卡。\n\n**范围与缺项**：早期压迫时期的绞刑架外观不得直接当作后期解放后的永久状态；田亩口径不统一，不按后期自报反推边界。\n\n[返回地标入口](地标入口.md) · [集中阅读地标设定集](C:/Users/Leung/vwork/b2g-zyx/Novel_World_Reconstruction_v3/05_世界设定集/地标设定集.md)\n",
+    "excerpts": [
+      {
+        "source": "V02·P000017—P000022",
+        "text": "　　楚光带着夜十和方长，从湿地公园的南门出发，避开了76号街，沿着破破烂烂的小路，向着东南方前进。\n　　贝特街和布朗农庄距离这里的距离差不多，地图上的直线距离都是三公里左右，区别只是一个在正南方，一个在东南方向。\n　　至于为何选择布朗农庄，理由其实也很简单。\n　　其一是那里没人认识自己，更不知道自己的底细。再一个就是前往布朗农庄的路会稍微好走一点，穿越的废墟会相对少一些。\n　　但即便如此，在废土上徒步，实际上要走的路程远远不只是三公里这个数字。\n　　一行人一路上走走停停，绕开无法通行的废墟，期间不但需要提防异种，还得小心被不怀好意的幸存者盯上。"
+      },
+      {
+        "source": "V02·P000024—P000026",
+        "text": "　　只见在那泥巴路的尽头，是一座宽敞的铁门，铁门两侧是混凝土石块堆砌的围墙。\n　　围墙不高，也就三米不到的样子，墙上插着一排铝合金雨棚和钢筋条，看样子是用工业垃圾做了外增高。\n　　墙上密密麻麻的弹孔，和墙外悬挂着骸骨的绞刑架，无一不彰显着这里的人不是好惹的。"
+      },
+      {
+        "source": "V02·P000027—P000031",
+        "text": "　　从公路边的路牌能看出来，战前这里曾经是一座田园风格的农家乐。\n　　种种迹象表明，在秩序崩溃的初期，从城区逃出来的幸存者们便占领了这里。\n　　和贝特街不同。\n　　布朗农庄的农场主布朗先生是一名真正意义上的地主，这里也不像贝特街那样有着大批的自由民。\n　　生活在这里的人只有两种身份，要么是农场主的打手，要么便是农奴。"
+      }
+    ],
+    "scene": "地标图片/LMK-0008_scene.png",
+    "layout": "地标图片/LMK-0008_layout.png",
+    "status": "已完成两张",
+    "images": {
+      "scene": "地标图片/LMK-0008_scene.png",
+      "layout": "地标图片/LMK-0008_layout.png"
+    },
+    "selectedVisual": "Brown farmstead entrance, early fortified agricultural appearance. Hero: wide iron gate in a low bullet-scarred concrete rubble wall heightened with scrap metal, muddy approach and quiet fields beyond. Omit executions, bodies and every political-history detail.",
+    "spatialCore": "Gate and patched low wall define courtyard; a few farm buildings behind, cropped fields outside and one muddy approach road.",
+    "conceptual": false
+  },
+  {
+    "id": "LMK-0009",
+    "type": "LOC",
+    "classification": "LANDMARK",
+    "name": "长久农庄围墙聚落",
+    "aliases": [],
+    "summary": "企业行动营地留下的方形围墙与四角炮楼，宿舍、仓库和外围居民安置逐步形成农庄。 所属／关联地区：曙光城。 场景时期：V04营地留置，V05—V07农庄扩展。 【原文场景】企业留下的营地有三米高钢筋混凝土围墙，四角各有五米高梯形炮楼，并保留库房和水泥。 【原文场景】早期留下二百个单间宿舍，后又建流民之家公寓；原围墙内住区与外围安置需求分开。 【原文场景】较晚的农庄北侧出现贸易站和商业街，西侧有安置村，另列细节场景可与整体挂接。",
+    "limits": "地图要点：整体围墙、角楼与农业聚落为主图节点，北街和西侧安置村可作为近景插图；不重复计作另一座农庄。 范围与缺项：营地、围墙扩建和城市归属分时期；未有完整永久道路网，不能补满全镇房屋。",
+    "source": "环境资料：详尽；V04·P007291—P007296；V05·P007368—P007374；V07·P002532—P002535",
+    "href": "../03_实体档案/地标/LMK-0009_长久农庄围墙聚落.md",
+    "regionIds": [
+      "REG-0008"
+    ],
+    "detailLevel": "详尽",
+    "physicalAnchor": "长久行动营地—农庄",
+    "phase": "V04营地留置，V05—V07农庄扩展",
+    "archive": "# 长久农庄围墙聚落\n\nLMK-0009 · 地标 · 环境资料：详尽 · 所属／关联地区：曙光城。\n\n企业行动营地留下的方形围墙与四角炮楼，宿舍、仓库和外围居民安置逐步形成农庄。\n\n**场景时期**：V04营地留置，V05—V07农庄扩展。\n\n**同址标识**：长久行动营地—农庄。\n\n## 环境与场景依据\n\n- **原文场景**：企业留下的营地有三米高钢筋混凝土围墙，四角各有五米高梯形炮楼，并保留库房和水泥。（[V04·P007291—P007296](C:/Users/Leung/vwork/b2g-zyx/Novel_World_Reconstruction_v3/00_分卷原文/V04.txt)）\n\n- **原文场景**：早期留下二百个单间宿舍，后又建流民之家公寓；原围墙内住区与外围安置需求分开。（[V05·P007368—P007374](C:/Users/Leung/vwork/b2g-zyx/Novel_World_Reconstruction_v3/00_分卷原文/V05.txt)）\n\n- **原文场景**：较晚的农庄北侧出现贸易站和商业街，西侧有安置村，另列细节场景可与整体挂接。（[V07·P002532—P002535](C:/Users/Leung/vwork/b2g-zyx/Novel_World_Reconstruction_v3/00_分卷原文/V07.txt)）\n\n## 地图整理要点\n\n整体围墙、角楼与农业聚落为主图节点，北街和西侧安置村可作为近景插图；不重复计作另一座农庄。\n\n**范围与缺项**：营地、围墙扩建和城市归属分时期；未有完整永久道路网，不能补满全镇房屋。\n\n[返回地标入口](地标入口.md) · [集中阅读地标设定集](C:/Users/Leung/vwork/b2g-zyx/Novel_World_Reconstruction_v3/05_世界设定集/地标设定集.md)\n",
+    "excerpts": [
+      {
+        "source": "V04·P007291—P007296",
+        "text": "　　赶在上午八点之前，开拓者号总算是完成了打包。\n　　不过，这座钢铁巨兽，并没有将所有东西全部带走，比如与它相距一百米左右的行动营地，便被原封不动地保留了下来。\n　　不仅如此，在遭遇军团之后的那段时间里，开拓者号还帮助当地的避难所居民们，对这座行动营地进行了二次加固。\n　　现在的行动营地，不但有着三米高的钢筋混凝土围墙，营地的四个角更是坐落着一座五米高的梯形炮楼。\n　　除此之外，还有300吨没来得及用掉的水泥，也被开拓者号的乘员们留在了营地内。\n　　和那些楚光用CR买来的物资一起，放在不同的库房里。"
+      },
+      {
+        "source": "V05·P007368—P007374",
+        "text": "　　九黎一时语塞，还想说些什么，老卢卡见状，也在一旁劝道。\n　　“扳手说的是实情，就算我们允许你们所有人都进来，也不会让情况变得更好。”\n　　扳手说的确实是实话，长久农庄根本容纳不下这么多人。\n　　流民营地的规模已经从最初的187人，发展到了现在的近300人。再加上冬柳营地的一百多户村民，人口搞不好得破500。\n　　之前开拓者号的乘员们给他们留下的宿舍，总共只有200个单间，其中一多半都已经被活动在长久农庄、榆木区这一带的玩家们租下，作为下线的场所。另一半则被用来提供给那些已经在长久农庄内找到工作的人，\n　　目前在建的两栋“流民之家”公寓，总共也只有400多个房间，就算现在立刻开工建第3座，最快也得等到来年开春的时候才能派上用场。\n　　把人放进来是治标不治本，解决不了任何问题，顶多能给他们一些心理上的安慰。"
+      },
+      {
+        "source": "V07·P002532—P002535",
+        "text": "　　“流民之家”位于曙光城的西北侧，紧靠着农庄西侧的安置村，离农庄北侧的贸易站和商业街不远。\n　　作为安置流民的宿舍式公寓，这里的人均居住面积不大，一间房里塞了四张床。\n　　不过没有人挑剔。\n　　能遮风挡雨的屋子，还有干净的床铺和被褥，每间房甚至都有窗。"
+      }
+    ],
+    "scene": "地标图片/LMK-0009_scene.png",
+    "layout": "地标图片/LMK-0009_layout.png",
+    "status": "已完成两张",
+    "images": {
+      "scene": "地标图片/LMK-0009_scene.png",
+      "layout": "地标图片/LMK-0009_layout.png"
+    },
+    "selectedVisual": "Long Farm at the early V05 expansion stage. Hero: square inherited concrete camp enclosure with four squat corner towers, simple former dormitories and agricultural ground outside. Modest refugee extensions, not a complete later city.",
+    "spatialCore": "Square walled core and four corner towers; low dormitory rows inside, limited newer housing outside one side, open farm approach.",
+    "conceptual": false
+  },
+  {
+    "id": "LMK-0010",
+    "type": "LOC",
+    "classification": "LANDMARK",
+    "name": "榆木区林墅废墟",
+    "aliases": [],
+    "summary": "松柏、榆树穿出乡间别墅，沙棘摇曳于倒屋下，积雪和森林抹平道路与院落边界。 所属／关联地区：清泉市。 【原文场景】此处在清泉与TS交界，行政属清泉；破乡墅中长出松榆，倒屋下有枯黄沙棘，公路被时间掩埋。 【原文场景】南朝菱湖、西接矮山缓丘，旧日以低楼、宽草坪和后院为特征，如今植被覆盖，难分森林与废墟边缘。",
+    "limits": "地图要点：作为自然环境主导的单一场景；保留山、缓丘与林墅的组合，不按每栋住宅拆分。 范围与缺项：积雪为该次冬季场景，不等于常年雪原；不因更靠近TS就改归TS。",
+    "source": "环境资料：详尽；V04·P004795—P004799；V04·P004800—P004808",
+    "href": "../03_实体档案/地标/LMK-0010_榆木区林墅废墟.md",
+    "regionIds": [
+      "REG-0002"
+    ],
+    "detailLevel": "详尽",
+    "archive": "# 榆木区林墅废墟\n\nLMK-0010 · 地标 · 环境资料：详尽 · 所属／关联地区：清泉市。\n\n松柏、榆树穿出乡间别墅，沙棘摇曳于倒屋下，积雪和森林抹平道路与院落边界。\n\n## 环境与场景依据\n\n- **原文场景**：此处在清泉与TS交界，行政属清泉；破乡墅中长出松榆，倒屋下有枯黄沙棘，公路被时间掩埋。（[V04·P004795—P004799](C:/Users/Leung/vwork/b2g-zyx/Novel_World_Reconstruction_v3/00_分卷原文/V04.txt)）\n\n- **原文场景**：南朝菱湖、西接矮山缓丘，旧日以低楼、宽草坪和后院为特征，如今植被覆盖，难分森林与废墟边缘。（[V04·P004800—P004808](C:/Users/Leung/vwork/b2g-zyx/Novel_World_Reconstruction_v3/00_分卷原文/V04.txt)）\n\n## 地图整理要点\n\n作为自然环境主导的单一场景；保留山、缓丘与林墅的组合，不按每栋住宅拆分。\n\n**范围与缺项**：积雪为该次冬季场景，不等于常年雪原；不因更靠近TS就改归TS。\n\n[返回地标入口](地标入口.md) · [集中阅读地标设定集](C:/Users/Leung/vwork/b2g-zyx/Novel_World_Reconstruction_v3/05_世界设定集/地标设定集.md)\n",
+    "excerpts": [
+      {
+        "source": "V04·P004795—P004799",
+        "text": "　　清泉市西北部荒原。\n　　挂满积雪的松树、榆树从破损的乡间别墅中钻出，倾倒的楼房下摇曳着枯黄的沙棘，仅有的一条公路已经被时间所掩埋不见，抬眼之处漫天落雪皑皑连成一片。\n　　这里是清泉市与TS市的交界处，同时也是河谷行省南部城市群的边陲之地。\n　　虽然在地理上，这片原始风貌的城区更靠近TS市，但在行政区划上这里却归属于人口更多、产业更密集的清泉市。\n　　它有一个原生态风味十足的名字，即榆木区。"
+      },
+      {
+        "source": "V04·P004800—P004808",
+        "text": "　　这里曾经种植着大量的榆树和松柏，如今也只有那些长青的树木们活了下来。\n　　在那个遥远的乌托邦时代，这一带曾是有名的避暑胜地。由于南朝菱湖，西面矮山、缓丘，偶尔拂过林间的清风与落霞总让这里充满诗意，那些厌倦了都市生活的两市居民，常常会来这里过上几日隐居的生活。\n　　由于这里没什么高楼，家家户户都有着篮球场大小的草坪，一些人会在后院中种些原始风味的作物，导致这一带的幸存者们，反而在废土纪元的初期自给自足了一段时间，形成了以家庭为单位的农业社区。\n　　当然，如今这里早已荒废。\n　　野蛮生长的绿植取代了文明的痕迹，短短数十年的时间，这片田园牧歌的小乡村，绿化率便从60%飙升到了100%，如今以分不清森林与废墟的边缘。\n　　事实证明，人类这种生物一旦适应了工业化，就很难脱离工业太久。\n　　即便很多人嚷嚷着厌倦了都市的喧嚣，真要是退回到农业时代，99%的人都得受不了。\n　　而那些被作为嗜好而种植的原始作物，别说是喂饱涌入这里的难民，尚且不够当地人自己吃。随着严酷的寒冬来临，很快那些大大小小的农业社区便消失在了雪幕中。\n　　由于缺少可以回收的垃圾，再加上徘徊着危险的异种，很少有幸存者光顾这里，只有一些不怕死的行商会选择在这里落脚。"
+      }
+    ],
+    "scene": "地标图片/LMK-0010_scene.png",
+    "layout": "地标图片/LMK-0010_layout.png",
+    "status": "已完成两张",
+    "images": {
+      "scene": "地标图片/LMK-0010_scene.png",
+      "layout": "地标图片/LMK-0010_layout.png"
+    },
+    "selectedVisual": "Winter elm-and-pine villa ruins at the forest edge. Hero: low collapsed suburban villas pierced by mature pines and elms, snow softening erased garden boundaries and a lost road. Natural woodland dominates the ruined houses.",
+    "spatialCore": "Two or three low villa ruins merge with woodland; barely legible old lane, gentle western hills beyond, open forest gaps rather than a city grid.",
+    "conceptual": false
+  },
+  {
+    "id": "LMK-0011",
+    "type": "LOC",
+    "classification": "LANDMARK",
+    "name": "松林峪坡谷与防线",
+    "aliases": [],
+    "summary": "两坡夹谷、矮树灌木与大片松林，战时沿南坡修壕沟和松木加固的防炮洞。 所属／关联地区：西洲市。 场景时期：自然地貌＋V07阵地改造。 【原文场景】缓坡之后是两坡之间的坡谷，坡面矮树灌木密集，往下为大片松林。 【原文场景】战时防炮洞设在战壕内，深五六米，墙壁与顶部用大腿粗的松木加固。 【原文场景】松林峪位于青石县与西洲城区之间，青石县以北约十公里，是两侧山峦植被茂密的通道。",
+    "limits": "地图要点：一处自然坡谷包含军事改造；以南坡高地、谷底通路和林带作关系图，不虚构谷宽或山高。 范围与缺项：自然态与战时壕沟要分层，不把整个西洲丘陵均称松林峪。",
+    "source": "环境资料：详尽；V07·P005293—P005303；V07·P005847—P005851；V07·P005271—P005274",
+    "href": "../03_实体档案/地标/LMK-0011_松林峪坡谷与防线.md",
+    "regionIds": [
+      "REG-0014"
+    ],
+    "detailLevel": "详尽",
+    "phase": "自然地貌＋V07阵地改造",
+    "archive": "# 松林峪坡谷与防线\n\nLMK-0011 · 地标 · 环境资料：详尽 · 所属／关联地区：西洲市。\n\n两坡夹谷、矮树灌木与大片松林，战时沿南坡修壕沟和松木加固的防炮洞。\n\n**场景时期**：自然地貌＋V07阵地改造。\n\n## 环境与场景依据\n\n- **原文场景**：缓坡之后是两坡之间的坡谷，坡面矮树灌木密集，往下为大片松林。（[V07·P005293—P005303](C:/Users/Leung/vwork/b2g-zyx/Novel_World_Reconstruction_v3/00_分卷原文/V07.txt)）\n\n- **原文场景**：战时防炮洞设在战壕内，深五六米，墙壁与顶部用大腿粗的松木加固。（[V07·P005847—P005851](C:/Users/Leung/vwork/b2g-zyx/Novel_World_Reconstruction_v3/00_分卷原文/V07.txt)）\n\n- **原文场景**：松林峪位于青石县与西洲城区之间，青石县以北约十公里，是两侧山峦植被茂密的通道。（[V07·P005271—P005274](C:/Users/Leung/vwork/b2g-zyx/Novel_World_Reconstruction_v3/00_分卷原文/V07.txt)）\n\n## 地图整理要点\n\n一处自然坡谷包含军事改造；以南坡高地、谷底通路和林带作关系图，不虚构谷宽或山高。\n\n**范围与缺项**：自然态与战时壕沟要分层，不把整个西洲丘陵均称松林峪。\n\n[返回地标入口](地标入口.md) · [集中阅读地标设定集](C:/Users/Leung/vwork/b2g-zyx/Novel_World_Reconstruction_v3/05_世界设定集/地标设定集.md)\n",
+    "excerpts": [
+      {
+        "source": "V07·P005293—P005303",
+        "text": "　　路上耽误了些时间，当燃烧兵团与白银兵团抵达任务目标的时候，太阳已经高高挂在了头顶。\n　　这会儿正是下午一点。\n　　越过正前方的缓坡，便能看见横在两坡之间的坡谷。\n　　这里就是松林峪。\n　　据说繁荣纪元早期，这儿曾是一片荒地。\n　　后来随着可控核聚变技术的突破，人联突破了能源的瓶颈，经费多的没地方花，为了刺激经济以及环保，批准了大量地貌改造工程，成片的松林才出现在了这片土地上。\n　　不过现如今，这里已经看不到任何有人存在过的痕迹。\n　　“……这儿不好挖啊。”\n　　用手中的工兵铲戳了戳地面，白银之剑望着眼前那片草皮，表情有些蛋疼。\n　　这里的地势不错，不过坡上的矮树和灌木丛太多了，往坡下走还有大片的松树林。\n　　挖战壕不是挖两条沟就完事了，深度和宽度都得刚好，甚至就连形状也有讲究。否则挖出来就是给炮兵打靶的活靶子，蹲里面的人不是被弹片刮死，就是被冲击波震死。"
+      },
+      {
+        "source": "V07·P005847—P005851",
+        "text": "　　多亏了方长老哥料事如神，已经预感到牙氏族会不讲武德地对他们阵地进行炮击，于是众人事先在战壕中挖掘了防炮洞。\n　　当第一枚炮弹刚落进阵地前方森林的时候，蹲在战壕里的玩家们立刻躲进了洞里。\n　　等那些掠夺者将炮弹修正到他们的阵地上，战壕里一个人都没有了。\n　　那些修在战壕中的防炮洞足足有五六米深，墙壁和顶部都用大腿粗的松木进行了加固，虽然外面炮声响的是震天动地，但并没有对洞里的玩家们造成任何实质性的损伤。\n　　说到底，100mm的火炮威力还是太小了。"
+      },
+      {
+        "source": "V07·P005271—P005274",
+        "text": "　　盯着呈现在头盔内的全息地图，楚光一边思忖着，一边将视线锁定在了青石县北部约莫十公里的松林峪。\n　　一大一小两个兵团的标记，半小时前已经抵达了他设置的坐标点，这会儿应该正在沿着等高线挖战壕。\n　　那里是青石县与西洲市区的中间位置，两侧山峦叠起，植被茂密，两山相夹的坡谷犹如通往地狱之门。\n　　如果在这里设置炮兵阵地，100mm火炮射程正好能将西洲市南部城区框进去。"
+      }
+    ],
+    "scene": "地标图片/LMK-0011_scene.png",
+    "layout": "地标图片/LMK-0011_layout.png",
+    "status": "已完成两张",
+    "images": {
+      "scene": "地标图片/LMK-0011_scene.png",
+      "layout": "地标图片/LMK-0011_layout.png"
+    },
+    "selectedVisual": "Pine Valley wartime south-slope position. Hero: two wooded slopes enclosing a pass, with one modest zigzag trench and timber-supported dugout entrance cut into the southern slope. Landscape first; no enormous fortress or battlefield collage.",
+    "spatialCore": "A valley passage between two vegetated slopes; pine belt at lower ground, trench along south-facing position with one small dugout node.",
+    "conceptual": false
+  },
+  {
+    "id": "LMK-0012",
+    "type": "LOC",
+    "classification": "LANDMARK",
+    "name": "远溪镇废墟与旧防线",
+    "aliases": [],
+    "summary": "森林边缘的废弃小镇，木路障、加固楼体、街道战壕和三层废墟炮位构成一体。 所属／关联地区：西洲市。 【原文场景】小镇位于森林边缘，入口设木头堆成的路障，警戒人员及鬣狗在旁。 【原文场景】废墟用木头加固，街道有战壕、路障和掩体，三层废楼上有沙袋木材加固的炮位，撤退后炮已搬走。 【原文场景】撤退后的墙面有血污图案和文字，街面狼藉、异常安静；这属于接收时的场景状态。",
+    "limits": "地图要点：整体作为一个废镇军事节点；与北方丘陵路网相连，不为每处炮位另开地标。 范围与缺项：后来联盟接收、通讯与交通设施改变此地；不把撤离时的死寂写成永久空镇。",
+    "source": "环境资料：详尽；V06·P001707—P001720；V06·P002028—P002041；V06·P002046—P002062",
+    "href": "../03_实体档案/地标/LMK-0012_远溪镇废墟与旧防线.md",
+    "regionIds": [
+      "REG-0014"
+    ],
+    "detailLevel": "详尽",
+    "archive": "# 远溪镇废墟与旧防线\n\nLMK-0012 · 地标 · 环境资料：详尽 · 所属／关联地区：西洲市。\n\n森林边缘的废弃小镇，木路障、加固楼体、街道战壕和三层废墟炮位构成一体。\n\n## 环境与场景依据\n\n- **原文场景**：小镇位于森林边缘，入口设木头堆成的路障，警戒人员及鬣狗在旁。（[V06·P001707—P001720](C:/Users/Leung/vwork/b2g-zyx/Novel_World_Reconstruction_v3/00_分卷原文/V06.txt)）\n\n- **原文场景**：废墟用木头加固，街道有战壕、路障和掩体，三层废楼上有沙袋木材加固的炮位，撤退后炮已搬走。（[V06·P002028—P002041](C:/Users/Leung/vwork/b2g-zyx/Novel_World_Reconstruction_v3/00_分卷原文/V06.txt)）\n\n- **原文场景**：撤退后的墙面有血污图案和文字，街面狼藉、异常安静；这属于接收时的场景状态。（[V06·P002046—P002062](C:/Users/Leung/vwork/b2g-zyx/Novel_World_Reconstruction_v3/00_分卷原文/V06.txt)）\n\n## 地图整理要点\n\n整体作为一个废镇军事节点；与北方丘陵路网相连，不为每处炮位另开地标。\n\n**范围与缺项**：后来联盟接收、通讯与交通设施改变此地；不把撤离时的死寂写成永久空镇。\n\n[返回地标入口](地标入口.md) · [集中阅读地标设定集](C:/Users/Leung/vwork/b2g-zyx/Novel_World_Reconstruction_v3/05_世界设定集/地标设定集.md)\n",
+    "excerpts": [
+      {
+        "source": "V06·P001707—P001720",
+        "text": "　　坐落在森林边缘的远溪镇，今天也是一如既往的宁静。\n　　站在木头堆成的路障旁边，胸前挂着“刀片”突击步枪的掠夺者，打了个哈欠。\n　　后半夜到早晨的这班岗是最难熬的。\n　　不只是困，还有饿。\n　　真的会有人在这个时候袭击吗？\n　　这个点儿除了他们这些站岗的人困的不行，其他人可都精力旺盛的一批。\n　　“这雪到底什么时候才能化？”手中拎着一条狗链的掠夺者，百无聊奈地说道。\n　　“不知道，在北边的话得等到二月初去了。”\n　　“南边也许会少一点，兴许下周？或者下下周？”\n　　“我已经迫不及待了。”\n　　“哈哈哈，巧了，我也是！”\n　　两人相视一眼，不约而同地露出了是个人都懂得笑容。\n　　甚至不只是人。\n　　就连趴在俩人旁边的鬣狗，都呲着牙发出了兴奋的喘息。"
+      },
+      {
+        "source": "V06·P002028—P002041",
+        "text": "　　站在榆木区东北侧的森林边缘，楚光手中握着望远镜，眺望了着数百米外的远溪镇，忍不住骂骂咧咧了一句。\n　　前些日子，警卫队的履带车在整个北郊巡逻，搜捕逃窜的六支百人队。其中三支被剿灭，但还是让一半以上的掠夺者给跑了。\n　　楚光估摸着，应该是一部分掠夺者跑到了狮牙这边，将黑蛇战败的消息带给了他。\n　　只不过让他没料到的是，这帮人居然这么苟。\n　　非但不A上来，反而转头就跑了！\n　　“打得过就打，打不过就跑，倒是很像那些掠夺者的作风。”\n　　站在楚光旁边，瓦努斯同样握着望远镜，观察了一会儿之后继续说道。\n　　“……不过这些防御工事却很像是军团的风格。”\n　　这些掠夺者们用木头对废墟进行了加固，并且在街道上挖掘战壕，设置了路障和掩体。\n　　这里被改造成了一座堡垒。\n　　一栋三层高的废墟上，他甚至看见了用沙袋和木头加固的炮位。\n　　从预留的“凹”型射击孔来看，大概是某种曲射的步兵炮。\n　　不过，那里的炮已经被撤走了。\n　　“看得出来他们撤的很仓促，只来得及放了一把火……大多数工事都没来得及摧毁。”"
+      },
+      {
+        "source": "V06·P002046—P002062",
+        "text": "　　接到命令之后，5支小队共50人，立刻向前推进，分别从五个方向进入了这座废弃的小镇。\n　　穿着焊了钢板的外骨骼，老白的手中端着一挺LD-47j轻机枪，枪口环绕着街边的窗口移动。\n　　他的背上还挂着一挺两米长的“骑枪”，不过这种交战距离，应该是用不上了。\n　　“这里好安静。”\n　　“驻扎在这里的掠夺者应该是撤走了，”方长看了一眼路边的人头骨，警觉地环视了一眼周围说道，“整个小镇不像是有活人的样子。”\n　　血污在墙上画成了狰狞的涂鸦，还有一些歪歪扭扭的文字和符号。\n　　看起来就像是某种邪恶宗教的仪式。\n　　没吃完的尸体被丢在路边，污秽之物在街上随处可见，满地狼藉。\n　　夜十咽了口唾沫。\n　　这里的气氛压抑的让他感觉到窒息。\n　　他宁可和掠夺者们正面干一架，也不想探索这种让他感觉到生理上不适的地方。\n　　“妈的，怎么感觉像恐怖游戏一样……”\n　　狂风环视了周围一眼，面无表情地点了点头。\n　　“嗯，生化危机版寂静岭……类似的感觉。”\n　　周围太安静了。\n　　别说是活人。\n　　连老鼠都看不到一只。"
+      }
+    ],
+    "scene": "地标图片/LMK-0012_scene.png",
+    "layout": "地标图片/LMK-0012_layout.png",
+    "status": "已完成两张",
+    "images": {
+      "scene": "地标图片/LMK-0012_scene.png",
+      "layout": "地标图片/LMK-0012_layout.png"
+    },
+    "selectedVisual": "Abandoned Yuanxi town after withdrawal. Hero: a quiet ruined street with timber-braced building shells, a wooden road barrier and one empty sandbagged rooftop position. No active battle, weapon firing or every former gun.",
+    "spatialCore": "One through-street across forest-edge ruins, a barrier at entrance and a single higher ruined building beside the route; routes remain passable.",
+    "conceptual": false
+  },
+  {
+    "id": "LMK-0013",
+    "type": "LOC",
+    "classification": "LANDMARK",
+    "name": "希望镇地下聚居地",
+    "aliases": [],
+    "summary": "西洲地铁与地下商业综合体里形成的避难聚落，布帘隔出商铺与过道，房间狭窄拥挤。 所属／关联地区：西洲市。 【原文场景】幸存者通过地铁隧道暗门出入废弃地下商场，夜间外出拾荒后清晨返回。 【原文场景】狭窄走廊连休息大厅，最好单人间空气也差；多数居民挤在商铺和过道，以布帘隔开，没有像样床铺。",
+    "limits": "地图要点：地下商业空间整体为一个地标，可画入口暗门—走廊—大厅—商铺隔间的局部连接。 范围与缺项：与锦川行省另一个同名希望镇区分；居民后迁黎明，旧聚居场景不代表卷末仍全部住地下。",
+    "source": "环境资料：详尽；V07·P007702—P007706；V07·P007803—P007815",
+    "href": "../03_实体档案/地标/LMK-0013_希望镇地下聚居地.md",
+    "regionIds": [
+      "REG-0014"
+    ],
+    "detailLevel": "详尽",
+    "archive": "# 希望镇地下聚居地\n\nLMK-0013 · 地标 · 环境资料：详尽 · 所属／关联地区：西洲市。\n\n西洲地铁与地下商业综合体里形成的避难聚落，布帘隔出商铺与过道，房间狭窄拥挤。\n\n## 环境与场景依据\n\n- **原文场景**：幸存者通过地铁隧道暗门出入废弃地下商场，夜间外出拾荒后清晨返回。（[V07·P007702—P007706](C:/Users/Leung/vwork/b2g-zyx/Novel_World_Reconstruction_v3/00_分卷原文/V07.txt)）\n\n- **原文场景**：狭窄走廊连休息大厅，最好单人间空气也差；多数居民挤在商铺和过道，以布帘隔开，没有像样床铺。（[V07·P007803—P007815](C:/Users/Leung/vwork/b2g-zyx/Novel_World_Reconstruction_v3/00_分卷原文/V07.txt)）\n\n## 地图整理要点\n\n地下商业空间整体为一个地标，可画入口暗门—走廊—大厅—商铺隔间的局部连接。\n\n**范围与缺项**：与锦川行省另一个同名希望镇区分；居民后迁黎明，旧聚居场景不代表卷末仍全部住地下。\n\n[返回地标入口](地标入口.md) · [集中阅读地标设定集](C:/Users/Leung/vwork/b2g-zyx/Novel_World_Reconstruction_v3/05_世界设定集/地标设定集.md)\n",
+    "excerpts": [
+      {
+        "source": "V07·P007702—P007706",
+        "text": "　　翌日清晨。\n　　西洲市，连接着地铁隧道的废弃地下商场。\n　　衣衫褴褛、神情麻木的幸存者们，提着干瘪的手提袋从地铁隧道的暗门陆续返回。\n　　西洲市的白天属于掠夺者。\n　　只有天完全黑下来，他们才能安全地出门拾荒。"
+      },
+      {
+        "source": "V07·P007803—P007815",
+        "text": "　　这幸存者聚居地也就五千多号人。\n　　总之多触发对话，也许能找到线索吧。\n　　简单整理了下装备，老白推开了房门，穿过狭窄的走廊，前往休息区的大厅与队友们汇合。\n　　这儿的环境很简陋，空气状况也很糟糕，但即便如此，这里也已经是希望镇条件最好的房间了。\n　　绝大多数幸存者都挤在地下商业综合体的商铺甚至是过道，用布帘子隔开彼此，或者干脆挤在一起。\n　　别说是单独的房间了，连张像样的床都没有。\n　　自从昨天上午，跟踪那个小男孩发现西洲市幸存者的藏身处之后，牛马小队一行人便在这里住下了。\n　　相比起睡在废墟里，在这儿下线无疑要安全的多，至少不用安排人轮流上线“守尸”。\n　　慑于新联盟的实力，这些抵抗组织的幸存者们对他们的态度都很尊敬，甚至于小心。\n　　除非掠夺者找到了这里，否则在这儿下线，根本不用担心安全问题。\n　　当老白来到休息区大厅的时候，方长、夜十、狂风已经在这里待了一会儿了。\n　　环视了周围一圈，老白发现不只是他的好兄弟在这里，还有两个陌生的NPC也站在这儿。\n　　“……鄙人王四杰，西洲市抵抗组织游击队队长。旁边这位是猎弓，我手底下的兵。你们停留在希望镇的这段时间里，将由他担任你们的向导。”眼瞅着四人都到齐了，王四杰做了简单的自我介绍，并将站在身旁的游击队士兵引荐给了众人。"
+      }
+    ],
+    "scene": "地标图片/LMK-0013_scene.png",
+    "layout": "地标图片/LMK-0013_layout.png",
+    "status": "已完成两张",
+    "images": {
+      "scene": "地标图片/LMK-0013_scene.png",
+      "layout": "地标图片/LMK-0013_layout.png"
+    },
+    "selectedVisual": "Hope Town's former underground settlement in a disused subway-linked shopping concourse. Hero: a cramped inhabited corridor of old shopfronts partitioned with cloth curtains, a small shared resting hall and low practical lighting. No gleaming high-tech vault.",
+    "spatialCore": "Compact cutaway of a subway-side hidden entrance feeding a narrow corridor, small concourse and curtained shop bays. Show one local connected segment only.",
+    "conceptual": false
+  },
+  {
+    "id": "LMK-0014",
+    "type": "LOC",
+    "classification": "LANDMARK",
+    "name": "马蹄镇商会驿站聚落",
+    "aliases": [],
+    "summary": "从商会围墙驻地发展出的贸易驿站，道路、木岗哨与往来商队构成主要景观。 所属／关联地区：红河镇。 【原文场景】马蹄铁商会驻地围墙外有木制岗哨；红河一带矿主和商会各自圈地，商会驻地客人多，逐渐长成驿站和聚落。 【原文场景】马蹄镇贸易站距正门不远，商队货物交流集中于入口附近。",
+    "limits": "地图要点：保留整体商会聚落，不在描写不足时单拆每个商会院子；与红河填埋矿是不同类型场景。 范围与缺项：马蹄铁商行在别处出现不意味着同一个空间；商会总部内部布局未明确。",
+    "source": "环境资料：中等；V07·P002873—P002884；V07·P002947—P002949",
+    "href": "../03_实体档案/地标/LMK-0014_马蹄镇商会驿站聚落.md",
+    "regionIds": [
+      "REG-0017"
+    ],
+    "detailLevel": "中等",
+    "archive": "# 马蹄镇商会驿站聚落\n\nLMK-0014 · 地标 · 环境资料：中等 · 所属／关联地区：红河镇。\n\n从商会围墙驻地发展出的贸易驿站，道路、木岗哨与往来商队构成主要景观。\n\n## 环境与场景依据\n\n- **原文场景**：马蹄铁商会驻地围墙外有木制岗哨；红河一带矿主和商会各自圈地，商会驻地客人多，逐渐长成驿站和聚落。（[V07·P002873—P002884](C:/Users/Leung/vwork/b2g-zyx/Novel_World_Reconstruction_v3/00_分卷原文/V07.txt)）\n\n- **原文场景**：马蹄镇贸易站距正门不远，商队货物交流集中于入口附近。（[V07·P002947—P002949](C:/Users/Leung/vwork/b2g-zyx/Novel_World_Reconstruction_v3/00_分卷原文/V07.txt)）\n\n## 地图整理要点\n\n保留整体商会聚落，不在描写不足时单拆每个商会院子；与红河填埋矿是不同类型场景。\n\n**范围与缺项**：马蹄铁商行在别处出现不意味着同一个空间；商会总部内部布局未明确。\n\n[返回地标入口](地标入口.md) · [集中阅读地标设定集](C:/Users/Leung/vwork/b2g-zyx/Novel_World_Reconstruction_v3/05_世界设定集/地标设定集.md)\n",
+    "excerpts": [
+      {
+        "source": "V07·P002873—P002884",
+        "text": "　　红河镇边缘。\n　　马蹄铁商会驻地的围墙外，一辆满载货物的卡车，缓缓通过了木头搭建的岗哨。\n　　红河镇和清泉市不同，这里没有统一的大型幸存者聚居地，矿主和商会老板们都是各自圈地，关上门各过各的。\n　　只不过相对于当地的奴隶主们而言，大多数外来的行商和佣兵，还是更愿意住在商会老板们的家里。\n　　虽然两者都是一样的黑，但比起被无良商家掏空钱包，大家果然还是更担心半夜睡觉的时候被戴上项圈和脚铐。\n　　奴隶主们的驻地没什么人去，各大商会驻地门前的客人络绎不绝。\n　　久而久之，后者便逐渐发展成了驿站，并随着常住人口的增加，渐渐变成了现在这副模样。\n　　“马蹄镇”算是红河镇周边较大的一座幸存者聚居地，也是最靠近清泉市的一座。\n　　不过这里和传统意义上的幸存者聚居地又存在着本质上的区别。\n　　一般中小型幸存者聚居地以排外居多，只是排外的程度不同。\n　　然而在这里，外来人口却占到了总人口的80%。\n　　甚至更多！"
+      },
+      {
+        "source": "V07·P002947—P002949",
+        "text": "　　马蹄镇的贸易站距离正门不远。\n　　斯斯将卡车停在了卸货点旁边，推开车门跳下来，用不标准的人联语和卸货点旁边的工作人员交流了几句，很快过来几个搬运工，帮他们将车上的货物卸了下来。\n　　负责货物结算的是一名穿着皮夹克的男人，他脖子上围着一圈棕色围巾，嘴上叼着一支卷烟。"
+      }
+    ],
+    "scene": "地标图片/LMK-0014_scene.png",
+    "layout": "地标图片/LMK-0014_layout.png",
+    "status": "已完成两张",
+    "images": {
+      "scene": "地标图片/LMK-0014_scene.png",
+      "layout": "地标图片/LMK-0014_layout.png"
+    },
+    "selectedVisual": "Horseshoe Chamber trading post settlement. Hero: merchant compound gate with a timber watch post and a modest caravan goods court, grown into a small roadside stop. Keep trade the focus, not a mine or castle.",
+    "spatialCore": "Walled merchant compound beside a road; watch post at gate, trading court near entry, a few lodging sheds toward back.",
+    "conceptual": false
+  },
+  {
+    "id": "LMK-0015",
+    "type": "LOC",
+    "classification": "LANDMARK",
+    "name": "香菱镇图书馆聚居地",
+    "aliases": [],
+    "summary": "市立图书馆与后方停车场、加固围墙围合成的聚落，前街曾被巨大死亡之爪占据。 所属／关联地区：瑞谷市。 【原文场景】位于瑞谷东区香菱街79号的市立图书馆，街边废车与建筑为接近背景。 【原文场景】沿旁街可绕到图书馆后停车场；钢条木板加固的围墙后藏有两三百户居民。 【原文场景】图书馆二楼的电梯房后来被搬空，成为进入79号避难所的连接点。",
+    "limits": "地图要点：整合图书馆、围墙与车库为一个地表聚落节点；地下79作为相连建筑，不把全地下都市混入地表村庄轮廓。 范围与缺项：正门死亡之爪属当时状态，后续战斗改变入口威胁；与西洲大学图书馆不是同一馆。",
+    "source": "环境资料：详尽；V08·P009570—P009576；V08·P009612—P009625；V08·P010229—P010233",
+    "href": "../03_实体档案/地标/LMK-0015_香菱镇图书馆聚居地.md",
+    "regionIds": [
+      "REG-0025"
+    ],
+    "detailLevel": "详尽",
+    "archive": "# 香菱镇图书馆聚居地\n\nLMK-0015 · 地标 · 环境资料：详尽 · 所属／关联地区：瑞谷市。\n\n市立图书馆与后方停车场、加固围墙围合成的聚落，前街曾被巨大死亡之爪占据。\n\n## 环境与场景依据\n\n- **原文场景**：位于瑞谷东区香菱街79号的市立图书馆，街边废车与建筑为接近背景。（[V08·P009570—P009576](C:/Users/Leung/vwork/b2g-zyx/Novel_World_Reconstruction_v3/00_分卷原文/V08.txt)）\n\n- **原文场景**：沿旁街可绕到图书馆后停车场；钢条木板加固的围墙后藏有两三百户居民。（[V08·P009612—P009625](C:/Users/Leung/vwork/b2g-zyx/Novel_World_Reconstruction_v3/00_分卷原文/V08.txt)）\n\n- **原文场景**：图书馆二楼的电梯房后来被搬空，成为进入79号避难所的连接点。（[V08·P010229—P010233](C:/Users/Leung/vwork/b2g-zyx/Novel_World_Reconstruction_v3/00_分卷原文/V08.txt)）\n\n## 地图整理要点\n\n整合图书馆、围墙与车库为一个地表聚落节点；地下79作为相连建筑，不把全地下都市混入地表村庄轮廓。\n\n**范围与缺项**：正门死亡之爪属当时状态，后续战斗改变入口威胁；与西洲大学图书馆不是同一馆。\n\n**关联建筑**：BLD-0014、BLD-0006；建筑档案补充功能与内部信息，本卡以环境场景为主。\n\n[返回地标入口](地标入口.md) · [集中阅读地标设定集](C:/Users/Leung/vwork/b2g-zyx/Novel_World_Reconstruction_v3/05_世界设定集/地标设定集.md)\n",
+    "excerpts": [
+      {
+        "source": "V08·P009570—P009576",
+        "text": "　　荒无人烟的街道散落着无人清扫的垃圾，报废的车辆横卧在杂草丛生的街道，金属灯柱上的斑驳让人分不清是锈迹还是血迹。\n　　破损的橱窗在这儿随处可见，已经瘫痪的仿生人模特身上仍挂着两百年前最潮流款式的残布片缕，唯独却看不见一个人影。\n　　这里未曾遭遇重武器的轰炸，绝大多数建筑的主体结构完好。\n　　但最终还是荒废掉了。\n　　“……应该就是前面了。”芝麻糊的手中握着一份地图，比照着周围的建筑，带头走在队伍的前面。\n　　根据科考团的情报，79号避难所的大门位于瑞谷市东区香菱街79号，那里是一座市立图书馆。\n　　至于具体的入口，资料中并未做具体说明，只在有限的文字中提到，请到达撤离区域的居民听从管理者的安排，在安保人员的指示下进入避难所。"
+      },
+      {
+        "source": "V08·P009612—P009625",
+        "text": "　　“没事，反正又不只有这一条路，”斯斯拿出纸质的地图，盯着思索了一会儿，“正面突破的风险太高……我们绕到图书馆后面的车库，从那里翻墙进去好了。”\n　　死亡之爪对危机的直觉不是一般的高。\n　　她曾经亲眼见过，前一秒还在睡觉的死爪，下一秒便跳起一巴掌拍飞射来的RPG火箭。\n　　嗯，那枚火箭弹还是她射的。\n　　之后她和尾巴，就被冲上来的死亡之爪给秒了，这都是好几个版本之前的事情了。\n　　这种强度不讲道理的生物，无法用常识去衡量。\n　　如果是在曙光城附近，她们就呼叫空袭了。然而遗憾的是，这里是远离存档点和复活点的瑞谷市。\n　　哪怕是一丁点儿风险，她们都得尽量避免。\n　　一行人改变了前进的方向，沿着隔壁的街道，绕到了市立图书馆背后的停车场。\n　　然而令斯斯没想到的是，这儿并非如外面看上去的那样没有人烟，竟然藏着一座幸存者聚居地！\n　　足足有两三百户居民生活在这里，俨然是一座规模不小的村庄。\n　　就在死亡之爪的眼皮子底下！\n　　“站住！”\n　　站在用钢条和木板加固过的围墙上，穿着镶钉外套的男人朝着墙外的众人低声喝道。"
+      },
+      {
+        "source": "V08·P010229—P010233",
+        "text": "　　就在斯斯在论坛上摇人的时候，瑞谷市市立图书馆的二楼，在香菱镇一众幸存者的忙碌下，电梯所在的房间已经被搬空。\n　　所有的书架和书本已经被转移到了三楼，真个房间只剩下光秃秃的地板，和白熊骑士团带来的行李。\n　　也许是看在血清的份上，也许是考虑到那些书本的安全。\n　　那个叫“永氏”的管理者什么也没说，默许了她们将电梯入口改造成临时营地的行为。\n　　夜色渐渐深沉。"
+      }
+    ],
+    "scene": "地标图片/LMK-0015_scene.png",
+    "layout": "地标图片/LMK-0015_layout.png",
+    "status": "已完成两张",
+    "images": {
+      "scene": "地标图片/LMK-0015_scene.png",
+      "layout": "地标图片/LMK-0015_layout.png"
+    },
+    "selectedVisual": "Xiangling library settlement in Ruigu. Hero: an aged municipal library and reinforced boundary enclosing its rear parking courtyard, with modest resident shelters inside. Select the quiet occupied phase; no giant deathclaw or underground city cutaway.",
+    "spatialCore": "Library at street edge, side lane wrapping to rear parking enclosure, strengthened wall and a compact cluster of shelters behind.",
+    "conceptual": false
+  },
+  {
+    "id": "LMK-0016",
+    "type": "LOC",
+    "classification": "LANDMARK",
+    "name": "落叶岭军团营地",
+    "aliases": [],
+    "summary": "瑞谷西北山地、森林和平原交会处的集中营地，伙房、劳工住区与军用供给共同构成内部节点。 所属／关联地区：瑞谷市。 【原文场景】军团选择瑞谷西北落叶岭附近，山峦、森林和平原交会且水源丰富处建设营地；十万人是计划容量。 【现场情报转述】营内有劳工大通铺、厨房旁四人间和伙房等生活节点，但材料没有给出彼此完整平面。 【原文场景】伙房中堆有小山般的土豆，食物加工服务大规模驻扎与供给。",
+    "limits": "地图要点：整体作为一处占领区营地；山林平原交界与水资源是选址依据，不画确定河道形状或营墙周长。 范围与缺项：计划十万不等于实际人口，分阶段人数不能合成同时规模；不能把航空陆战队独立驻地与此劳工聚落合成一座营盘。",
+    "source": "环境资料：中等；V08·P009215—P009220；V08·P009497—P009508；V08·P009781—P009788",
+    "href": "../03_实体档案/地标/LMK-0016_落叶岭军团营地.md",
+    "regionIds": [
+      "REG-0025"
+    ],
+    "detailLevel": "中等",
+    "archive": "# 落叶岭军团营地\n\nLMK-0016 · 地标 · 环境资料：中等 · 所属／关联地区：瑞谷市。\n\n瑞谷西北山地、森林和平原交会处的集中营地，伙房、劳工住区与军用供给共同构成内部节点。\n\n## 环境与场景依据\n\n- **原文场景**：军团选择瑞谷西北落叶岭附近，山峦、森林和平原交会且水源丰富处建设营地；十万人是计划容量。（[V08·P009215—P009220](C:/Users/Leung/vwork/b2g-zyx/Novel_World_Reconstruction_v3/00_分卷原文/V08.txt)）\n\n- **现场情报转述**：营内有劳工大通铺、厨房旁四人间和伙房等生活节点，但材料没有给出彼此完整平面。（[V08·P009497—P009508](C:/Users/Leung/vwork/b2g-zyx/Novel_World_Reconstruction_v3/00_分卷原文/V08.txt)）\n\n- **原文场景**：伙房中堆有小山般的土豆，食物加工服务大规模驻扎与供给。（[V08·P009781—P009788](C:/Users/Leung/vwork/b2g-zyx/Novel_World_Reconstruction_v3/00_分卷原文/V08.txt)）\n\n## 地图整理要点\n\n整体作为一处占领区营地；山林平原交界与水资源是选址依据，不画确定河道形状或营墙周长。\n\n**范围与缺项**：计划十万不等于实际人口，分阶段人数不能合成同时规模；不能把航空陆战队独立驻地与此劳工聚落合成一座营盘。\n\n[返回地标入口](地标入口.md) · [集中阅读地标设定集](C:/Users/Leung/vwork/b2g-zyx/Novel_World_Reconstruction_v3/05_世界设定集/地标设定集.md)\n",
+    "excerpts": [
+      {
+        "source": "V08·P009215—P009220",
+        "text": "　　这是麦克伦将军制订的计划。\n　　军团将在瑞谷市西北侧的落叶岭附近修建一座大型营地，收容方圆百里的幸存者。\n　　那儿是山峦、森林与平原的交汇处，水资源丰富，规划中的营地预计能够容纳10万人。\n　　等一切准备就绪，他们会一路向东，将沿途的幸存者聚居地捣毁，并将征服的人口和战利品迁徙到这儿。\n　　控制住了南部走廊的西出口，就等于卡住了落霞行省通往东部诸省的咽喉。\n　　麦克伦将军的野心并不满足于被那个格里芬将军使唤，逮住一个逃跑的企业员工和挡住东海岸派来的援军根本算不上多大的功劳。"
+      },
+      {
+        "source": "V08·P009497—P009508",
+        "text": "　　“最新消息！军团在瑞谷市西北侧落叶岭附近，建立了一座新据点，名字叫落叶营地！”\n　　泉水指挥官：“卧槽，你丫的终于冒泡了！”\n　　我最黑：“我们还以为你死外面了。”\n　　战地气氛组：“嘿嘿，出了点意外，我本来打算在外面看一眼就走来着，结果好巧不巧迎面撞上了军团的巡逻队……总之当我回过神来，人已经在那个营地里面了。”\n　　战地佬没好意思把他削了一个下午土豆的事儿也说出来，因为实在是太丢人了。\n　　不过万幸的是，军团的人并没有发现他觉醒者的身份，也没怀疑他这个说话说不利索的哑巴。\n　　反而是那个伙夫一类的NPC，对他削土豆的速度大加赞扬，夸奖他完成了其他劳工三倍的工作量，并将他从劳工们住的大通铺，调去了厨房旁边的四人间，以后专门负责削土豆了。\n　　卡卡罗特：“卧槽？！”\n　　断腿凯文：“还有这好事儿？！”\n　　夜十：“好家伙……我直呼好家伙。”\n　　峡谷在逃鼹鼠：“里面有多少人？”\n　　战地气氛组：“不多不多，估计就五六千的样子，大多是从军团从附近幸存者聚居地抓来的当地人。”"
+      },
+      {
+        "source": "V08·P009781—P009788",
+        "text": "　　落叶营地的伙房，看着眼前堆成小山的土豆，握着小刀的战地佬两眼发直，下巴恨不得贴到了地上。\n　　这是要给猪做饭吗？！\n　　这些家伙一天得吃几吨土豆？！\n　　然而……\n　　向他交代任务的那个伙夫，却根本没有在意他脸上的表情，只是用命令的口吻吩咐道。\n　　“你……是叫穿山甲对吧？这些土豆就是你今天的工作，傍晚之前我希望看到它们都洗干净剥好了皮。”\n　　“要是活儿没干完，有你们好果子吃。”\n　　扔下了这句话，那伙夫便不知去了哪儿。"
+      }
+    ],
+    "scene": "地标图片/LMK-0016_scene.png",
+    "layout": "地标图片/LMK-0016_layout.png",
+    "status": "已完成两张",
+    "images": {
+      "scene": "地标图片/LMK-0016_scene.png",
+      "layout": "地标图片/LMK-0016_layout.png"
+    },
+    "selectedVisual": "Fallen Leaf Ridge labor/logistics camp at the meeting of mountains, woodland and plain. Hero: modest barrack clusters and a shared cookhouse supply yard, water-rich terrain nearby. Depict a limited established sector, not the planned hundred-thousand-person camp.",
+    "spatialCore": "Low ridge and forest at rear; open plain in front; camp clusters around one supply/cookhouse court and a simple access track. No invented complete perimeter.",
+    "conceptual": false
+  },
+  {
+    "id": "LMK-0017",
+    "type": "LOC",
+    "classification": "LANDMARK",
+    "name": "青石县镇区道路与废楼防线",
+    "aliases": [],
+    "summary": "破公路贯通旧镇，半坍楼被原木、混凝土和杂物塞成射击堡，路障与补给道路穿插。 所属／关联地区：青石县、西洲市。 【原文场景】北侧五层残楼用原木、混凝土和杂物加固，仅留狭窄射孔；旁边是通往西洲城区的破旧公路。 【原文场景】南侧有县城边缘印刷厂作为第一道防线，构成从南方接近镇区的标志节点。 【作战情报】情报中镇区有水箱、水井和连通弹药库的道路，工事路障并未完全堵断补给通行。",
+    "limits": "地图要点：镇区道路防线整体一景，连接南入口与北出城公路；西侧矿区另立，北方松林峪是另一自然节点。 范围与缺项：不是完整县城总图；原文未给印刷厂、全部水井及弹药库的可靠坐标。",
+    "source": "环境资料：详尽；V07·P004493—P004505；V07·P004814—P004818；V07·P005257—P005260",
+    "href": "../03_实体档案/地标/LMK-0017_青石县镇区道路与废楼防线.md",
+    "regionIds": [
+      "REG-0012",
+      "REG-0014"
+    ],
+    "detailLevel": "详尽",
+    "archive": "# 青石县镇区道路与废楼防线\n\nLMK-0017 · 地标 · 环境资料：详尽 · 所属／关联地区：青石县、西洲市。\n\n破公路贯通旧镇，半坍楼被原木、混凝土和杂物塞成射击堡，路障与补给道路穿插。\n\n## 环境与场景依据\n\n- **原文场景**：北侧五层残楼用原木、混凝土和杂物加固，仅留狭窄射孔；旁边是通往西洲城区的破旧公路。（[V07·P004493—P004505](C:/Users/Leung/vwork/b2g-zyx/Novel_World_Reconstruction_v3/00_分卷原文/V07.txt)）\n\n- **原文场景**：南侧有县城边缘印刷厂作为第一道防线，构成从南方接近镇区的标志节点。（[V07·P004814—P004818](C:/Users/Leung/vwork/b2g-zyx/Novel_World_Reconstruction_v3/00_分卷原文/V07.txt)）\n\n- **作战情报**：情报中镇区有水箱、水井和连通弹药库的道路，工事路障并未完全堵断补给通行。（[V07·P005257—P005260](C:/Users/Leung/vwork/b2g-zyx/Novel_World_Reconstruction_v3/00_分卷原文/V07.txt)）\n\n## 地图整理要点\n\n镇区道路防线整体一景，连接南入口与北出城公路；西侧矿区另立，北方松林峪是另一自然节点。\n\n**范围与缺项**：不是完整县城总图；原文未给印刷厂、全部水井及弹药库的可靠坐标。\n\n[返回地标入口](地标入口.md) · [集中阅读地标设定集](C:/Users/Leung/vwork/b2g-zyx/Novel_World_Reconstruction_v3/05_世界设定集/地标设定集.md)\n",
+    "excerpts": [
+      {
+        "source": "V07·P004493—P004505",
+        "text": "　　青石县北侧。\n　　半坍塌的五层楼顶塞满了原木和混凝土，废土上随处可见的垃圾将残破的楼房塞得严严实实，只留下一挺水冷轻机枪架在狭窄的射击孔上。\n　　站在机枪堡的入口，黑风吸了吸鼻子，皱着眉头嘀咕了一句。\n　　“咋这么臭！”\n　　从刚开开始，他就闻到了一股奇怪的味道。\n　　显然不只是他一个人闻到了。\n　　蹲在机枪旁边的冯四，也跟着皱了皱鼻头。\n　　“嘶……我也闻到了。”\n　　这里是青石县北侧的岗哨。\n　　距离他们不远处，便是从青石县通往西洲市区的唯一一条公路——虽然那条路已经破烂的不能称之为路了。\n　　他们的参谋伯尼上辈子大概是和树有仇，这几个月来一直在动员他们砍树修工事，加固掩体。\n　　不只是最靠近远溪镇的南边部署了大量的火力点，连靠近西洲市的北边儿也没少兴土木。\n　　他甚至还向狮牙大人建议，分出了百来个奴隶，去修补那条破烂不堪的公路。"
+      },
+      {
+        "source": "V07·P004814—P004818",
+        "text": "　　不管是带着队友们一起开心也好，还是现实中给队友们发工资也好，只要不影响服务器规则，楚光都不会做任何干涉。\n　　视角回到前线。\n　　位于县城边缘的印刷厂，是嚼骨部落在青石县南部的第一道防线，也是卡在玩家们前进道路上的第一枚钉子。\n　　奉命驻防该区域的是由铁手率领的百人队，他们预先在这里部署了两挺12mm重机枪以及两门60mm迫击炮，并动员奴隶挖掘了总长近千米的战壕，在战壕的最前端部署了铁丝网和尖刺木桩。\n　　除此之外，二十支铁拳火箭筒和十挺7mm轻机枪被派发到了战壕中，若是从正面强攻，势必会是一场苦战，从楼顶和战壕中倾泻的交叉火力将成为步兵的噩梦。"
+      },
+      {
+        "source": "V07·P005257—P005260",
+        "text": "　　不过有一说一，以那些掠夺者的建筑水平，能够将工事修成这样已经算不错了。\n　　根据强人所难搜集到的情报，青石县各处分布着大量的水箱和水井，各弹药库之间有畅通的道路连接，并与阻滞进攻的防御工事、路障互不影响。\n　　一般的掠夺者也就挖挖矿，盖个土墙什么的，至于挖在哪儿，怎么挖，根本不会讲究那么多。\n　　几个被打残了的逃兵都能将掠夺者指导成这样，难怪这军团能在中洲大陆西部称霸一方。"
+      }
+    ],
+    "scene": "地标图片/LMK-0017_scene.png",
+    "layout": "地标图片/LMK-0017_layout.png",
+    "status": "已完成两张",
+    "images": {
+      "scene": "地标图片/LMK-0017_scene.png",
+      "layout": "地标图片/LMK-0017_layout.png"
+    },
+    "selectedVisual": "Qingshi county defensive road scene. Hero: a five-storey ruined roadside building braced with logs and concrete leaving narrow slits, beside a broken through-road and a limited barrier. No full county map or battle.",
+    "spatialCore": "Broken road passes the fortified ruined building; small barrier beside road and a southern industrial shell as a distant approach cue. Maintain supply passage.",
+    "conceptual": false
+  },
+  {
+    "id": "LMK-0018",
+    "type": "LOC",
+    "classification": "LANDMARK",
+    "name": "青石地质公园与铜钼矿旧址",
+    "aliases": [],
+    "summary": "西侧山区的旧矿区改地质公园，旁有实习基地和研究所，旧采矿设备与新开采活动可分层表现。 所属／关联地区：青石县、西洲市。 【资料转述】资料记载县西侧山区的青石地质公园前身为矿区，早期关停后改公园，旁有实习基地、地质研究所。 【原文场景】后续铜矿已开始开采和冶炼，铁路已连青石；作为古董展示的旧采矿设备已不能使用。",
+    "limits": "地图要点：作为县域内独立山地工业遗址，区分旧展览设备和本轮新开采设施；坑道图与山势仅保留未知。 范围与缺项：旧设备造型细节和矿井入口数量未给出，不凭矿业常识补露天巨坑或轨道竖井。",
+    "source": "环境资料：中等；V07·P003235—P003240；V07·P007487—P007494",
+    "href": "../03_实体档案/地标/LMK-0018_青石地质公园与铜钼矿旧址.md",
+    "regionIds": [
+      "REG-0012",
+      "REG-0014"
+    ],
+    "detailLevel": "中等",
+    "archive": "# 青石地质公园与铜钼矿旧址\n\nLMK-0018 · 地标 · 环境资料：中等 · 所属／关联地区：青石县、西洲市。\n\n西侧山区的旧矿区改地质公园，旁有实习基地和研究所，旧采矿设备与新开采活动可分层表现。\n\n## 环境与场景依据\n\n- **资料转述**：资料记载县西侧山区的青石地质公园前身为矿区，早期关停后改公园，旁有实习基地、地质研究所。（[V07·P003235—P003240](C:/Users/Leung/vwork/b2g-zyx/Novel_World_Reconstruction_v3/00_分卷原文/V07.txt)）\n\n- **原文场景**：后续铜矿已开始开采和冶炼，铁路已连青石；作为古董展示的旧采矿设备已不能使用。（[V07·P007487—P007494](C:/Users/Leung/vwork/b2g-zyx/Novel_World_Reconstruction_v3/00_分卷原文/V07.txt)）\n\n## 地图整理要点\n\n作为县域内独立山地工业遗址，区分旧展览设备和本轮新开采设施；坑道图与山势仅保留未知。\n\n**范围与缺项**：旧设备造型细节和矿井入口数量未给出，不凭矿业常识补露天巨坑或轨道竖井。\n\n**关联建筑**：BLD-0019；建筑档案补充功能与内部信息，本卡以环境场景为主。\n\n[返回地标入口](地标入口.md) · [集中阅读地标设定集](C:/Users/Leung/vwork/b2g-zyx/Novel_World_Reconstruction_v3/05_世界设定集/地标设定集.md)\n",
+    "excerpts": [
+      {
+        "source": "V07·P003235—P003240",
+        "text": "　　楚光点了点头，看向了墙上的地图。\n　　“新联盟的科考团调查过青石县的资料，其西侧山区的青石地质公园前身是青石矿业公司的矿区，其下方斑岩铜钼矿床储量丰富，预估至少是百万吨级。”\n　　查理脸上露出了惊讶的表情。\n　　“那里没被开采过？”\n　　“开采过，但只开采了一小部分，根据资料显示，该矿场在繁荣纪元早期因为成本问题被关停，之后被改造成了地质公园，旁边设有一座实习基地和地质研究所。”\n　　淡淡笑了笑，楚光继续说道。"
+      },
+      {
+        "source": "V07·P007487—P007494",
+        "text": "　　坐在指挥室内的楚光，正看着从青石县送来的报告。\n　　铜钼矿床的勘测工作已经完成，施工设备已经送到，目前铜矿的开采与冶炼工作已经在进行当中。\n　　截止到上周末，新联盟的铜矿、钼矿、硫磺等等工业原材料，已经可以实现自给自足了。\n　　运输用的铁路也已经从远溪镇铺设到了青石县。\n　　楚光这几天特别留意了一下，那几个“被派往地质公园勘探矿床”的生活职业玩家在论坛上的发言。\n　　根据他们拍摄的照片以及其他云玩家讨论的内容来看，那些人联时代早期遗留下的采矿设备让所有人都大受震撼。\n　　尤其是工业设计方面。\n　　虽然三百多年的时间过去了，那些作为古董展览的采矿设备早已无法使用，但部分设备的设计思路，仍然给他们带来了不小的启发。"
+      }
+    ],
+    "scene": "地标图片/LMK-0018_scene.png",
+    "layout": "地标图片/LMK-0018_layout.png",
+    "status": "已完成两张",
+    "images": {
+      "scene": "地标图片/LMK-0018_scene.png",
+      "layout": "地标图片/LMK-0018_layout.png"
+    },
+    "selectedVisual": "Qingshi former copper-molybdenum mine turned geological park. Hero: a weathered geological exhibition yard on mountain slopes, with one nonworking old mining-machine silhouette and a modest research building. Show old heritage rather than inventing a giant open pit.",
+    "spatialCore": "Mountain-side heritage yard, a low research/teaching block and an old equipment display patch along an access path. No speculative deep shafts or railway networks.",
+    "conceptual": false
+  },
+  {
+    "id": "LMK-0019",
+    "type": "LOC",
+    "classification": "LANDMARK",
+    "name": "垃圾城聚居点（简略）",
+    "aliases": [],
+    "summary": "人口众多的幸存者聚居点，当前八卷仅足以保留一个地理节点，尚无可据以细绘的城内风貌。 所属／关联地区：垃圾城。 【原文场景】在距清泉约七十公里荒野的一处废镇行动中，叙述说明最近的幸存者聚居地是垃圾城，人口约几十万。废镇道路与倒屋是行动地点，不能移作垃圾城城内。 【招工信息／传闻】早期可接去垃圾城商队的临时工作；当地变种人多属于招工信息中的传闻。",
+    "limits": "地图要点：只放一个标注聚居点，城墙、道路、工厂、垃圾山形态均留空；不把附近废镇和研究所画进城内。 范围与缺项：用户允许重新判断后，此城按地区归档，同时保留一个简略整体地标；资料少，不强拆城区。",
+    "source": "环境资料：简略；V08·P011108—P011112；V06·P001401—P001402",
+    "href": "../03_实体档案/地标/LMK-0019_垃圾城聚居点（简略）.md",
+    "regionIds": [
+      "REG-0019"
+    ],
+    "detailLevel": "简略",
+    "archive": "# 垃圾城聚居点（简略）\n\nLMK-0019 · 地标 · 环境资料：简略 · 所属／关联地区：垃圾城。\n\n人口众多的幸存者聚居点，当前八卷仅足以保留一个地理节点，尚无可据以细绘的城内风貌。\n\n## 环境与场景依据\n\n- **原文场景**：在距清泉约七十公里荒野的一处废镇行动中，叙述说明最近的幸存者聚居地是垃圾城，人口约几十万。废镇道路与倒屋是行动地点，不能移作垃圾城城内。（[V08·P011108—P011112](C:/Users/Leung/vwork/b2g-zyx/Novel_World_Reconstruction_v3/00_分卷原文/V08.txt)）\n\n- **招工信息／传闻**：早期可接去垃圾城商队的临时工作；当地变种人多属于招工信息中的传闻。（[V06·P001401—P001402](C:/Users/Leung/vwork/b2g-zyx/Novel_World_Reconstruction_v3/00_分卷原文/V06.txt)）\n\n## 地图整理要点\n\n只放一个标注聚居点，城墙、道路、工厂、垃圾山形态均留空；不把附近废镇和研究所画进城内。\n\n**范围与缺项**：用户允许重新判断后，此城按地区归档，同时保留一个简略整体地标；资料少，不强拆城区。\n\n[返回地标入口](地标入口.md) · [集中阅读地标设定集](C:/Users/Leung/vwork/b2g-zyx/Novel_World_Reconstruction_v3/05_世界设定集/地标设定集.md)\n",
+    "excerpts": [
+      {
+        "source": "V08·P011108—P011112",
+        "text": "　　夜幕深沉。\n　　距离清泉市70公里的荒野，25名全副武装的士兵正沿着荒废的公路前进。\n　　这里曾经是一座小镇，不过如今已经废掉，断成数截的混凝土道路两旁，堆满了倒塌的房屋和建筑废料。\n　　距离这里最近的幸存者聚居地是垃圾城，人口约莫有个几十万，不过这与他们今天此行的目标并无任何关系。\n　　藏在小镇中的废弃研究所，才是他们今天此行的目标。"
+      },
+      {
+        "source": "V06·P001401—P001402",
+        "text": "　　“去垃圾城的商队需要临时工，往返一趟两个月，给1000筹码……不过那里太危险了，听说那儿变种人成灾。”\n　　“富贵险中求，我打算去碰碰运气。”"
+      }
+    ],
+    "scene": "地标图片/LMK-0019_scene.png",
+    "layout": "地标图片/LMK-0019_layout.png",
+    "status": "已完成两张",
+    "images": {
+      "scene": "地标图片/LMK-0019_scene.png",
+      "layout": "地标图片/LMK-0019_layout.png"
+    },
+    "selectedVisual": "CONCEPTUAL distant Garbage City survivor settlement. Only its existence, scale and caravan connection are established. Use a restrained distant cluster of low, indistinct settlement masses in a broad wasteland setting, with a caravan approach as foreground focus. Do not literalize the name into giant garbage mountains, import the separate nearby ruined town or invent signature towers.",
+    "spatialCore": "Low-detail regional settlement node with a few broad massing clusters and one approach. Conceptual scale relationship only, no purported real street plan.",
+    "conceptual": true
+  },
+  {
+    "id": "LMK-0020",
+    "type": "LOC",
+    "classification": "LANDMARK",
+    "name": "清泉废都街巷风貌",
+    "aliases": [],
+    "summary": "失去日常维护的旧街区，沿街弹孔、破玻璃、空橱窗、霉烂货架和森林吞入的建筑串成废都画面。 所属／关联地区：清泉市。 【原文场景】北部多旧住宅与教育医疗配套、未完工楼盘，小作坊分布远郊，后来大多被森林覆盖；产业集群主要在城市东南。 【原文场景】沿街墙面留弹孔，玻璃破碎，橱窗货架与垃圾桶边残留骸骨；服装店内破布爬满黑霉。 【原文场景】异种白天可躲在废墟、下水道和地铁等不见光设施，夜间街面危险变化，作为声光与通行场景条件保留。",
+    "limits": "地图要点：作为未精确命名的清泉旧街区典型景观整理名，供地图背景与局部街巷插图；不指代整个行政区的统一一格。 范围与缺项：排除已拆出的菱湖五景、轮胎厂、榆木区和巨石城；不把东郊巨蛋、湿地湖岸或别城画面重复写入本卡。",
+    "source": "环境资料：详尽；V01·P003907—P003911；V01·P003915—P003925；V01·P000460—P000463",
+    "href": "../03_实体档案/地标/LMK-0020_清泉废都街巷风貌.md",
+    "regionIds": [
+      "REG-0002"
+    ],
+    "detailLevel": "详尽",
+    "archive": "# 清泉废都街巷风貌\n\nLMK-0020 · 地标 · 环境资料：详尽 · 所属／关联地区：清泉市。\n\n失去日常维护的旧街区，沿街弹孔、破玻璃、空橱窗、霉烂货架和森林吞入的建筑串成废都画面。\n\n## 环境与场景依据\n\n- **原文场景**：北部多旧住宅与教育医疗配套、未完工楼盘，小作坊分布远郊，后来大多被森林覆盖；产业集群主要在城市东南。（[V01·P003907—P003911](C:/Users/Leung/vwork/b2g-zyx/Novel_World_Reconstruction_v3/00_分卷原文/V01.txt)）\n\n- **原文场景**：沿街墙面留弹孔，玻璃破碎，橱窗货架与垃圾桶边残留骸骨；服装店内破布爬满黑霉。（[V01·P003915—P003925](C:/Users/Leung/vwork/b2g-zyx/Novel_World_Reconstruction_v3/00_分卷原文/V01.txt)）\n\n- **原文场景**：异种白天可躲在废墟、下水道和地铁等不见光设施，夜间街面危险变化，作为声光与通行场景条件保留。（[V01·P000460—P000463](C:/Users/Leung/vwork/b2g-zyx/Novel_World_Reconstruction_v3/00_分卷原文/V01.txt)）\n\n## 地图整理要点\n\n作为未精确命名的清泉旧街区典型景观整理名，供地图背景与局部街巷插图；不指代整个行政区的统一一格。\n\n**范围与缺项**：排除已拆出的菱湖五景、轮胎厂、榆木区和巨石城；不把东郊巨蛋、湿地湖岸或别城画面重复写入本卡。\n\n[返回地标入口](地标入口.md) · [集中阅读地标设定集](C:/Users/Leung/vwork/b2g-zyx/Novel_World_Reconstruction_v3/05_世界设定集/地标设定集.md)\n",
+    "excerpts": [
+      {
+        "source": "V01·P003907—P003911",
+        "text": "　　清泉市的产业集群主要集中在城市的东南角，沿三环线和二环线呈扇形分布。\n　　而菱湖湿地公园所在的北部，则是以住宅区为主，沿着出城公路甚至还能看见不少未完工的楼盘。\n　　这一片区域除了教育、医疗、交通等公共配套设施较为完善之外，并没有形成大规模的产业集群，只有一些轻工业小作坊零星分布在远离住宅的郊区，和垃圾焚烧站做邻居。\n　　而现在，它们大多被森林覆盖。\n　　核战来临之际，清泉市的北郊由于庞大的人口基数和极低的战略价值，几乎没有遭到战略武器的直接打击。"
+      },
+      {
+        "source": "V01·P003915—P003925",
+        "text": "　　即便是两百年后的今天，也能从墙上的弹孔和破碎的玻璃，窥见曾经发生在这里的惨剧。\n　　有的橱窗上、货架旁、垃圾桶里，甚至至今都还挂着未完全风化的骸骨。\n　　“嘶……这也太惨了。”\n　　看着抱在一起的一大一小两具骸骨，垃圾君于心不忍地挪开了视线，将敞开的垃圾箱门合上。\n　　夜十的反应到是还算淡定，毕竟他也不是第一次跟着楚光出远门了，对这里的情况早就习以为常，甚至还摆着老玩家的架子点评了两句。\n　　“有一说一，这游戏的场景设计做的还是挺到位的……就好像真的在末日之后的世界一样。”\n　　“这里本来就是末日之后的世界。”\n　　楚光淡淡地随口回了一句，小心观察着店铺橱窗内的情况，并在纸质地图上做了个一个记号。\n　　这里应该是一家服装店。\n　　不过货架上没剩几件衣服，唯一挂着的两条破布也爬满了黑黢黢的霉菌。\n　　显然很早以前，就有拾荒者光顾过这里。"
+      },
+      {
+        "source": "V01·P000460—P000463",
+        "text": "　　相比之下，啃食者、爬行者等等这些由生物武器造成、且突变到已经无法溯源先祖的异种，才是真正为杀戮而生的怪物。\n　　它们的神经系统被变异真菌侵蚀，白天通常躲藏在废墟、下水道、或者地铁这些不见光的设施里，只有当夜幕降临才会上街觅食。\n　　郊区的情况会比市内好很多。\n　　尤其是远郊。"
+      }
+    ],
+    "scene": "地标图片/LMK-0020_scene.png",
+    "layout": "地标图片/LMK-0020_layout.png",
+    "status": "已完成两张",
+    "images": {
+      "scene": "地标图片/LMK-0020_scene.png",
+      "layout": "地标图片/LMK-0020_layout.png"
+    },
+    "selectedVisual": "Typical Qingquan ruined city street. Hero: a broken commercial-residential street with empty shattered shop windows, weathered facades and vegetation taking over an intersection. Select environmental abandonment; no corpses, monster parade or landmark dome.",
+    "spatialCore": "A short street and one intersecting alley, a few uneven building shells, empty storefronts and vegetation pockets. Keep walkable lanes visible.",
+    "conceptual": false
+  },
+  {
+    "id": "LMK-0021",
+    "type": "LOC",
+    "classification": "LANDMARK",
+    "name": "清泉东郊第三生态保护园",
+    "aliases": [],
+    "summary": "东区密林吞噬商业楼宇，裂墙青苔与树根藤蔓包围一座巨蛋形生态建筑。 所属／关联地区：清泉市。 【原文场景】从半塌高楼可望见钢筋混凝土废墟间的林海；每条街、每栋高楼被绿色覆盖，根须蔓藤交错，楼体倾斜并布满青苔裂纹。 【原文场景】巨蛋位于清泉东区旧核心商圈之一，全称清泉市第三生态保护园，原用途为市民参观。 【原文场景】巨蛋边缘有以木板、钢条搭建的塔台，构成后来占据者的观察节点。",
+    "limits": "地图要点：以密林废街—高低楼体—巨蛋为场景层次；建筑本体和周围林海合成一处地标。 范围与缺项：不能把另一个三号雨林实验基地的约三十摄氏度与地下布局搬到此园；401入口细节仍按建筑档案。",
+    "source": "环境资料：详尽；V06·P014385—P014400；V06·P014401—P014408；V06·P014554—P014555",
+    "href": "../03_实体档案/地标/LMK-0021_清泉东郊第三生态保护园.md",
+    "regionIds": [
+      "REG-0002"
+    ],
+    "detailLevel": "详尽",
+    "archive": "# 清泉东郊第三生态保护园\n\nLMK-0021 · 地标 · 环境资料：详尽 · 所属／关联地区：清泉市。\n\n东区密林吞噬商业楼宇，裂墙青苔与树根藤蔓包围一座巨蛋形生态建筑。\n\n## 环境与场景依据\n\n- **原文场景**：从半塌高楼可望见钢筋混凝土废墟间的林海；每条街、每栋高楼被绿色覆盖，根须蔓藤交错，楼体倾斜并布满青苔裂纹。（[V06·P014385—P014400](C:/Users/Leung/vwork/b2g-zyx/Novel_World_Reconstruction_v3/00_分卷原文/V06.txt)）\n\n- **原文场景**：巨蛋位于清泉东区旧核心商圈之一，全称清泉市第三生态保护园，原用途为市民参观。（[V06·P014401—P014408](C:/Users/Leung/vwork/b2g-zyx/Novel_World_Reconstruction_v3/00_分卷原文/V06.txt)）\n\n- **原文场景**：巨蛋边缘有以木板、钢条搭建的塔台，构成后来占据者的观察节点。（[V06·P014554—P014555](C:/Users/Leung/vwork/b2g-zyx/Novel_World_Reconstruction_v3/00_分卷原文/V06.txt)）\n\n## 地图整理要点\n\n以密林废街—高低楼体—巨蛋为场景层次；建筑本体和周围林海合成一处地标。\n\n**范围与缺项**：不能把另一个三号雨林实验基地的约三十摄氏度与地下布局搬到此园；401入口细节仍按建筑档案。\n\n**关联建筑**：BLD-0009、BLD-0004；建筑档案补充功能与内部信息，本卡以环境场景为主。\n\n[返回地标入口](地标入口.md) · [集中阅读地标设定集](C:/Users/Leung/vwork/b2g-zyx/Novel_World_Reconstruction_v3/05_世界设定集/地标设定集.md)\n",
+    "excerpts": [
+      {
+        "source": "V06·P014385—P014400",
+        "text": "　　而同一时间，服务器的最强战力牛马小队，正悄悄接近了清泉市东部——那片很少有人涉足的区域。\n　　站在塌了一半的高楼上。\n　　手握望远镜的方长，望着那一片错落在钢筋混凝土废墟中的茫茫林海，脸上写满了震撼。\n　　“这也太惊人了……”\n　　-\n　　（感谢“地三鲜盖Van”的盟主打赏！！这章还差一点万字，就当是把昨天的补了吧，之前欠的更新我会还上的，没有存稿太难受了T.T。）\n　　绿色爬满了每一条街，每一栋高楼。\n　　密密麻麻的蔓藤和树木的根须纵横交错，大厦楼宇东倒西歪，混凝土墙上爬满了裂纹和青苔。\n　　难以想象，这里曾经是一片繁华的城区。\n　　原始森林和城市仿佛融合在了一起，虽然清泉市的不少城区都是如此，但远没有这里这般震撼。\n　　放眼望去，每一帧都宛如世界名画！每一个镜头都犹如艺术品！\n　　这是人类建模技术能达到的高度吗？\n　　忍不住用挂耳式摄像头拍了下来，在被眼前的景象所震撼的同时，方长的眼中也不禁浮起了一丝凝重。\n　　他们该怎么过去？\n　　一行人距离任务地点只剩下最后一公里。\n　　然而这短短的一公里，摆在高低起伏的废墟面前，却显得是如此遥不可及。"
+      },
+      {
+        "source": "V06·P014401—P014408",
+        "text": "　　“背景资料看……这里是清泉市东区的核心商圈之一，我们正前方的那座巨蛋就是我们此行的目标。”站在方长的旁边，身穿轻骑兵外骨骼的老白，对照着战前地图说道。\n　　戒烟好奇问道。\n　　“那儿是什么？”\n　　狂风：“动物园。”\n　　全称是“清泉市第三生态保护园”，整个设施的结构与他们之前在中洲航天实验基地发现的人工生物圈类似，只是在使用目的上有所区别。\n　　一个是为外层空间殖民提供研究支持，一个是给周围市民们观赏游玩。\n　　技术含量肯定是前者更高。\n　　但规模上，后者要大不少。"
+      },
+      {
+        "source": "V06·P014554—P014555",
+        "text": "　　与此同时，那座爬满藤蔓的巨蛋型建筑边缘，一座由木板和钢条搭成的塔台上，正站着一个穿着兽皮外套的男人。\n　　他的脸上涂着墨绿色的淤泥，手中握着一支人骨钻孔做的望远镜，脖子上围着一圈伪装用的藤条。"
+      }
+    ],
+    "scene": "地标图片/LMK-0021_scene.png",
+    "layout": "地标图片/LMK-0021_layout.png",
+    "status": "已完成两张",
+    "images": {
+      "scene": "地标图片/LMK-0021_scene.png",
+      "layout": "地标图片/LMK-0021_layout.png"
+    },
+    "selectedVisual": "Qingquan eastern Third Ecological Protection Park. Hero: giant EGG-SHAPED ecological building emerging among a dense forest that has swallowed high-rise ruins, mossy cracked concrete and tangled roots. One small timber watch platform at the egg's edge if useful.",
+    "spatialCore": "Large egg-shaped building anchors overgrown commercial blocks; dense tree belt and a modest approach gap. No underground base or rainforest-lab interiors.",
+    "conceptual": false
+  },
+  {
+    "id": "LMK-0022",
+    "type": "LOC",
+    "classification": "LANDMARK",
+    "name": "北郊百货大楼与地下车库",
+    "aliases": [],
+    "summary": "靠近轮胎厂工业区的废百货建筑与两层地下车库，兼具阴暗废弃空间和寒冬临时安置场景。 所属／关联地区：清泉市、曙光城。 【原文场景】废轮胎厂南侧不远有百货大楼，地下停车场分层，货梯旁有通往后部走廊的门。 【原文场景】走廊里有腐臭、异种体液及墙角真菌，属于当次清剿后的局部环境。 【原文场景】后续为安置流民重新选中这座建筑，两层地下车库很大，但通风卫生有问题；距长久约五公里、临近新工业区。",
+    "limits": "地图要点：地表楼体与地下停车层作上下节点，工业区邻接关系保留；作为综合废楼／临时庇护场景。 范围与缺项：此处只用原文“百货大楼”整理名，不凭旧索引混写成另一个新世界百货站；安置计划与实际选择楼层按时期区分。",
+    "source": "环境资料：详尽；V03·P006507—P006510；V03·P006529—P006532；V05·P007379—P007385",
+    "href": "../03_实体档案/地标/LMK-0022_北郊百货大楼与地下车库.md",
+    "regionIds": [
+      "REG-0002",
+      "REG-0008"
+    ],
+    "detailLevel": "详尽",
+    "archive": "# 北郊百货大楼与地下车库\n\nLMK-0022 · 地标 · 环境资料：详尽 · 所属／关联地区：清泉市、曙光城。\n\n靠近轮胎厂工业区的废百货建筑与两层地下车库，兼具阴暗废弃空间和寒冬临时安置场景。\n\n## 环境与场景依据\n\n- **原文场景**：废轮胎厂南侧不远有百货大楼，地下停车场分层，货梯旁有通往后部走廊的门。（[V03·P006507—P006510](C:/Users/Leung/vwork/b2g-zyx/Novel_World_Reconstruction_v3/00_分卷原文/V03.txt)）\n\n- **原文场景**：走廊里有腐臭、异种体液及墙角真菌，属于当次清剿后的局部环境。（[V03·P006529—P006532](C:/Users/Leung/vwork/b2g-zyx/Novel_World_Reconstruction_v3/00_分卷原文/V03.txt)）\n\n- **原文场景**：后续为安置流民重新选中这座建筑，两层地下车库很大，但通风卫生有问题；距长久约五公里、临近新工业区。（[V05·P007379—P007385](C:/Users/Leung/vwork/b2g-zyx/Novel_World_Reconstruction_v3/00_分卷原文/V05.txt)）\n\n## 地图整理要点\n\n地表楼体与地下停车层作上下节点，工业区邻接关系保留；作为综合废楼／临时庇护场景。\n\n**范围与缺项**：此处只用原文“百货大楼”整理名，不凭旧索引混写成另一个新世界百货站；安置计划与实际选择楼层按时期区分。\n\n[返回地标入口](地标入口.md) · [集中阅读地标设定集](C:/Users/Leung/vwork/b2g-zyx/Novel_World_Reconstruction_v3/05_世界设定集/地标设定集.md)\n",
+    "excerpts": [
+      {
+        "source": "V03·P006507—P006510",
+        "text": "　　另一边。\n　　废弃轮胎厂南侧不远处的百货大楼。\n　　五名玩家正在地下停车场的B2层，与徘徊在这里的异种们激战正酣。\n　　放射源就在地下停车场B1区货梯旁的门背后，这已经是他们第N次刷这个副本了。"
+      },
+      {
+        "source": "V03·P006529—P006532",
+        "text": "　　在门口磨蹭了一会儿，伊蕾娜最终还是拎着撬棍和破门用的炸药进去了。\n　　那是一条不宽不窄的走廊，战前大概是备用仓库一类的地方。\n　　腐臭气味儿让人窒息，地上满是啃食者和爬行者的体液，墙角还长着不知名的真菌。\n　　这糟糕的环境，怕是连变异蟑螂都会退避三舍。"
+      },
+      {
+        "source": "V05·P007379—P007385",
+        "text": "　　楚光将地图展开，盯着寻觅了一会儿，最终锁定在了距离新工业区不远处的废弃百货大楼。\n　　他的牛马小队之前曾在那里发现了一座个人庇护所，夏老板的工作台就是在那儿找到的。\n　　楚光还记得很清楚，那里有两层地下车库，空间非常大，里面的放射物和黏菌系异种之前已经被清除。\n　　虽然这段时间可能又有少量的异种扩散到了那里，但数量应该不会很多，清理起来的难度不大。\n　　尤其最关键的是，这座百货大楼的位置距离这里不算太远，只有五公里左右，而且临近新工业区，或许能给其中一部分人找些活儿干。\n　　唯一的缺陷，可能也就是通风问题和卫生问题，不过这些问题在严酷的暴风雪面前都是小问题。\n　　在明年开春之前，楚光打算将流民们暂时安置在这里，这里的条件不算很好，但总好过在荒野上自生自灭。"
+      }
+    ],
+    "scene": "地标图片/LMK-0022_scene.png",
+    "layout": "地标图片/LMK-0022_layout.png",
+    "status": "已完成两张",
+    "images": {
+      "scene": "地标图片/LMK-0022_scene.png",
+      "layout": "地标图片/LMK-0022_layout.png"
+    },
+    "selectedVisual": "Northern abandoned department store with a temporary winter shelter in its two-level parking basement. Hero: derelict retail shell and garage ramp; reveal only a local basement opening with modest bedding/shelter use. No gore, whole vault-city or unrelated New World store.",
+    "spatialCore": "Retail building over two shallow parking levels, ramp and freight access; one small occupied shelter area below. Exterior-led local cutaway, not an elaborate building floorplan.",
+    "conceptual": false
+  },
+  {
+    "id": "LMK-0023",
+    "type": "LOC",
+    "classification": "LANDMARK",
+    "name": "曙光城长久北街与贸易站",
+    "aliases": [],
+    "summary": "长久农庄北侧的砖红屋瓦商业街，摊位、店铺、商旅与巡逻队构成热闹的城市街景。 所属／关联地区：曙光城。 【原文场景】北街两侧砖红亮瓦房屋整齐排列，五金、粮菜和舶来品商户聚集，行人在摊前挑选商品。 【原文场景】拉面馆门口排长队，店员在摊后做面收钱，形成可辨的饮食街面节点。 【原文场景】原文说明长久这条北街有从城南湿地公园北街开来的分店；两处“北街”不是一个坐标。",
+    "limits": "地图要点：本卡只指长久一带的北街与贸易站；放在农庄北侧，不与湿地公园内早期集市混放。 范围与缺项：商业街是城市内部场景，不代表整个曙光城；民用店面位置不逐间补齐。",
+    "source": "环境资料：详尽；V07·P003831—P003838；V07·P003842—P003843；V07·P003868—P003875",
+    "href": "../03_实体档案/地标/LMK-0023_曙光城长久北街与贸易站.md",
+    "regionIds": [
+      "REG-0008"
+    ],
+    "detailLevel": "详尽",
+    "archive": "# 曙光城长久北街与贸易站\n\nLMK-0023 · 地标 · 环境资料：详尽 · 所属／关联地区：曙光城。\n\n长久农庄北侧的砖红屋瓦商业街，摊位、店铺、商旅与巡逻队构成热闹的城市街景。\n\n## 环境与场景依据\n\n- **原文场景**：北街两侧砖红亮瓦房屋整齐排列，五金、粮菜和舶来品商户聚集，行人在摊前挑选商品。（[V07·P003831—P003838](C:/Users/Leung/vwork/b2g-zyx/Novel_World_Reconstruction_v3/00_分卷原文/V07.txt)）\n\n- **原文场景**：拉面馆门口排长队，店员在摊后做面收钱，形成可辨的饮食街面节点。（[V07·P003842—P003843](C:/Users/Leung/vwork/b2g-zyx/Novel_World_Reconstruction_v3/00_分卷原文/V07.txt)）\n\n- **原文场景**：原文说明长久这条北街有从城南湿地公园北街开来的分店；两处“北街”不是一个坐标。（[V07·P003868—P003875](C:/Users/Leung/vwork/b2g-zyx/Novel_World_Reconstruction_v3/00_分卷原文/V07.txt)）\n\n## 地图整理要点\n\n本卡只指长久一带的北街与贸易站；放在农庄北侧，不与湿地公园内早期集市混放。\n\n**范围与缺项**：商业街是城市内部场景，不代表整个曙光城；民用店面位置不逐间补齐。\n\n[返回地标入口](地标入口.md) · [集中阅读地标设定集](C:/Users/Leung/vwork/b2g-zyx/Novel_World_Reconstruction_v3/05_世界设定集/地标设定集.md)\n",
+    "excerpts": [
+      {
+        "source": "V07·P003831—P003838",
+        "text": "　　曙光城北街。\n　　一座座砖红亮瓦的屋子，整齐地排列在街道两侧。两边商户云集，有卖锅碗瓢盆五金小件的，有卖蔬菜干粮的，也有卖商队从远方带来的舶来品，这儿每天都能看到没见过的东西。\n　　往来的行人衣着迥异，在摊位上挑挑选选。\n　　这些人有的是来自远方的行商，有的是商队护卫，也有临时上车的佣兵，还有不少当地人和例行巡逻的警卫，天上时不时有Y-1四旋翼无人机慢悠悠地掠过——那些都是小柒的眼睛，也是楚光的眼睛。\n　　现在的时间是中午，正是街上最热闹的时候。\n　　这儿的楼虽然不如巨石城那么高，也没有巍峨的巨壁，但这里的热闹却丝毫不输给巨石城库区旁的那条街道。\n　　作为企业的“永久合作伙伴”，被理想城列入白名单的幸存者聚居地，几乎所有从清泉市北边路过的商队，不管是不是从理想城来的，都会来这儿瞧上一眼，补充淡水或者用商品换些补给。\n　　在废土上找到一个“守序中立”以上的幸存者据点太不容易了，除了走投无路的流民和脑袋拴在腰上做买卖的穷光蛋，很少有人敢贸然接近陌生的幸存者聚居地。"
+      },
+      {
+        "source": "V07·P003842—P003843",
+        "text": "　　海记拉面馆的门口排成了一条长龙，摊位后面是三个原住民小哥，一个扯面，一个下面，还有一个负责收钱。\n　　素面2银币一碗，牛肉面4银币，而且出餐时间不到五分钟。公道的价格和实惠的分量受到了不少当地人的欢迎，一些玩家也在门口和NPC一起排起了队。"
+      },
+      {
+        "source": "V07·P003868—P003875",
+        "text": "　　找了个角落的位置坐下，小鱼正想偷偷把钱付了，但被楚光抢先了一步。\n　　“我来吧。”\n　　“说了这顿我请的。”\n　　用VM付了款，楚光回到了桌前坐下，正巧听见隔壁桌的人在吹牛。\n　　“……正宗的拉面还是得去城南的北街，这儿的牛肉切的太厚了，刀工还是差了些。”\n　　“那儿也有个北街？”\n　　“哈哈，这你就不懂了吧？早些时候哪有什么曙光城，北街说的就是湿地公园里的那个集市，这儿的好多分店都是从那边开过来的！”说话的男人一脸自豪，显然已经来过这里好多次了。\n　　旁边的食客一脸羡慕，他们都是最近才知道这地方。"
+      }
+    ],
+    "scene": "地标图片/LMK-0023_scene.png",
+    "layout": "地标图片/LMK-0023_layout.png",
+    "status": "已完成两张",
+    "images": {
+      "scene": "地标图片/LMK-0023_scene.png",
+      "layout": "地标图片/LMK-0023_layout.png"
+    },
+    "selectedVisual": "Dawn City's Long Farm North Street trade district. Hero: lively but orderly brick-red tiled low shops along a pedestrian market lane, one modest noodle-shop queue and restrained freight. A focused friendly rebuilt streetscape, not every named store.",
+    "spatialCore": "One red-tiled main shopping lane, a small trading court near the farm-side approach, simple side stalls. Keep clear central pedestrian circulation.",
+    "conceptual": false
+  },
+  {
+    "id": "LMK-0024",
+    "type": "LOC",
+    "classification": "LANDMARK",
+    "name": "流民之家与西侧安置村",
+    "aliases": [],
+    "summary": "农庄西侧安置村旁的宿舍式公寓群，紧凑房间、带窗床位和公共接待形成救济聚落画面。 所属／关联地区：曙光城。 【原文场景】流民之家在曙光西北，紧靠农庄西侧安置村，离北侧贸易站、商业街不远。 【原文场景】宿舍人均面积不大，一间放四张床，有干净床铺被褥，每间有窗，休息区用于接纳来客。",
+    "limits": "地图要点：放在长久北街以西的安置片区，以宿舍与接待活动为近景，不为每间床位单独设地标。 范围与缺项：不把计划阶段四百房间等数值当作该时点全部实有；村界、道路和公寓层数未完整明确。",
+    "source": "环境资料：中等；V07·P002532—P002532；V07·P002533—P002540",
+    "href": "../03_实体档案/地标/LMK-0024_流民之家与西侧安置村.md",
+    "regionIds": [
+      "REG-0008"
+    ],
+    "detailLevel": "中等",
+    "archive": "# 流民之家与西侧安置村\n\nLMK-0024 · 地标 · 环境资料：中等 · 所属／关联地区：曙光城。\n\n农庄西侧安置村旁的宿舍式公寓群，紧凑房间、带窗床位和公共接待形成救济聚落画面。\n\n## 环境与场景依据\n\n- **原文场景**：流民之家在曙光西北，紧靠农庄西侧安置村，离北侧贸易站、商业街不远。（[V07·P002532—P002532](C:/Users/Leung/vwork/b2g-zyx/Novel_World_Reconstruction_v3/00_分卷原文/V07.txt)）\n\n- **原文场景**：宿舍人均面积不大，一间放四张床，有干净床铺被褥，每间有窗，休息区用于接纳来客。（[V07·P002533—P002540](C:/Users/Leung/vwork/b2g-zyx/Novel_World_Reconstruction_v3/00_分卷原文/V07.txt)）\n\n## 地图整理要点\n\n放在长久北街以西的安置片区，以宿舍与接待活动为近景，不为每间床位单独设地标。\n\n**范围与缺项**：不把计划阶段四百房间等数值当作该时点全部实有；村界、道路和公寓层数未完整明确。\n\n[返回地标入口](地标入口.md) · [集中阅读地标设定集](C:/Users/Leung/vwork/b2g-zyx/Novel_World_Reconstruction_v3/05_世界设定集/地标设定集.md)\n",
+    "excerpts": [
+      {
+        "source": "V07·P002532—P002532",
+        "text": "　　“流民之家”位于曙光城的西北侧，紧靠着农庄西侧的安置村，离农庄北侧的贸易站和商业街不远。"
+      },
+      {
+        "source": "V07·P002533—P002540",
+        "text": "　　作为安置流民的宿舍式公寓，这里的人均居住面积不大，一间房里塞了四张床。\n　　不过没有人挑剔。\n　　能遮风挡雨的屋子，还有干净的床铺和被褥，每间房甚至都有窗。\n　　对于无家可归的流民们来说，这里简直是天堂！\n　　大多数情况下，能借到的铺着稻草的畜棚就已经很不容易了，能够有屋子睡，他们想都不敢想。\n　　流民之家的工作人员同样没想到，巡逻队那边居然带了这么多人回来。\n　　三百多个饿着肚子的流民，为统计、做饭、分宿舍的事儿，几个工作人员忙的手忙脚乱。\n　　由于人手不足，同属后勤部的贸易站的工作人员，也被临时抽调了一部分人手过去帮忙，照顾老人妇女和孩子们。"
+      }
+    ],
+    "scene": "地标图片/LMK-0024_scene.png",
+    "layout": "地标图片/LMK-0024_layout.png",
+    "status": "已完成两张",
+    "images": {
+      "scene": "地标图片/LMK-0024_scene.png",
+      "layout": "地标图片/LMK-0024_layout.png"
+    },
+    "selectedVisual": "Refugee Home and western resettlement village. Hero: modest clean dormitory apartment blocks with repeated windows and a shared arrival/reception courtyard, beside smaller village dwellings. Dignified practical rebuilding; avoid huge completed housing estates.",
+    "spatialCore": "A compact dormitory cluster next to low resettlement dwellings; shared entry court and an outward route toward the northeastern trade district.",
+    "conceptual": false
+  },
+  {
+    "id": "LMK-0025",
+    "type": "LOC",
+    "classification": "LANDMARK",
+    "name": "TS市南郊北坡工业废墟",
+    "aliases": [],
+    "summary": "雪中的残破厂房被改作掠夺者军工据点，悬吊锅炉、炽热锻造车间与楼上办公室并置。 所属／关联地区：TS市。 【原文场景】地点明确为TS市南郊废弃北坡工业区，残厂与混凝土碎片密布地面。 【原文场景】一间较完整厂房悬着巨大锅炉，旁边加煤；隔壁宽厂房排列三十多座铁砧，红热铸件经锻打再送加工、装配车间。 【原文场景】厂房二楼有旧办公桌和温暖办公室，是与下层生产空间相连的指挥场景。",
+    "limits": "地图要点：从外围工业废墟到室内连续生产线的单一场景；可画厂房—锻造—加工—装配的功能连接，不补具体栋距。 范围与缺项：此处是TS北坡旧工业区，不能与曙光轮胎厂北部工业区混名；按掠夺者驻扎时期记录。",
+    "source": "环境资料：详尽；V05·P008367—P008371；V05·P008372—P008376；V05·P008385—P008388",
+    "href": "../03_实体档案/地标/LMK-0025_TS市南郊北坡工业废墟.md",
+    "regionIds": [
+      "REG-0011"
+    ],
+    "detailLevel": "详尽",
+    "archive": "# TS市南郊北坡工业废墟\n\nLMK-0025 · 地标 · 环境资料：详尽 · 所属／关联地区：TS市。\n\n雪中的残破厂房被改作掠夺者军工据点，悬吊锅炉、炽热锻造车间与楼上办公室并置。\n\n## 环境与场景依据\n\n- **原文场景**：地点明确为TS市南郊废弃北坡工业区，残厂与混凝土碎片密布地面。（[V05·P008367—P008371](C:/Users/Leung/vwork/b2g-zyx/Novel_World_Reconstruction_v3/00_分卷原文/V05.txt)）\n\n- **原文场景**：一间较完整厂房悬着巨大锅炉，旁边加煤；隔壁宽厂房排列三十多座铁砧，红热铸件经锻打再送加工、装配车间。（[V05·P008372—P008376](C:/Users/Leung/vwork/b2g-zyx/Novel_World_Reconstruction_v3/00_分卷原文/V05.txt)）\n\n- **原文场景**：厂房二楼有旧办公桌和温暖办公室，是与下层生产空间相连的指挥场景。（[V05·P008385—P008388](C:/Users/Leung/vwork/b2g-zyx/Novel_World_Reconstruction_v3/00_分卷原文/V05.txt)）\n\n## 地图整理要点\n\n从外围工业废墟到室内连续生产线的单一场景；可画厂房—锻造—加工—装配的功能连接，不补具体栋距。\n\n**范围与缺项**：此处是TS北坡旧工业区，不能与曙光轮胎厂北部工业区混名；按掠夺者驻扎时期记录。\n\n[返回地标入口](地标入口.md) · [集中阅读地标设定集](C:/Users/Leung/vwork/b2g-zyx/Novel_World_Reconstruction_v3/05_世界设定集/地标设定集.md)\n",
+    "excerpts": [
+      {
+        "source": "V05·P008367—P008371",
+        "text": "　　TS市南郊。\n　　废弃的北坡工业区。\n　　残破的厂房与建筑在这里比比皆是，散落在地上的混凝土碎片，和天上飘着的雪一样多。\n　　一座墙体还算完整的厂房里。\n　　衣衫褴褛、骨瘦嶙峋的奴隶们，正在手握武器和鞭子的掠夺者监工的监视下，将物资从仓库运入厂房内。"
+      },
+      {
+        "source": "V05·P008372—P008376",
+        "text": "　　这里悬吊着一口很大很大的锅炉。\n　　炉子里盛满了沸腾的铁水，旁边的奴隶还在不停地用铲子，往加热室里送着煤炭，整个屋子热的和夏天一样。\n　　隔壁厂房也是一样炙热。\n　　三十余座铁质的砧台陈列在宽阔的厂房里，赤着上身的奴隶挥舞着铁锤，卖力地敲打着砧台上红热的铸件。\n　　这些粗制的铸件在经过热锻之后，会被送往另一个车间，由一部分技艺精湛的工匠使用锉刀等简单的工具进行处理，并由搬运工送去最后一间厂房进行组装。"
+      },
+      {
+        "source": "V05·P008385—P008388",
+        "text": "　　厂房二楼的办公室里，暖和的就像春天一样。\n　　坐在陈旧的办公桌后面，穿着皮夹克衣服、模样不修边幅的男人，嘴里叼着一只木质的烟斗。\n　　精神叶燃烧飘出的烟，让他不禁迷醉的眯起了眼。\n　　他的名字叫黑蛇，嚼骨部落的千夫长，奉命率领一支千人队南下劫掠，因为大雪的缘故才停在了这里。"
+      }
+    ],
+    "scene": "地标图片/LMK-0025_scene.png",
+    "layout": "地标图片/LMK-0025_layout.png",
+    "status": "已完成两张",
+    "images": {
+      "scene": "地标图片/LMK-0025_scene.png",
+      "layout": "地标图片/LMK-0025_layout.png"
+    },
+    "selectedVisual": "TS southern suburb North Slope industrial ruins during raider occupation. Hero: a damaged factory with warm forge light escaping one open bay, coal/boiler silhouette and snowy concrete debris outside. Workshop environment, not a technical arms-production diagram.",
+    "spatialCore": "Weathered factory hall with adjoining processing shed and a clear service yard amid ruined industry; warm working bay contrasts snowy exterior.",
+    "conceptual": false
+  },
+  {
+    "id": "LMK-0026",
+    "type": "LOC",
+    "classification": "LANDMARK",
+    "name": "西洲四新区水淹街区",
+    "aliases": [],
+    "summary": "湖水漫入低洼城区，残楼之间架木栈道和桥架，废墟楼体被连成水围堡垒。 所属／关联地区：西洲市。 【原文场景】断壁残垣上铺木栈道桥架，瞭望塔由混凝土石块与钢筋混搭；半个四新区因湖水泛入而成泽国。 【原文场景】水从低洼地向北流入天水，主帐在其北岸；临水有裂爪蟹筑巢，木栈道将楼房连成堡垒。 【原文场景】宽楼改作武器工坊，部分宽屋顶用作种植园，构成水面—栈道—楼内—屋顶的垂直层次。",
+    "limits": "地图要点：整合四新区浸水楼群与人工通路；仅沿原文明写的水流方向绘局部，不把全城画成淹没状态。 范围与缺项：牙氏驻扎与战后收复阶段分开；屋顶农作不证明全部屋顶可耕。",
+    "source": "环境资料：详尽；V07·P004129—P004133；V07·P004134—P004137；V07·P004138—P004139",
+    "href": "../03_实体档案/地标/LMK-0026_西洲四新区水淹街区.md",
+    "regionIds": [
+      "REG-0014"
+    ],
+    "detailLevel": "详尽",
+    "archive": "# 西洲四新区水淹街区\n\nLMK-0026 · 地标 · 环境资料：详尽 · 所属／关联地区：西洲市。\n\n湖水漫入低洼城区，残楼之间架木栈道和桥架，废墟楼体被连成水围堡垒。\n\n## 环境与场景依据\n\n- **原文场景**：断壁残垣上铺木栈道桥架，瞭望塔由混凝土石块与钢筋混搭；半个四新区因湖水泛入而成泽国。（[V07·P004129—P004133](C:/Users/Leung/vwork/b2g-zyx/Novel_World_Reconstruction_v3/00_分卷原文/V07.txt)）\n\n- **原文场景**：水从低洼地向北流入天水，主帐在其北岸；临水有裂爪蟹筑巢，木栈道将楼房连成堡垒。（[V07·P004134—P004137](C:/Users/Leung/vwork/b2g-zyx/Novel_World_Reconstruction_v3/00_分卷原文/V07.txt)）\n\n- **原文场景**：宽楼改作武器工坊，部分宽屋顶用作种植园，构成水面—栈道—楼内—屋顶的垂直层次。（[V07·P004138—P004139](C:/Users/Leung/vwork/b2g-zyx/Novel_World_Reconstruction_v3/00_分卷原文/V07.txt)）\n\n## 地图整理要点\n\n整合四新区浸水楼群与人工通路；仅沿原文明写的水流方向绘局部，不把全城画成淹没状态。\n\n**范围与缺项**：牙氏驻扎与战后收复阶段分开；屋顶农作不证明全部屋顶可耕。\n\n[返回地标入口](地标入口.md) · [集中阅读地标设定集](C:/Users/Leung/vwork/b2g-zyx/Novel_World_Reconstruction_v3/05_世界设定集/地标设定集.md)\n",
+    "excerpts": [
+      {
+        "source": "V07·P004129—P004133",
+        "text": "　　西洲市，四新区。\n　　断壁残垣的废墟上，铺满了木质的栈道和桥架，混凝土石块与钢筋混搭的瞭望塔中藏着一张张凶狠的面孔。\n　　他们背上背着步枪，身上挂着人或者野兽的牙齿、骨骼，作为勇武和野蛮的象征。\n　　这里是西洲市与西洲湖最接近的城区。\n　　由于水利设施常年疏于维护，过剩的湖水已经漫到了城区中，将半个四新区变成了一片泽国。"
+      },
+      {
+        "source": "V07·P004134—P004137",
+        "text": "　　这条新生的河流从城区的低洼地带蔓延而过，蔓延向北，汇入奔流向东的天水。\n　　牙氏族的本帐，便坐落在这条河的北岸。\n　　淹没街道的河水是天然的屏障，诸如裂爪蟹这类喜好潮湿环境的异种在附近大量筑巢。\n　　这些掠夺者们用木制的栈道将楼房连接，对废墟进行加固，将营地构筑成了一座河水环绕的堡垒。"
+      },
+      {
+        "source": "V07·P004138—P004139",
+        "text": "　　一些面积宽敞的楼房被改造成了生产武器和弹药的作坊，衣衫褴褛的奴隶坐在工作台前操作着简易的工具，对着粗糙的工件叮叮咣咣地敲打。\n　　至于那些面积宽阔的屋顶被改造成了种植园，种着青麦、羊角薯或者一些煮肉用的豆子。"
+      }
+    ],
+    "scene": "地标图片/LMK-0026_scene.png",
+    "layout": "地标图片/LMK-0026_layout.png",
+    "status": "已完成两张",
+    "images": {
+      "scene": "地标图片/LMK-0026_scene.png",
+      "layout": "地标图片/LMK-0026_layout.png"
+    },
+    "selectedVisual": "Xizhou Four-New District flooded ruins. Hero: partly flooded concrete apartment shells joined by rough timber walkways over still water, one roof patch cultivated. A waterbound settlement/fortress feeling without filling every roof or showing combat.",
+    "spatialCore": "Water runs between a few ruined buildings; elevated wooden connections form a readable branching route, with one broader hub roof. Partial flooded district only.",
+    "conceptual": false
+  },
+  {
+    "id": "LMK-0027",
+    "type": "LOC",
+    "classification": "LANDMARK",
+    "name": "西洲湖东岸沼泽",
+    "aliases": [],
+    "summary": "泛滥湖水将东岸化为沼泽，浅水与城市低地相接，木筏可以穿越其间。 所属／关联地区：西洲市。 【居民转述】当地人称西洲湖常泛滥，整个东岸成为沼泽，并倒灌城区低地。 【原文场景】后续行动中木筏确实穿过东岸沼泽，向被水淹的四新区西侧漂去。",
+    "limits": "地图要点：以湖岸—沼泽—水淹街区相接作为自然地标，与四新区同属一个水环境系统但分自然与城市两景。 范围与缺项：湖岸完整曲线、水深和植被种类未明确，不据常识补芦苇林或固定小岛。",
+    "source": "环境资料：中等；V07·P007743—P007745；V07·P010089—P010092",
+    "href": "../03_实体档案/地标/LMK-0027_西洲湖东岸沼泽.md",
+    "regionIds": [
+      "REG-0014"
+    ],
+    "detailLevel": "中等",
+    "archive": "# 西洲湖东岸沼泽\n\nLMK-0027 · 地标 · 环境资料：中等 · 所属／关联地区：西洲市。\n\n泛滥湖水将东岸化为沼泽，浅水与城市低地相接，木筏可以穿越其间。\n\n## 环境与场景依据\n\n- **居民转述**：当地人称西洲湖常泛滥，整个东岸成为沼泽，并倒灌城区低地。（[V07·P007743—P007745](C:/Users/Leung/vwork/b2g-zyx/Novel_World_Reconstruction_v3/00_分卷原文/V07.txt)）\n\n- **原文场景**：后续行动中木筏确实穿过东岸沼泽，向被水淹的四新区西侧漂去。（[V07·P010089—P010092](C:/Users/Leung/vwork/b2g-zyx/Novel_World_Reconstruction_v3/00_分卷原文/V07.txt)）\n\n## 地图整理要点\n\n以湖岸—沼泽—水淹街区相接作为自然地标，与四新区同属一个水环境系统但分自然与城市两景。\n\n**范围与缺项**：湖岸完整曲线、水深和植被种类未明确，不据常识补芦苇林或固定小岛。\n\n[返回地标入口](地标入口.md) · [集中阅读地标设定集](C:/Users/Leung/vwork/b2g-zyx/Novel_World_Reconstruction_v3/05_世界设定集/地标设定集.md)\n",
+    "excerpts": [
+      {
+        "source": "V07·P007743—P007745",
+        "text": "　　他们思来想去，西洲市也没什么值得那些人稀罕的东西。\n　　这儿除了一片坟墓似的混凝土废墟，就只有一座常年泛滥成灾的西洲湖。湖水不但将整个东岸变成了一片沼泽地，更是倒灌进了地势低洼的城区，想找块地种田都难。\n　　至于贸易价值，更是几乎为零。"
+      },
+      {
+        "source": "V07·P010089—P010092",
+        "text": "　　离开指挥部之后，狐牙立刻带上了自己的弟兄们。\n　　一千多号全副武装的精锐，浩浩荡荡地穿过湖水倒灌的街巷，朝着炮声撼天动地的城南进发，增援驻守在那里的千人队。\n　　然而此时此刻，俩人并不知道，就在新联盟对城区南部狂轰滥炸的时候，一支支木筏正穿过西洲湖东岸的沼泽地，向着被湖水淹没的四新区西侧飘去……\n　　蹲在木筏上，看着前方一片寂静的黑暗，夜十回过头小声说道。"
+      }
+    ],
+    "scene": "地标图片/LMK-0027_scene.png",
+    "layout": "地标图片/LMK-0027_layout.png",
+    "status": "已完成两张",
+    "images": {
+      "scene": "地标图片/LMK-0027_scene.png",
+      "layout": "地标图片/LMK-0027_layout.png"
+    },
+    "selectedVisual": "Xizhou Lake east-bank marsh. Hero: broad shallow water and muddy low city-edge ground, with one small simple raft and distant flooded urban silhouettes. Generic subdued marsh vegetation; no precise invented reed species, island plan or entire lake outline.",
+    "spatialCore": "Lake-edge water transitions through muddy shallows to low city ground; one unobstructed raft route points toward the flooded district. Simple natural relationships.",
+    "conceptual": false
+  },
+  {
+    "id": "LMK-0028",
+    "type": "LOC",
+    "classification": "LANDMARK",
+    "name": "西洲大学旧址与101地表营地",
+    "aliases": [],
+    "summary": "图书馆旧址为中心的平坦校园废墟，方形营房分散立起，铁丝网围护与施工中的混凝土楼相伴。 所属／关联地区：西洲市。 【原文场景】新营地选在西洲大学旧址，地势平坦、原建筑损毁严重；一期以大学图书馆旧址为中心向外扩展。 【原文场景】已立起四四方方营房，各门前留空地；附近一座混凝土建筑建到一半，围墙拉铁丝网并以钢筋扎入土。 【原文场景】搬迁起点有三十多座集装箱房和从地下搬出的营房，须区别这些过渡房与校园规划完工状态。",
+    "limits": "地图要点：以图书馆旧址—营房空地—施工楼—外围铁丝网构成校园雏形；学校五层教学楼当时尚无影子。 范围与缺项：三期五百亩与两栋五层楼均属规划，不能画成已建完整大学；不与香菱街图书馆混同。",
+    "source": "环境资料：详尽；V08·P004932—P004941；V08·P004952—P004957；V08·P004920—P004923",
+    "href": "../03_实体档案/地标/LMK-0028_西洲大学旧址与101地表营地.md",
+    "regionIds": [
+      "REG-0014"
+    ],
+    "detailLevel": "详尽",
+    "archive": "# 西洲大学旧址与101地表营地\n\nLMK-0028 · 地标 · 环境资料：详尽 · 所属／关联地区：西洲市。\n\n图书馆旧址为中心的平坦校园废墟，方形营房分散立起，铁丝网围护与施工中的混凝土楼相伴。\n\n## 环境与场景依据\n\n- **原文场景**：新营地选在西洲大学旧址，地势平坦、原建筑损毁严重；一期以大学图书馆旧址为中心向外扩展。（[V08·P004932—P004941](C:/Users/Leung/vwork/b2g-zyx/Novel_World_Reconstruction_v3/00_分卷原文/V08.txt)）\n\n- **原文场景**：已立起四四方方营房，各门前留空地；附近一座混凝土建筑建到一半，围墙拉铁丝网并以钢筋扎入土。（[V08·P004952—P004957](C:/Users/Leung/vwork/b2g-zyx/Novel_World_Reconstruction_v3/00_分卷原文/V08.txt)）\n\n- **原文场景**：搬迁起点有三十多座集装箱房和从地下搬出的营房，须区别这些过渡房与校园规划完工状态。（[V08·P004920—P004923](C:/Users/Leung/vwork/b2g-zyx/Novel_World_Reconstruction_v3/00_分卷原文/V08.txt)）\n\n## 地图整理要点\n\n以图书馆旧址—营房空地—施工楼—外围铁丝网构成校园雏形；学校五层教学楼当时尚无影子。\n\n**范围与缺项**：三期五百亩与两栋五层楼均属规划，不能画成已建完整大学；不与香菱街图书馆混同。\n\n**关联建筑**：BLD-0015；建筑档案补充功能与内部信息，本卡以环境场景为主。\n\n[返回地标入口](地标入口.md) · [集中阅读地标设定集](C:/Users/Leung/vwork/b2g-zyx/Novel_World_Reconstruction_v3/05_世界设定集/地标设定集.md)\n",
+    "excerpts": [
+      {
+        "source": "V08·P004932—P004941",
+        "text": "　　出于对自身未来的考虑，101号营地在参考了楚光的建议之后，最终决定将新的营地设置在距离101号避难所不远的西洲大学旧址。\n　　那里地势相对平坦。\n　　虽然建筑损毁严重，但这反而是个优点，至少拆起来不会太麻烦。\n　　在废土上，拆楼远比盖楼麻烦的多。\n　　有些房子明明看着是摇摇欲坠，仿佛伸手推一下就垮，但实际上挨两发100公斤航弹还能和没事儿一样。\n　　尤其是在《废土OL》中，被炸倒的建筑并不会像其他RTS游戏里那样变成灰消失，大概率会横在地上形成一堵墙。\n　　大块的建筑垃圾根本搬不走，必须破碎成小块才能搬运。\n　　而这也是曙光城和黎明城都建在建筑密度不高的郊区的原因。\n　　根据规划中的图纸，101号营地的一期工程占地面积30亩，以西洲大学图书馆旧址为中心向四周扩散。\n　　三期工程全部完成之后，整个营地将基本覆盖原西洲大学的核心区域，占地面积将达到惊人的500亩。"
+      },
+      {
+        "source": "V08·P004952—P004957",
+        "text": "　　经过近一周的建设，这座崭新的营地已经初具规模。\n　　虽然教学楼还看不到影子，但一座座四四方方的营房已经伫立在空地上。\n　　这儿的空间可比地下宽敞多了，他们不必把所有屋子都挨在一起，每间营房的门口都能留出不小的面积作为私人空间。\n　　孩子们在营地里嬉笑打闹，追逐着奔跑。\n　　不远处的工地上正干着热火朝天，一栋不知道什么用途的混凝土建筑已经盖到了一半。\n　　为了防止异种闯入营地，营地的围墙拉起了一圈圈铁丝网，并且用钢筋扎进了土里。"
+      },
+      {
+        "source": "V08·P004920—P004923",
+        "text": "　　一群幸存者正有条不紊地将行李从坍塌的地铁站中搬出，堆放在距离地铁站不远的空地。\n　　在距离稍远一点的空地上，伫立着三十多座集装箱房屋，和数十座从地下隧道中搬出来的营房。\n　　援建队负责的工地不只是黎明城，同样包括位于西洲市东区的101号营地。\n　　由于嚼骨部落已经灭亡，西洲市已经恢复了往日的宁静，101号营地的居民们也将重新返回地表，并把避难所大门口的缓冲区还给“先驱们”。"
+      }
+    ],
+    "scene": "地标图片/LMK-0028_scene.png",
+    "layout": "地标图片/LMK-0028_layout.png",
+    "status": "已完成两张",
+    "images": {
+      "scene": "地标图片/LMK-0028_scene.png",
+      "layout": "地标图片/LMK-0028_layout.png"
+    },
+    "selectedVisual": "Xizhou University ruins and the emerging 101 surface camp. Hero: ruined library core, a few box-shaped temporary barracks with open ground before doors, and one half-built concrete shell behind wire fencing. No completed five-storey modern campus.",
+    "spatialCore": "Ruined library as center, scattered square barracks around open clearings, unfinished structure at one side and limited wire boundary. Early construction phase.",
+    "conceptual": false
+  },
+  {
+    "id": "LMK-0029",
+    "type": "LOC",
+    "classification": "LANDMARK",
+    "name": "黎明城应急居住区",
+    "aliases": [],
+    "summary": "高架桥残骸旁的新聚居点，大量拼装应急房、公共蓄水和厕所从清理后的空地上迅速形成。 所属／关联地区：黎明城、西洲市。 场景时期：V07初建应急阶段。 【原文场景】黎明城木牌挂在半坍混凝土桥墩上，初期开拓以高架路桥残骸及旁边空地为中心。 【原文场景】施工使用铝合金板等预制材料，居民分组组装房屋；这属于实际搭建的应急住区。 【原文场景】傍晚已完成一千栋应急房，并做出厕所与蓄水池等公共设施。",
+    "limits": "地图要点：整体作为新城临时住宅场景；桥墩上的城名木牌与快速搭建房列是主要识别节点。 范围与缺项：应急住房不等于永久公寓已经盖好；五层住宅方案放在另一个工地场景的规划层。",
+    "source": "环境资料：详尽；V07·P011087—P011090；V07·P011143—P011159；V07·P011220—P011223",
+    "href": "../03_实体档案/地标/LMK-0029_黎明城应急居住区.md",
+    "regionIds": [
+      "REG-0016",
+      "REG-0014"
+    ],
+    "detailLevel": "详尽",
+    "phase": "V07初建应急阶段",
+    "archive": "# 黎明城应急居住区\n\nLMK-0029 · 地标 · 环境资料：详尽 · 所属／关联地区：黎明城、西洲市。\n\n高架桥残骸旁的新聚居点，大量拼装应急房、公共蓄水和厕所从清理后的空地上迅速形成。\n\n**场景时期**：V07初建应急阶段。\n\n## 环境与场景依据\n\n- **原文场景**：黎明城木牌挂在半坍混凝土桥墩上，初期开拓以高架路桥残骸及旁边空地为中心。（[V07·P011087—P011090](C:/Users/Leung/vwork/b2g-zyx/Novel_World_Reconstruction_v3/00_分卷原文/V07.txt)）\n\n- **原文场景**：施工使用铝合金板等预制材料，居民分组组装房屋；这属于实际搭建的应急住区。（[V07·P011143—P011159](C:/Users/Leung/vwork/b2g-zyx/Novel_World_Reconstruction_v3/00_分卷原文/V07.txt)）\n\n- **原文场景**：傍晚已完成一千栋应急房，并做出厕所与蓄水池等公共设施。（[V07·P011220—P011223](C:/Users/Leung/vwork/b2g-zyx/Novel_World_Reconstruction_v3/00_分卷原文/V07.txt)）\n\n## 地图整理要点\n\n整体作为新城临时住宅场景；桥墩上的城名木牌与快速搭建房列是主要识别节点。\n\n**范围与缺项**：应急住房不等于永久公寓已经盖好；五层住宅方案放在另一个工地场景的规划层。\n\n[返回地标入口](地标入口.md) · [集中阅读地标设定集](C:/Users/Leung/vwork/b2g-zyx/Novel_World_Reconstruction_v3/05_世界设定集/地标设定集.md)\n",
+    "excerpts": [
+      {
+        "source": "V07·P011087—P011090",
+        "text": "　　随着写有【黎明城】字样的木板，挂上了半坍塌的混凝土桥墩，新联盟第二座幸存者聚居地的建设计划正式宣告开始！\n　　早在松林峪会战开始之前，新联盟的后勤部门便在管理者授意之下，做好了新聚居地开拓计划的预案。\n　　大批的援建物资事先已经通过铁路送到了青石县的仓库，几乎就在楚光宣布战争胜利的第一时间，这些物资便装上了卡车，天还没完全亮，便从后方开赴到了前线。\n　　这些物资包括两千把钢斧，一千六百支铲子，以及大量斗车、三轮、双轮板车等等人力运输工具。"
+      },
+      {
+        "source": "V07·P011143—P011159",
+        "text": "　　4000人分成了300多个人数不等的小组，分别由300多个工头带着，各司其职的投入到了聚居地的建设工作中。\n　　在众人的齐心协力之下，黎明城的幸存者们很快将战壕周围的土地清理了出来，并且用斗车、三轮、板车等等运输工具，把混凝土残骸和大块的垃圾运到了营地外面。\n　　随着空地被清出，一张张铝板和铝合金支架，被三轮车和板车拖了过来。\n　　看着堆放在空地上的材料和工具，身形瘦削的男人脸上写满了茫然。\n　　“这是什么东西？”\n　　他的名字叫刘大力，嚼骨部落来这儿之前是个种地的。\n　　后来家被烧了，老婆孩子都没了，他便加入了游击队，现在是新联盟第三兵团的士兵。\n　　不只是他没看懂这些东西是干什么用的，站在旁边的其他几个幸存者也是一样，一头雾水地交换着视线。\n　　这时候，一名援建队的工头走到了他们的面前，解答了他们的困惑。\n　　“这些都是盖房子用的建材，组装起来就能住了，我们组的任务是4个，一会儿我会教你们怎么做，很快就能学会。”\n　　“建材？”刘大力愣了下。\n　　站在他旁边的同乡也是一样，摸不着头脑地说道。\n　　“这东西能盖房子？”\n　　就算是盖窝棚，光有铝合金板也不够啊。\n　　面对众人疑惑的视线，那工头表情略微得意的笑着说道。\n　　“这玩意儿不只能盖房子，用处可大着呢。别废话了，赶紧来帮忙。”\n　　说着，他把手套丢给了众人，仔细地叮嘱道，“干活儿的时候千万记得把这个戴上，别把自己弄伤了。”"
+      },
+      {
+        "source": "V07·P011220—P011223",
+        "text": "　　就在各个施工小队忙前忙后的时候，那些从事不了繁重体力劳动的老弱妇孺们也没有闲着，在后勤人员的指导下准备好了午饭，拎着饭盒和水壶的孩子在工地上穿梭，将午饭送到各施工队的手上。\n　　一切都在井然有序地进行着。\n　　截止到傍晚六点，施工队不但奇迹般地完成了1000栋应急房屋，甚至还超额完成了任务，将厕所、蓄水池这些原计划第二天修建的公共设施，也给一并弄了出来。\n　　营地中一片热闹。"
+      }
+    ],
+    "scene": "地标图片/LMK-0029_scene.png",
+    "layout": "地标图片/LMK-0029_layout.png",
+    "status": "已完成两张",
+    "images": {
+      "scene": "地标图片/LMK-0029_scene.png",
+      "layout": "地标图片/LMK-0029_layout.png"
+    },
+    "selectedVisual": "Dawn emergency housing during its first V07 establishment. Hero: rows of simple prefabricated panel shelters on cleared ground beside a broken elevated-highway pier. A common water point and small shared service block support a lived-in temporary camp.",
+    "spatialCore": "Broken viaduct edge anchors a compact sample of prefab rows, central access aisle and shared water/service node. Suggest large scale beyond crop, do not draw a thousand individual houses.",
+    "conceptual": false
+  },
+  {
+    "id": "LMK-0030",
+    "type": "LOC",
+    "classification": "LANDMARK",
+    "name": "黎明城车站、排水与新建工地",
+    "aliases": [],
+    "summary": "木板站牌、物资料堆、雨泥与碎混凝土，旧战壕改排水坑道，东侧新聚落正在浇地基。 所属／关联地区：黎明城、西洲市。 场景时期：V08排水及永久建设阶段。 【原文场景】车站只有立起的木板作站牌，周围是物资堆、雨水揉碎的泥土和未拆净的混凝土残渣。 【原文场景】北侧旧战壕已变排水坑道，其东侧新聚居地完成排水后正在浇水泥地基、修街道和住房。 【原文场景】五层公寓为主、独立小屋为辅是后续住宅方案；雨季北部工地地势低，工人曾在积水中排水。 【原文场景】工作服与胶底靴等到站时，此前数天雨已让低工地泡水，工人用桶排水。",
+    "limits": "地图要点：保留车站南北、战壕东侧聚落的相对关系；以基础设施工地为主，不额外生造已运营工业区或商业街。 范围与缺项：排水完成与房屋建设进度不同；不将规划中的公寓行列当作已建城市天际线。",
+    "source": "环境资料：详尽；V08·P005612—P005616；V08·P005615—P005617；V08·P005618—P005618；V08·P004877—P004887",
+    "href": "../03_实体档案/地标/LMK-0030_黎明城车站、排水与新建工地.md",
+    "regionIds": [
+      "REG-0016",
+      "REG-0014"
+    ],
+    "detailLevel": "详尽",
+    "phase": "V08排水及永久建设阶段",
+    "archive": "# 黎明城车站、排水与新建工地\n\nLMK-0030 · 地标 · 环境资料：详尽 · 所属／关联地区：黎明城、西洲市。\n\n木板站牌、物资料堆、雨泥与碎混凝土，旧战壕改排水坑道，东侧新聚落正在浇地基。\n\n**场景时期**：V08排水及永久建设阶段。\n\n## 环境与场景依据\n\n- **原文场景**：车站只有立起的木板作站牌，周围是物资堆、雨水揉碎的泥土和未拆净的混凝土残渣。（[V08·P005612—P005616](C:/Users/Leung/vwork/b2g-zyx/Novel_World_Reconstruction_v3/00_分卷原文/V08.txt)）\n\n- **原文场景**：北侧旧战壕已变排水坑道，其东侧新聚居地完成排水后正在浇水泥地基、修街道和住房。（[V08·P005615—P005617](C:/Users/Leung/vwork/b2g-zyx/Novel_World_Reconstruction_v3/00_分卷原文/V08.txt)）\n\n- **原文场景**：五层公寓为主、独立小屋为辅是后续住宅方案；雨季北部工地地势低，工人曾在积水中排水。（[V08·P005618—P005618](C:/Users/Leung/vwork/b2g-zyx/Novel_World_Reconstruction_v3/00_分卷原文/V08.txt)）\n\n- **原文场景**：工作服与胶底靴等到站时，此前数天雨已让低工地泡水，工人用桶排水。（[V08·P004877—P004887](C:/Users/Leung/vwork/b2g-zyx/Novel_World_Reconstruction_v3/00_分卷原文/V08.txt)）\n\n## 地图整理要点\n\n保留车站南北、战壕东侧聚落的相对关系；以基础设施工地为主，不额外生造已运营工业区或商业街。\n\n**范围与缺项**：排水完成与房屋建设进度不同；不将规划中的公寓行列当作已建城市天际线。\n\n[返回地标入口](地标入口.md) · [集中阅读地标设定集](C:/Users/Leung/vwork/b2g-zyx/Novel_World_Reconstruction_v3/05_世界设定集/地标设定集.md)\n",
+    "excerpts": [
+      {
+        "source": "V08·P005612—P005616",
+        "text": "　　列车到站。\n　　和曙光城不同的是，黎明城的车站只有一块立着的木板作为站牌。\n　　除了堆放物资的料堆，周围到处都是雨水揉碎的泥土，和未完全拆除的混凝土碎渣。\n　　再往北边一点儿，还能看见之前玩家们挖的战壕——如今这些壕沟已经变成了排水用的坑道。\n　　这儿的一切都很破。"
+      },
+      {
+        "source": "V08·P005615—P005617",
+        "text": "　　再往北边一点儿，还能看见之前玩家们挖的战壕——如今这些壕沟已经变成了排水用的坑道。\n　　这儿的一切都很破。\n　　不过值得称赞的是，在那战壕的东边已经能够看到一座聚居地的轮廓。完成了排水系统的施工，幸存者们开始向地基浇灌水泥，准备修建黎明城的街道和遮风挡雨的房屋。"
+      },
+      {
+        "source": "V08·P005618—P005618",
+        "text": "　　考虑到土地资源有限，黎明城的住宅会以中等密度的五层楼公寓为主，独栋式的小屋为辅。"
+      },
+      {
+        "source": "V08·P004877—P004887",
+        "text": "　　简陋搭建的站台旁边，料堆上成箱成捆的物资堆成了小山。\n　　望着那小山一样的物资，无论是援建队的工头们，还是黎明城的幸存者们，脸上都写满了诧异的表情。\n　　“170吨谷物，81吨羊角薯，1000件棉质工作服，胶底短靴1000双，医用纱布和酒精11箱……”\n　　握着列车长递来的货物清单，小声默念的鲁迪脸上写满了诧异，无法相信自己的双眼。\n　　清单上的物资，正是他们最需要的东西。\n　　尤其是工作服和防水的鞋子。\n　　之前连着下了几天雨，北部工地地势较低，几乎泡在了水坑里。\n　　没有抽水机，为了将水排出去，工人们只能拎着铁桶下地。\n　　一般的草鞋、木鞋还有树皮扎成的鞋子根本不防水，塑胶做的防水鞋数量又有限，不少人的脚都泡烂了。\n　　还有医用纱布和酒精，对于经常会出现磕碰的工地更是必需品。\n　　没有消毒和包扎的医疗用品，即使一点小伤也有可能发炎化脓，变成严重的问题。"
+      }
+    ],
+    "scene": "地标图片/LMK-0030_scene.png",
+    "layout": "地标图片/LMK-0030_layout.png",
+    "status": "已完成两张",
+    "images": {
+      "scene": "地标图片/LMK-0030_scene.png",
+      "layout": "地标图片/LMK-0030_layout.png"
+    },
+    "selectedVisual": "Dawn station drainage/construction phase in V08 rainy season. Hero: modest wooden station sign/stop beside supplies and muddy building foundations, with a former trench turned drainage ditch to the north. Part-built streets, not completed apartment skyline.",
+    "spatialCore": "Small stop and supply patch at south; drainage ditch to north; young foundation plots east of ditch. Clear relation between access, drainage and construction.",
+    "conceptual": false
+  },
+  {
+    "id": "LMK-0031",
+    "type": "LOC",
+    "classification": "LANDMARK",
+    "name": "红河镇旧垃圾填埋矿",
+    "aliases": [],
+    "summary": "污染导致沙化、板结的土地与人工垃圾矿床构成红河主要环境，废弃化工设施是其背景。 所属／关联地区：红河镇。 【商人转述】当地商人介绍大型化工业基地与填埋场因失修泄漏，土壤重金属污染，大面积沙化板结，生态未完全恢复。 【商人转述】半个世纪未充分降解的垃圾成为非天然矿床，促成挖掘和交易。 【原文场景】后续叙述明确红河矿山多为垃圾填埋场旧址，矿坑并非天然矿脉开采的统一场景。",
+    "limits": "地图要点：将填埋矿坑与板结周边土层视为一类主要地标；不为未有独立环境描写的各矿场分别出卡。 范围与缺项：没有明确坑型、层深、轨道或烟气气味；可能挖出核废料只是风险说法，不画作已发现的固定废桶场。",
+    "source": "环境资料：中等；V02·P001299—P001303；V02·P001304—P001306；V03·P002771—P002774",
+    "href": "../03_实体档案/地标/LMK-0031_红河镇旧垃圾填埋矿.md",
+    "regionIds": [
+      "REG-0017"
+    ],
+    "detailLevel": "中等",
+    "images": {
+      "scene": "地标图片/LMK-0031_scene.png",
+      "layout": "地标图片/LMK-0031_layout.png"
+    },
+    "sceneNote": "大场景效果图；坑型、采掘区布局、挖机、棚屋、废化工设施外形与配色为美术补充。",
+    "archive": "# 红河镇旧垃圾填埋矿\n\nLMK-0031 · 地标 · 环境资料：中等 · 所属／关联地区：红河镇。\n\n污染导致沙化、板结的土地与人工垃圾矿床构成红河主要环境，废弃化工设施是其背景。\n\n## 环境与场景依据\n\n- **商人转述**：当地商人介绍大型化工业基地与填埋场因失修泄漏，土壤重金属污染，大面积沙化板结，生态未完全恢复。（[V02·P001299—P001303](C:/Users/Leung/vwork/b2g-zyx/Novel_World_Reconstruction_v3/00_分卷原文/V02.txt)）\n\n- **商人转述**：半个世纪未充分降解的垃圾成为非天然矿床，促成挖掘和交易。（[V02·P001304—P001306](C:/Users/Leung/vwork/b2g-zyx/Novel_World_Reconstruction_v3/00_分卷原文/V02.txt)）\n\n- **原文场景**：后续叙述明确红河矿山多为垃圾填埋场旧址，矿坑并非天然矿脉开采的统一场景。（[V03·P002771—P002774](C:/Users/Leung/vwork/b2g-zyx/Novel_World_Reconstruction_v3/00_分卷原文/V03.txt)）\n\n## 地图整理要点\n\n将填埋矿坑与板结周边土层视为一类主要地标；不为未有独立环境描写的各矿场分别出卡。\n\n**范围与缺项**：没有明确坑型、层深、轨道或烟气气味；可能挖出核废料只是风险说法，不画作已发现的固定废桶场。\n\n[返回地标入口](地标入口.md) · [集中阅读地标设定集](C:/Users/Leung/vwork/b2g-zyx/Novel_World_Reconstruction_v3/05_世界设定集/地标设定集.md)\n",
+    "excerpts": [
+      {
+        "source": "V02·P001299—P001303",
+        "text": "　　生活在清泉市的幸存者，很难想象都红河镇那边的情况，虽然两地相隔不到一百公里，但那里的生态环境却完全是另一副面貌。\n　　根据这位孙姓商人自己的说法，当地有一家规模很大的化工业基地和一座垃圾填埋场。\n　　由于战后这些设施都无人维护，库存发生了泄露，以至于当地土壤污染严重，重金属含量尤其超标，大面积的沙化和板结，即使现在仍没有被自然完全修复。\n　　不止如此，由于生态系统的脆弱，当地的异种也主要以食腐生物和节肢动物为主。\n　　而这种极端的情况，导致当地的幸存者们几乎没有可以利用的耕地，也很难通过打猎维持生活。"
+      },
+      {
+        "source": "V02·P001304—P001306",
+        "text": "　　不过很有意思的是，那座在战前曾不止一次遭到当地人抗议的垃圾填埋场，在核战结束之后的两个世纪里，却成了当地幸存者们最大的一笔财富。\n　　那里埋着将近半个世纪的垃圾，并且很大一部分都没能来得及降解处理。\n　　在如今的废土纪元，埋在那里的垃圾已经形成了另一种意义上的“非天然矿床”，并且促成了当地矿业、考古业以及贸易的繁荣。"
+      },
+      {
+        "source": "V03·P002771—P002774",
+        "text": "　　“把他们带去四公里外的废弃轮胎厂，那里有他们自己修建的地牢，”楚光看了那些恶棍们一眼，淡淡说道，“死亡太便宜他们了，他们会在红河镇的矿洞里度过余生。”\n　　红河镇的矿山不是真正的矿山，大多都是垃圾填埋场的旧址。\n　　只有老天晓得会从里面挖出来什么东西，就算是挖出来被违规填埋的核废料也不奇怪。\n　　在那儿工作的奴隶都是消耗品，很少有人能活过十年，快的甚至两三年就不行了。"
+      }
+    ],
+    "scene": "地标图片/LMK-0031_scene.png",
+    "layout": "地标图片/LMK-0031_layout.png",
+    "status": "已完成两张",
+    "selectedVisual": "Preserve the approved Red River landfill-mine effect image. Main identity: flat polluted hardpan, exposed rubbish-laden excavation face and derelict chemical works backdrop. For layout, select a few core excavation and sorting areas, omit micro-scrap and excess props.",
+    "spatialCore": "Broad salvage excavation in front; access loop and small sorting court at rim; simplified derelict chemical structures at the back. One coherent mine terrain.",
+    "conceptual": false
+  },
+  {
+    "id": "LMK-0032",
+    "type": "LOC",
+    "classification": "LANDMARK",
+    "name": "瑞谷市荒废商业街区",
+    "aliases": [],
+    "summary": "主体仍较完整却失去人烟的钢铁丛林，破橱窗、废车、旧仿生模特与杂草展示另一种废城面貌。 所属／关联地区：瑞谷市。 【原文场景】瑞谷北为山峦、东为森林、南为倒塌民房和建筑垃圾覆盖的平原，是走廊西口的景观背景。 【原文场景】入城街道垃圾无人清扫，废车横在杂草路上，金属灯柱斑驳，橱窗里瘫痪仿生模特还挂残布。 【原文场景】大量建筑主体未遭重武器破坏而仍完好，后来异种在楼内筑巢、废墟间通行。",
+    "limits": "地图要点：作为不包含香菱聚落、卡廷驿站、落叶营地和军团地表前哨的城市街景背景；保留山、林、平原大方向。 范围与缺项：不能把清泉东区密林巨蛋照搬到瑞谷；也不能将街道荒废写成全城建筑已夷平。",
+    "source": "环境资料：详尽；V08·P006830—P006832；V08·P009570—P009573；V08·P009588—P009592",
+    "href": "../03_实体档案/地标/LMK-0032_瑞谷市荒废商业街区.md",
+    "regionIds": [
+      "REG-0025"
+    ],
+    "detailLevel": "详尽",
+    "archive": "# 瑞谷市荒废商业街区\n\nLMK-0032 · 地标 · 环境资料：详尽 · 所属／关联地区：瑞谷市。\n\n主体仍较完整却失去人烟的钢铁丛林，破橱窗、废车、旧仿生模特与杂草展示另一种废城面貌。\n\n## 环境与场景依据\n\n- **原文场景**：瑞谷北为山峦、东为森林、南为倒塌民房和建筑垃圾覆盖的平原，是走廊西口的景观背景。（[V08·P006830—P006832](C:/Users/Leung/vwork/b2g-zyx/Novel_World_Reconstruction_v3/00_分卷原文/V08.txt)）\n\n- **原文场景**：入城街道垃圾无人清扫，废车横在杂草路上，金属灯柱斑驳，橱窗里瘫痪仿生模特还挂残布。（[V08·P009570—P009573](C:/Users/Leung/vwork/b2g-zyx/Novel_World_Reconstruction_v3/00_分卷原文/V08.txt)）\n\n- **原文场景**：大量建筑主体未遭重武器破坏而仍完好，后来异种在楼内筑巢、废墟间通行。（[V08·P009588—P009592](C:/Users/Leung/vwork/b2g-zyx/Novel_World_Reconstruction_v3/00_分卷原文/V08.txt)）\n\n## 地图整理要点\n\n作为不包含香菱聚落、卡廷驿站、落叶营地和军团地表前哨的城市街景背景；保留山、林、平原大方向。\n\n**范围与缺项**：不能把清泉东区密林巨蛋照搬到瑞谷；也不能将街道荒废写成全城建筑已夷平。\n\n[返回地标入口](地标入口.md) · [集中阅读地标设定集](C:/Users/Leung/vwork/b2g-zyx/Novel_World_Reconstruction_v3/05_世界设定集/地标设定集.md)\n",
+    "excerpts": [
+      {
+        "source": "V08·P006830—P006832",
+        "text": "　　经过一个星期的跋涉，她们总算是来到了河谷行省与落霞行省的交界处。\n　　这里是一个叫瑞谷市的地方，城市的北面是崇山峻岭，东面是一片森林，南面是一马平川，倒塌的民房和建筑垃圾覆盖了整片旷野。\n　　由于这儿是河谷行省南部走廊的西出口，因此这儿的商队倒是络绎不绝，森林的边缘也零星分布着一些幸存者聚居地。"
+      },
+      {
+        "source": "V08·P009570—P009573",
+        "text": "　　荒无人烟的街道散落着无人清扫的垃圾，报废的车辆横卧在杂草丛生的街道，金属灯柱上的斑驳让人分不清是锈迹还是血迹。\n　　破损的橱窗在这儿随处可见，已经瘫痪的仿生人模特身上仍挂着两百年前最潮流款式的残布片缕，唯独却看不见一个人影。\n　　这里未曾遭遇重武器的轰炸，绝大多数建筑的主体结构完好。\n　　但最终还是荒废掉了。"
+      },
+      {
+        "source": "V08·P009588—P009592",
+        "text": "　　正如她在进入城市之后看见的那样，毁灭这座城市的并不是战争本身，而是由战争引发的混乱。\n　　包括粮食、水、电、燃料等等一系列资源的匮乏，让这里变成了比原始森林还要残酷的钢铁丛林。\n　　尤其是战争的第三年，让这颗星球进入了长达半个世纪的小冰河期。\n　　而当大多数人撤出了城市之后，异种很快占领了这里，在楼房中筑巢，在废墟间穿行，在黑暗中狩猎。\n　　行走在这里的废土客永远不会知道，当他打开一扇门时，最先窜出来的是比腿还长的蟑螂，还是一群磨牙吮血的老鼠。"
+      }
+    ],
+    "scene": "地标图片/LMK-0032_scene.png",
+    "layout": "地标图片/LMK-0032_layout.png",
+    "status": "已完成两张",
+    "images": {
+      "scene": "地标图片/LMK-0032_scene.png",
+      "layout": "地标图片/LMK-0032_layout.png"
+    },
+    "selectedVisual": "Ruigu abandoned commercial district. Hero: mostly standing high-rise/storefront shells, empty weed-filled road with abandoned cars and one old mannequin behind a broken window. Quiet steel-concrete city rather than flattened rubble or Qingquan's forest dome.",
+    "spatialCore": "A short commercial avenue with standing building blocks and one side alley; a few cars and vegetation pockets. Distant hills north, forest edge east only as background cues.",
+    "conceptual": false
+  },
+  {
+    "id": "LMK-0033",
+    "type": "LOC",
+    "classification": "LANDMARK",
+    "name": "瑞谷军团地表前哨与升降平台",
+    "aliases": [],
+    "summary": "飞艇阴影下以锚链升降台连接地面的军用营地，岗哨、巡逻、施工机械与履带火力平台围绕展开。 所属／关联地区：瑞谷市。 【原文场景】飞艇在城区边缘树林上方降至五六百米，四根锚链落地，腹部放下悬吊升降台，投影覆盖大片城区与树林。 【原文场景】地面后勤开始建立前哨，部署两台小挖掘机、两辆带四联装防空炮的轻履带车。 【原文场景】营地后来可见黑袍重甲岗哨巡逻和中央升降梯，说明地面营盘与飞艇有明确垂直连接。",
+    "limits": "地图要点：本卡表现地表营地及通往空中的平台连接，钢铁之心本体仍在建筑档案；不要与收容居民的落叶营地合并。 范围与缺项：悬停高度属于这次部署，不是永久地面结构高度；营盘尺寸和全部帐篷数量未明确。",
+    "source": "环境资料：详尽；V08·P007811—P007815；V08·P007821—P007827；V08·P012388—P012399",
+    "href": "../03_实体档案/地标/LMK-0033_瑞谷军团地表前哨与升降平台.md",
+    "regionIds": [
+      "REG-0025"
+    ],
+    "detailLevel": "详尽",
+    "archive": "# 瑞谷军团地表前哨与升降平台\n\nLMK-0033 · 地标 · 环境资料：详尽 · 所属／关联地区：瑞谷市。\n\n飞艇阴影下以锚链升降台连接地面的军用营地，岗哨、巡逻、施工机械与履带火力平台围绕展开。\n\n## 环境与场景依据\n\n- **原文场景**：飞艇在城区边缘树林上方降至五六百米，四根锚链落地，腹部放下悬吊升降台，投影覆盖大片城区与树林。（[V08·P007811—P007815](C:/Users/Leung/vwork/b2g-zyx/Novel_World_Reconstruction_v3/00_分卷原文/V08.txt)）\n\n- **原文场景**：地面后勤开始建立前哨，部署两台小挖掘机、两辆带四联装防空炮的轻履带车。（[V08·P007821—P007827](C:/Users/Leung/vwork/b2g-zyx/Novel_World_Reconstruction_v3/00_分卷原文/V08.txt)）\n\n- **原文场景**：营地后来可见黑袍重甲岗哨巡逻和中央升降梯，说明地面营盘与飞艇有明确垂直连接。（[V08·P012388—P012399](C:/Users/Leung/vwork/b2g-zyx/Novel_World_Reconstruction_v3/00_分卷原文/V08.txt)）\n\n## 地图整理要点\n\n本卡表现地表营地及通往空中的平台连接，钢铁之心本体仍在建筑档案；不要与收容居民的落叶营地合并。\n\n**范围与缺项**：悬停高度属于这次部署，不是永久地面结构高度；营盘尺寸和全部帐篷数量未明确。\n\n**关联建筑**：BLD-0018；建筑档案补充功能与内部信息，本卡以环境场景为主。\n\n[返回地标入口](地标入口.md) · [集中阅读地标设定集](C:/Users/Leung/vwork/b2g-zyx/Novel_World_Reconstruction_v3/05_世界设定集/地标设定集.md)\n",
+    "excerpts": [
+      {
+        "source": "V08·P007811—P007815",
+        "text": "　　巍峨的“钢铁之心”号缓缓下降了高度，从空中洒下的阴影犹如一道帷幕，几乎盖住了半个城区和城区边缘的树林。\n　　靠近五六百米的低空悬停，紧接着四根粗长的锚链从飞艇上扔下，如炮弹一般砸进了飞艇下方的地面。\n　　锚链投放完毕。\n　　完全停稳之后，飞艇的腹部放下了锁链悬吊的升降平台。\n　　身披黑色斗篷的士兵，列成整齐的队形从平台上走下。"
+      },
+      {
+        "source": "V08·P007821—P007827",
+        "text": "　　“……把升降梯上的物资搬下来，我们要在天黑之前建立地表的前哨！如果不想睡林子里，就特么动作快点！”\n　　站在队伍的前面，穿着黑色外骨骼的男人嗓门洪亮的吼着，督促着手下的士兵卸下升降梯上的物资。\n　　他的名字叫雷契尔，军衔是千夫长，负责地表营地的建设，以及对附近区域的搜索和巡逻。\n　　后勤人员跟随第二批物资抵达了地表，迅速投入到了营地的建设中。\n　　除了铲子、铁锹等等工具，他们还向地面部署了两台小型挖掘机，进行土方作业的施工。\n　　与此同时，还有两辆轻型履带装甲车也被部署了下来。\n　　扛在履带车上的20mm四联装防空炮，既能够作为防空火力的补充，又能够为步兵提供中距离支援火力。"
+      },
+      {
+        "source": "V08·P012388—P012399",
+        "text": "　　就在他胡思乱想着的时候，影影绰绰的营火出现在了不远处，只见那森林的背后竟然又是一片营地。\n　　和落叶营地不同，这儿无论是执勤的人，还是巡逻的人，都是披着黑袍穿着重型防弹甲的士兵。\n　　毫无疑问——\n　　这里是军团航天陆战队的驻地！\n　　战地气氛组心中惊讶之余，跟着那士兵继续向前，穿过了营地门口的岗哨，同时默默观察着营地内的布防情况。\n　　很快俩人来到了营地中央，一座升降梯停在那里。\n　　“上去。”\n　　听到那黑袍士兵的声音，战地佬乖乖站上了升降梯，心中却是激动地连呼卧槽。\n　　好家伙！\n　　这是要把自己请进“水晶”里？！\n　　不等他多想，升降梯已经启动。\n　　在数根铁链的牵引下，平台缓缓升起，一点点靠近那座巍峨的钢铁堡垒，直到完全进入。"
+      }
+    ],
+    "scene": "地标图片/LMK-0033_scene.png",
+    "layout": "地标图片/LMK-0033_layout.png",
+    "status": "已完成两张",
+    "images": {
+      "scene": "地标图片/LMK-0033_scene.png",
+      "layout": "地标图片/LMK-0033_layout.png"
+    },
+    "selectedVisual": "Ruigu Legion ground outpost under an airship. Hero: a suspended cargo platform meeting a ground logistics clearing, anchor cables rising out of frame and a vast soft overhead airship shadow. Ground camp focus, not a full airship showcase.",
+    "spatialCore": "Central platform arrival zone, small surrounding logistics/camp clusters and anchor-cable points; forest/city edge at back. Vertical link continues upward beyond the local ground tile.",
+    "conceptual": false
+  },
+  {
+    "id": "LMK-0034",
+    "type": "LOC",
+    "classification": "LANDMARK",
+    "name": "大裂谷整体环境总览",
+    "aliases": [],
+    "summary": "河谷北方的重要幸存者据点，战前国家地质公园、盘古蓄能设施与战后防御遗产共同构成其空间背景。 所属／关联地区：大裂谷。 【人物介绍】地方位于河谷行省北部；人物介绍其为战前国家地质公园，同时也是盘古蓄能中心遗址。 【人物介绍／听闻】它后来成为大型幸存者据点，保有部分战前装备；防御设施仍工作属于介绍者听闻。",
+    "limits": "地图要点：按用户要求保留整体环境总览，内部节点接盘古遗址；地图上只标地理级位置与遗产关系。 范围与缺项：当前八卷缺直接走访视角，不据地名补峡谷断面、崖壁桥梁、城门或楼群轮廓。",
+    "source": "环境资料：简略；V04·P005118—P005128；V04·P005128—P005129",
+    "href": "../03_实体档案/地标/LMK-0034_大裂谷整体环境总览.md",
+    "regionIds": [
+      "REG-0021"
+    ],
+    "detailLevel": "简略",
+    "archive": "# 大裂谷整体环境总览\n\nLMK-0034 · 地标 · 环境资料：简略 · 所属／关联地区：大裂谷。\n\n河谷北方的重要幸存者据点，战前国家地质公园、盘古蓄能设施与战后防御遗产共同构成其空间背景。\n\n## 环境与场景依据\n\n- **人物介绍**：地方位于河谷行省北部；人物介绍其为战前国家地质公园，同时也是盘古蓄能中心遗址。（[V04·P005118—P005128](C:/Users/Leung/vwork/b2g-zyx/Novel_World_Reconstruction_v3/00_分卷原文/V04.txt)）\n\n- **人物介绍／听闻**：它后来成为大型幸存者据点，保有部分战前装备；防御设施仍工作属于介绍者听闻。（[V04·P005128—P005129](C:/Users/Leung/vwork/b2g-zyx/Novel_World_Reconstruction_v3/00_分卷原文/V04.txt)）\n\n## 地图整理要点\n\n按用户要求保留整体环境总览，内部节点接盘古遗址；地图上只标地理级位置与遗产关系。\n\n**范围与缺项**：当前八卷缺直接走访视角，不据地名补峡谷断面、崖壁桥梁、城门或楼群轮廓。\n\n[返回地标入口](地标入口.md) · [集中阅读地标设定集](C:/Users/Leung/vwork/b2g-zyx/Novel_World_Reconstruction_v3/05_世界设定集/地标设定集.md)\n",
+    "excerpts": [
+      {
+        "source": "V04·P005118—P005128",
+        "text": "　　“其实不只是军团，企业内的不少人也对大裂谷充满了兴趣。那里曾经是人联的国家地质公园，同时也是“盘古”蓄能中心的遗址。”\n　　听到了一个意料之外的名词，楚光微微愣了下。\n　　“盘古储能中心？”\n　　卢扬点了点头。\n　　“是的，战前时代，人们建造了不少宏伟的奇观，盘古储能中心就是其中之一。由于中部地区的昼夜电网负荷差太大，它主要是被用来储存电网过剩的盈余，同时将这些盈余的电能用来改善大气环境。”\n　　楚光皱眉道。\n　　“储存核聚变的能量？这是怎么做到的。”\n　　卢扬：“据说是电解海水。”\n　　楚光：“那得多少……”\n　　卢扬：“不知道，我只听说很多很多，作为副产物产生的氯气甚至能作为工业原料，供应周围的工业区，因此在盘古储能中心的地下储存着大量的固态氢，以及其他东西。”\n　　“早些年那里由111轨道空降师驻守，废土纪元之后据说延续了一段时间的军事管制，收容了大量从其他地区逃难来的幸存者，再后来就不清楚了……反正现在的话，那里已经发展成了一座很大的幸存者据点。他们的工业能力不强，但继承了不少战前装备，即使是今天有些装备依然能用。”"
+      },
+      {
+        "source": "V04·P005128—P005129",
+        "text": "　　“早些年那里由111轨道空降师驻守，废土纪元之后据说延续了一段时间的军事管制，收容了大量从其他地区逃难来的幸存者，再后来就不清楚了……反正现在的话，那里已经发展成了一座很大的幸存者据点。他们的工业能力不强，但继承了不少战前装备，即使是今天有些装备依然能用。”\n　　“我想你应该能猜到，这种高威胁的战略设施，通常都会设计有严密的防御措施，而我听到的一种说法是，那些设施还在工作。”"
+      }
+    ],
+    "scene": "地标图片/LMK-0034_scene.png",
+    "layout": "地标图片/LMK-0034_layout.png",
+    "status": "已完成两张",
+    "images": {
+      "scene": "地标图片/LMK-0034_scene.png",
+      "layout": "地标图片/LMK-0034_layout.png"
+    },
+    "selectedVisual": "CONCEPTUAL Great Rift regional heritage settlement: a broad geological-park landscape with understated surviving strategic infrastructure and a distant survivor settlement cluster. Focus on geological/heritage atmosphere; no claimed exact canyon cross-section, grand bridge, city wall or building-by-building panorama.",
+    "spatialCore": "Regional relationship of geological landscape, old utility heritage and settlement area, using broad low-detail landforms and masses. Interpretive concept, not a surveyed map.",
+    "conceptual": true
+  },
+  {
+    "id": "LMK-0035",
+    "type": "LOC",
+    "classification": "LANDMARK",
+    "name": "盘古蓄能中心与地质公园遗址",
+    "aliases": [],
+    "summary": "大裂谷旧国家地质公园中的战略蓄能遗址，地下储存设施与旧军事驻守构成可确定的功能节点。 所属／关联地区：大裂谷。 【人物介绍／听闻】盘古设施原用于储存电网盈余，地下据说存有大量固态氢及其他物资。 【人物介绍】其历史与111轨道空降师驻守、废土初期收容难民有关，不能据此重建现行基地布局。",
+    "limits": "地图要点：作为大裂谷总览下的一个遗址点；仅保留地上公园与地下战略设施的关系，未给地下入口与纵深。 范围与缺项：不绘电解池、发电机组、圣盾发射器形状等原文未描述的设备；历史作用不等于当前全部设施仍完好。",
+    "source": "环境资料：简略；V04·P005118—P005127；V04·P005128—P005129",
+    "href": "../03_实体档案/地标/LMK-0035_盘古蓄能中心与地质公园遗址.md",
+    "regionIds": [
+      "REG-0021"
+    ],
+    "detailLevel": "简略",
+    "archive": "# 盘古蓄能中心与地质公园遗址\n\nLMK-0035 · 地标 · 环境资料：简略 · 所属／关联地区：大裂谷。\n\n大裂谷旧国家地质公园中的战略蓄能遗址，地下储存设施与旧军事驻守构成可确定的功能节点。\n\n## 环境与场景依据\n\n- **人物介绍／听闻**：盘古设施原用于储存电网盈余，地下据说存有大量固态氢及其他物资。（[V04·P005118—P005127](C:/Users/Leung/vwork/b2g-zyx/Novel_World_Reconstruction_v3/00_分卷原文/V04.txt)）\n\n- **人物介绍**：其历史与111轨道空降师驻守、废土初期收容难民有关，不能据此重建现行基地布局。（[V04·P005128—P005129](C:/Users/Leung/vwork/b2g-zyx/Novel_World_Reconstruction_v3/00_分卷原文/V04.txt)）\n\n## 地图整理要点\n\n作为大裂谷总览下的一个遗址点；仅保留地上公园与地下战略设施的关系，未给地下入口与纵深。\n\n**范围与缺项**：不绘电解池、发电机组、圣盾发射器形状等原文未描述的设备；历史作用不等于当前全部设施仍完好。\n\n[返回地标入口](地标入口.md) · [集中阅读地标设定集](C:/Users/Leung/vwork/b2g-zyx/Novel_World_Reconstruction_v3/05_世界设定集/地标设定集.md)\n",
+    "excerpts": [
+      {
+        "source": "V04·P005118—P005127",
+        "text": "　　“其实不只是军团，企业内的不少人也对大裂谷充满了兴趣。那里曾经是人联的国家地质公园，同时也是“盘古”蓄能中心的遗址。”\n　　听到了一个意料之外的名词，楚光微微愣了下。\n　　“盘古储能中心？”\n　　卢扬点了点头。\n　　“是的，战前时代，人们建造了不少宏伟的奇观，盘古储能中心就是其中之一。由于中部地区的昼夜电网负荷差太大，它主要是被用来储存电网过剩的盈余，同时将这些盈余的电能用来改善大气环境。”\n　　楚光皱眉道。\n　　“储存核聚变的能量？这是怎么做到的。”\n　　卢扬：“据说是电解海水。”\n　　楚光：“那得多少……”\n　　卢扬：“不知道，我只听说很多很多，作为副产物产生的氯气甚至能作为工业原料，供应周围的工业区，因此在盘古储能中心的地下储存着大量的固态氢，以及其他东西。”"
+      },
+      {
+        "source": "V04·P005128—P005129",
+        "text": "　　“早些年那里由111轨道空降师驻守，废土纪元之后据说延续了一段时间的军事管制，收容了大量从其他地区逃难来的幸存者，再后来就不清楚了……反正现在的话，那里已经发展成了一座很大的幸存者据点。他们的工业能力不强，但继承了不少战前装备，即使是今天有些装备依然能用。”\n　　“我想你应该能猜到，这种高威胁的战略设施，通常都会设计有严密的防御措施，而我听到的一种说法是，那些设施还在工作。”"
+      }
+    ],
+    "scene": "地标图片/LMK-0035_scene.png",
+    "layout": "地标图片/LMK-0035_layout.png",
+    "status": "已完成两张",
+    "images": {
+      "scene": "地标图片/LMK-0035_scene.png",
+      "layout": "地标图片/LMK-0035_layout.png"
+    },
+    "selectedVisual": "CONCEPTUAL Pangu storage-center heritage in a former geological park. Hero: a plain weathered strategic utility-building mass partly settled into rocky terrain, closed and quiet. A small former service court contrasts natural geology. No exposed invented electrolysis plant, hydrogen factory, emitter or deep interior.",
+    "spatialCore": "One restrained utility-heritage footprint within park-like geological terrain, with limited former service ground. Subsurface presence suggested by a buried plinth only, not a detailed underground plan.",
+    "conceptual": true
+  },
+  {
+    "id": "LMK-0036",
+    "type": "LOC",
+    "classification": "LANDMARK",
+    "name": "理想城整体环境总览",
+    "aliases": [],
+    "summary": "从地表到高空层层堆叠的巨型城市，钢筋混凝土高楼、霓虹全息与空中列车展示废土中罕见的繁荣。 所属／关联地区：理想城。 【人物介绍】位于云间行省，旧云上、云下两市间工业遗址、6号避难所上方；巨壁高塔、地上地下居住分层来自企业人员讲述。 【原文场景】后续叙述直接呈现层叠混凝土钢筋骨架直上天空、外侧大厦全息影像远可见、磁悬浮列车在楼间穿行。 【原文场景】高层窗口望向交通与楼顶平台，运输机降落，是城市上层空间的补充实景。",
+    "limits": "地图要点：整体总览突出纵向层级，细景另见楼间交通走廊和高层停机坪。 范围与缺项：口述的面积与地下生活信息不用于反推精确全城平面；不把云上、云下两市的全部行政范围算成理想城。",
+    "source": "环境资料：详尽；V04·P003824—P003827；V08·P011305—P011310；V08·P011311—P011329",
+    "href": "../03_实体档案/地标/LMK-0036_理想城整体环境总览.md",
+    "regionIds": [
+      "REG-0024"
+    ],
+    "detailLevel": "详尽",
+    "archive": "# 理想城整体环境总览\n\nLMK-0036 · 地标 · 环境资料：详尽 · 所属／关联地区：理想城。\n\n从地表到高空层层堆叠的巨型城市，钢筋混凝土高楼、霓虹全息与空中列车展示废土中罕见的繁荣。\n\n## 环境与场景依据\n\n- **人物介绍**：位于云间行省，旧云上、云下两市间工业遗址、6号避难所上方；巨壁高塔、地上地下居住分层来自企业人员讲述。（[V04·P003824—P003827](C:/Users/Leung/vwork/b2g-zyx/Novel_World_Reconstruction_v3/00_分卷原文/V04.txt)）\n\n- **原文场景**：后续叙述直接呈现层叠混凝土钢筋骨架直上天空、外侧大厦全息影像远可见、磁悬浮列车在楼间穿行。（[V08·P011305—P011310](C:/Users/Leung/vwork/b2g-zyx/Novel_World_Reconstruction_v3/00_分卷原文/V08.txt)）\n\n- **原文场景**：高层窗口望向交通与楼顶平台，运输机降落，是城市上层空间的补充实景。（[V08·P011311—P011329](C:/Users/Leung/vwork/b2g-zyx/Novel_World_Reconstruction_v3/00_分卷原文/V08.txt)）\n\n## 地图整理要点\n\n整体总览突出纵向层级，细景另见楼间交通走廊和高层停机坪。\n\n**范围与缺项**：口述的面积与地下生活信息不用于反推精确全城平面；不把云上、云下两市的全部行政范围算成理想城。\n\n[返回地标入口](地标入口.md) · [集中阅读地标设定集](C:/Users/Leung/vwork/b2g-zyx/Novel_World_Reconstruction_v3/05_世界设定集/地标设定集.md)\n",
+    "excerpts": [
+      {
+        "source": "V04·P003824—P003827",
+        "text": "　　首先，企业位于中洲大陆最东部的云间行省，那里是一条大江两条支流的出海口，也是繁荣纪元之前的政治经济文化中心，有着四个战略区、三个都市圈、两个工业中心、以及一片“历史悠久”的古老城市群。\n　　至于企业的总部，则是坐落在云上市与云下市之间的工业区遗址，6号避难所的上方，一座名叫“理想城”的地方。\n　　那里有大坝一般高耸的巨壁，有着触碰云层的高塔，飞行器在街道间穿梭，但飞不了太远，人们拥挤在不到五百平方公里的“城市”，绝大多数人住在没有窗户的地下，少数人能看见落地窗外的云。\n　　楚光听着听着，总感觉这个“理想城”有点儿“不夜城”的味道，也不知道这家伙嘴里几分真假。"
+      },
+      {
+        "source": "V08·P011305—P011310",
+        "text": "　　如果要说这片废土上还有哪个地方，能瞻仰到人联的最后一抹余晖，那毫无疑问是东海岸的明珠——那座名为“理想城”的乌托邦。\n　　层层叠叠的混凝土与钢筋骨架从地表一直延伸到天空，站在地表抬头向上望去，甚至一眼望不到尽头。\n　　霓虹闪烁的光污染是这座城市最形象的写照，投屏在最外围大厦上的全息影像哪怕隔着数十公里都能看到。\n　　不管是从多繁华的地方来到这儿的废土客，都会像土包子一样瞪大眼睛四处张望，并被那闪烁的灯光和四通八达的交通弄的不知所措。\n　　一架架磁悬浮列车穿梭在高楼大厦之间，如同游动在海藻之间的鱼群。\n　　只有少数大鱼，能游到最高处，欣赏清晨的第一缕初阳……"
+      },
+      {
+        "source": "V08·P011311—P011329",
+        "text": "　　站在落地窗前，男人静静地看着窗外，就像在欣赏着客厅的鱼缸。\n　　他的名字叫罗永，是银翼集团董事会的核心成员之一，持有17%的股份。\n　　“紧急通讯手段……看来我们的开拓者号真的遇到麻烦了。”坐在沙发上的客人饶有兴趣地端详着手中的酒杯，忽然若无其事地开口说了句。\n　　他的名字叫康乐，是康茂集团董事会的核心成员之一。\n　　和主要从事重型工程装备制造的银翼集团不同，康茂集团的业务范围主要是辅助装备与医疗器械。\n　　两人虽然是酒友，但聚在一起的时候，讨论的话题总是与酒无关。\n　　“嗯。”\n　　“听说你儿子在那所开拓者号上？”\n　　“是的。”\n　　见这家伙这么沉得住气，康乐惊讶地轻轻抬了下眉毛。\n　　“你不担心么。”\n　　“你们不是有克隆人定制业务吗，再克隆一个就是了。”罗永用稀松平常的语气说着，那平静的声音听不出一丝波澜。\n　　康乐轻轻抬了下眉毛，意外的多看了他两眼，似乎没想到他会这么说。\n　　将视线从落地窗前的背影上挪开，他淡淡笑了笑说道。\n　　“……我们能克隆细胞，但克隆不了记忆，更克隆不了灵魂。”\n　　“你还信那东西？”\n　　“和信不信无关，那只是一种抽象的说法。我认为，人是一种区分于物的概念，而血肉仅仅只是这种概念的载体。制作容器很容易，很久以前我们就能做到了，甚至能做的比自然诞生的更好，但我们至今仍然做不到将抽象的思想，从一个容器转移到另一个容器……”\n　　康乐滔滔不绝地继续说着，然而站在落地窗前的罗永却并不想听，只是目不转睛地望着窗外。\n　　不远处，一架“电鳐”运输机缓缓地穿过鳞次栉比的高楼，落在了楼顶的停机坪上。"
+      }
+    ],
+    "scene": "地标图片/LMK-0036_scene.png",
+    "layout": "地标图片/LMK-0036_layout.png",
+    "status": "已完成两张",
+    "images": {
+      "scene": "地标图片/LMK-0036_scene.png",
+      "layout": "地标图片/LMK-0036_layout.png"
+    },
+    "selectedVisual": "Ideal City overall vertical metropolis. Hero: dense stacked concrete-and-steel towers climbing into the sky, one elevated maglev connection and a few restrained luminous facade panels. Select a representative vertical city slice, not every administrative district or a full closed city footprint.",
+    "spatialCore": "Several staggered tower clusters at contrasting heights, two linked urban levels and a clear elevated transport corridor. Same refined matte low-poly game style as the approved Ideal City image.",
+    "conceptual": false
+  },
+  {
+    "id": "LMK-0037",
+    "type": "LOC",
+    "classification": "LANDMARK",
+    "name": "理想城霓虹楼群与空中交通走廊",
+    "aliases": [],
+    "summary": "从地表仰望无尽高楼，外立面全息屏与楼间磁悬浮线路组成连续的都市街景。 所属／关联地区：理想城。 【原文场景】层叠混凝土与钢筋骨架向天延伸，地表仰望难见尽头；全息影像投在外围大厦。 【原文场景】磁悬浮列车在高楼之间穿梭，交通不是仅限地面道路。",
+    "limits": "地图要点：作为理想城内部一个连续交通景观，表现楼体高差、穿楼间列车和发光外立面；不逐栋虚构楼名。 范围与缺项：线路数量、站台和轨道曲线未明确，不能将画面比喻转成可测高度。",
+    "source": "环境资料：详尽；V08·P011305—P011308；V08·P011309—P011310",
+    "href": "../03_实体档案/地标/LMK-0037_理想城霓虹楼群与空中交通走廊.md",
+    "regionIds": [
+      "REG-0024"
+    ],
+    "detailLevel": "详尽",
+    "archive": "# 理想城霓虹楼群与空中交通走廊\n\nLMK-0037 · 地标 · 环境资料：详尽 · 所属／关联地区：理想城。\n\n从地表仰望无尽高楼，外立面全息屏与楼间磁悬浮线路组成连续的都市街景。\n\n## 环境与场景依据\n\n- **原文场景**：层叠混凝土与钢筋骨架向天延伸，地表仰望难见尽头；全息影像投在外围大厦。（[V08·P011305—P011308](C:/Users/Leung/vwork/b2g-zyx/Novel_World_Reconstruction_v3/00_分卷原文/V08.txt)）\n\n- **原文场景**：磁悬浮列车在高楼之间穿梭，交通不是仅限地面道路。（[V08·P011309—P011310](C:/Users/Leung/vwork/b2g-zyx/Novel_World_Reconstruction_v3/00_分卷原文/V08.txt)）\n\n## 地图整理要点\n\n作为理想城内部一个连续交通景观，表现楼体高差、穿楼间列车和发光外立面；不逐栋虚构楼名。\n\n**范围与缺项**：线路数量、站台和轨道曲线未明确，不能将画面比喻转成可测高度。\n\n[返回地标入口](地标入口.md) · [集中阅读地标设定集](C:/Users/Leung/vwork/b2g-zyx/Novel_World_Reconstruction_v3/05_世界设定集/地标设定集.md)\n",
+    "excerpts": [
+      {
+        "source": "V08·P011305—P011308",
+        "text": "　　如果要说这片废土上还有哪个地方，能瞻仰到人联的最后一抹余晖，那毫无疑问是东海岸的明珠——那座名为“理想城”的乌托邦。\n　　层层叠叠的混凝土与钢筋骨架从地表一直延伸到天空，站在地表抬头向上望去，甚至一眼望不到尽头。\n　　霓虹闪烁的光污染是这座城市最形象的写照，投屏在最外围大厦上的全息影像哪怕隔着数十公里都能看到。\n　　不管是从多繁华的地方来到这儿的废土客，都会像土包子一样瞪大眼睛四处张望，并被那闪烁的灯光和四通八达的交通弄的不知所措。"
+      },
+      {
+        "source": "V08·P011309—P011310",
+        "text": "　　一架架磁悬浮列车穿梭在高楼大厦之间，如同游动在海藻之间的鱼群。\n　　只有少数大鱼，能游到最高处，欣赏清晨的第一缕初阳……"
+      }
+    ],
+    "scene": "地标图片/LMK-0037_scene.png",
+    "layout": "地标图片/LMK-0037_layout.png",
+    "status": "已完成两张",
+    "images": {
+      "scene": "地标图片/LMK-0037_scene.png",
+      "layout": "地标图片/LMK-0037_layout.png"
+    },
+    "selectedVisual": "Ideal City's neon high-rise and aerial-traffic corridor. Hero: one maglev train threading between closely packed tall concrete towers, cool abstract luminous facade panels and warm lower-level lights. Street-canyon perspective, no rooftop aircraft or lounge copied from another entry.",
+    "spatialCore": "A compact group of high-rise masses flanks one elevated transport route over a lower street corridor. Holographic screens remain simple nontextual accents.",
+    "conceptual": false
+  },
+  {
+    "id": "LMK-0038",
+    "type": "LOC",
+    "classification": "LANDMARK",
+    "name": "理想城高层窗景与楼顶停机坪",
+    "aliases": [],
+    "summary": "高层落地窗内的会客空间望向鳞次栉比的楼群，运输机在邻近屋顶的平台着陆。 所属／关联地区：理想城。 【原文场景】人物站在落地窗前看楼间列车，客人坐沙发、端酒杯，说明有高层会客空间连接外部都市景观。 【原文场景】不远处运输机穿过密楼落到楼顶停机坪，士兵携箱进入大楼。",
+    "limits": "地图要点：把窗内、窗口视域和邻楼停机坪作为一个高层场景，适合城市垂直剖面或局部插图。 范围与缺项：没有给所在大楼正式名称、确切楼层、平台大小和窗口朝向；不将其描述为全城统一模板。",
+    "source": "环境资料：详尽；V08·P011309—P011316；V08·P011328—P011331",
+    "href": "../03_实体档案/地标/LMK-0038_理想城高层窗景与楼顶停机坪.md",
+    "regionIds": [
+      "REG-0024"
+    ],
+    "detailLevel": "详尽",
+    "images": {
+      "scene": "地标图片/LMK-0038_scene.png",
+      "layout": "地标图片/LMK-0038_layout.png"
+    },
+    "sceneNote": "高层城市场景效果图；楼形、轨道结构、停机坪尺寸、电鳐运输机外形及外墙图案为美术补充。",
+    "archive": "# 理想城高层窗景与楼顶停机坪\n\nLMK-0038 · 地标 · 环境资料：详尽 · 所属／关联地区：理想城。\n\n高层落地窗内的会客空间望向鳞次栉比的楼群，运输机在邻近屋顶的平台着陆。\n\n## 环境与场景依据\n\n- **原文场景**：人物站在落地窗前看楼间列车，客人坐沙发、端酒杯，说明有高层会客空间连接外部都市景观。（[V08·P011309—P011316](C:/Users/Leung/vwork/b2g-zyx/Novel_World_Reconstruction_v3/00_分卷原文/V08.txt)）\n\n- **原文场景**：不远处运输机穿过密楼落到楼顶停机坪，士兵携箱进入大楼。（[V08·P011328—P011331](C:/Users/Leung/vwork/b2g-zyx/Novel_World_Reconstruction_v3/00_分卷原文/V08.txt)）\n\n## 地图整理要点\n\n把窗内、窗口视域和邻楼停机坪作为一个高层场景，适合城市垂直剖面或局部插图。\n\n**范围与缺项**：没有给所在大楼正式名称、确切楼层、平台大小和窗口朝向；不将其描述为全城统一模板。\n\n[返回地标入口](地标入口.md) · [集中阅读地标设定集](C:/Users/Leung/vwork/b2g-zyx/Novel_World_Reconstruction_v3/05_世界设定集/地标设定集.md)\n",
+    "excerpts": [
+      {
+        "source": "V08·P011309—P011316",
+        "text": "　　一架架磁悬浮列车穿梭在高楼大厦之间，如同游动在海藻之间的鱼群。\n　　只有少数大鱼，能游到最高处，欣赏清晨的第一缕初阳……\n　　站在落地窗前，男人静静地看着窗外，就像在欣赏着客厅的鱼缸。\n　　他的名字叫罗永，是银翼集团董事会的核心成员之一，持有17%的股份。\n　　“紧急通讯手段……看来我们的开拓者号真的遇到麻烦了。”坐在沙发上的客人饶有兴趣地端详着手中的酒杯，忽然若无其事地开口说了句。\n　　他的名字叫康乐，是康茂集团董事会的核心成员之一。\n　　和主要从事重型工程装备制造的银翼集团不同，康茂集团的业务范围主要是辅助装备与医疗器械。\n　　两人虽然是酒友，但聚在一起的时候，讨论的话题总是与酒无关。"
+      },
+      {
+        "source": "V08·P011328—P011331",
+        "text": "　　康乐滔滔不绝地继续说着，然而站在落地窗前的罗永却并不想听，只是目不转睛地望着窗外。\n　　不远处，一架“电鳐”运输机缓缓地穿过鳞次栉比的高楼，落在了楼顶的停机坪上。\n　　他看见几名士兵带着一只箱子，快步走进了大楼内。\n　　很快装在那箱子里的卫星，会被送去专业的技术部门拆解，下载里面的数据。"
+      }
+    ],
+    "scene": "地标图片/LMK-0038_scene.png",
+    "layout": "地标图片/LMK-0038_layout.png",
+    "status": "已完成两张",
+    "selectedVisual": "Preserve the approved Ideal City window/rooftop effect image. Layout should simplify to the lounge-side tower and nearby rooftop landing platform, linked visually by the gap and a nearby maglev corridor; not every skyline tower, glass or soldier.",
+    "spatialCore": "Two principal tower volumes: open-sided upper lounge behind floor-to-ceiling glazing, neighboring rooftop platform with the same transport craft, a maglev route crossing the intervening district.",
+    "conceptual": false
+  },
+  {
+    "id": "LMK-0039",
+    "type": "LOC",
+    "classification": "LANDMARK",
+    "name": "彷徨沼泽整体环境总览",
+    "aliases": [],
+    "summary": "广阔沼泽覆盖旧人工生态区，天气和异种异常使其成为难以进入的势力腹地。 所属／关联地区：彷徨沼泽。 【人物知识】学院人员介绍其前身为沙漠、后来改成人工生态保护区，遭战略轰炸后转为沼泽，面积口径约为河谷的一点五倍。 【人物转述】另一处本人描述为行省般广阔的沼泽，天气失控、异种异常；具体强度和每日模式没有可绘数据。",
+    "limits": "地图要点：降低详尽度门槛保留整体概念图位置，仅表达大范围湿地与学院中央腹地关系。 范围与缺项：原文缺具体树种、沼泽水色、雾色、泥潭分布及步道，不补成写实地形测绘。",
+    "source": "环境资料：简略；V04·P008844—P008848；V05·P000032—P000034",
+    "href": "../03_实体档案/地标/LMK-0039_彷徨沼泽整体环境总览.md",
+    "regionIds": [
+      "REG-0022"
+    ],
+    "detailLevel": "简略",
+    "archive": "# 彷徨沼泽整体环境总览\n\nLMK-0039 · 地标 · 环境资料：简略 · 所属／关联地区：彷徨沼泽。\n\n广阔沼泽覆盖旧人工生态区，天气和异种异常使其成为难以进入的势力腹地。\n\n## 环境与场景依据\n\n- **人物知识**：学院人员介绍其前身为沙漠、后来改成人工生态保护区，遭战略轰炸后转为沼泽，面积口径约为河谷的一点五倍。（[V04·P008844—P008848](C:/Users/Leung/vwork/b2g-zyx/Novel_World_Reconstruction_v3/00_分卷原文/V04.txt)）\n\n- **人物转述**：另一处本人描述为行省般广阔的沼泽，天气失控、异种异常；具体强度和每日模式没有可绘数据。（[V05·P000032—P000034](C:/Users/Leung/vwork/b2g-zyx/Novel_World_Reconstruction_v3/00_分卷原文/V05.txt)）\n\n## 地图整理要点\n\n降低详尽度门槛保留整体概念图位置，仅表达大范围湿地与学院中央腹地关系。\n\n**范围与缺项**：原文缺具体树种、沼泽水色、雾色、泥潭分布及步道，不补成写实地形测绘。\n\n[返回地标入口](地标入口.md) · [集中阅读地标设定集](C:/Users/Leung/vwork/b2g-zyx/Novel_World_Reconstruction_v3/05_世界设定集/地标设定集.md)\n",
+    "excerpts": [
+      {
+        "source": "V04·P008844—P008848",
+        "text": "　　大概十分钟前，他从殷方那里了解到了关于学院的情况，其中有不少值得他在意的地方。\n　　“学院位于彷徨沼泽的中央。繁荣纪元之前，那里曾经是一片沙漠，繁荣纪元之后，被改造成了人造生态保护区。在末日之战中，由于遭到战略武器的轰炸，那里的地貌被永久改变成了沼泽地，面积相当于河谷行省的1.5倍。”\n　　“学院起源不祥，其绝大多数技术来源于‘考古’，基层由研究员和勘探员构成。其中E级勘探员大概类似于企业的E级员工，军团的十夫长？而D级人员，则相当于中层干部，疑似对标军团的百夫长或者千夫长。”\n　　“另外，学院似乎走上了一条与军团、企业均不相同的道路。那里的植入义体、信息学技术相当发达，装备以能量武器和护盾技术为主，工业能力似乎较弱……或许是因为家在沼泽里？”\n　　不过，考了两个世纪的古，都没让他们考完，这战前文明留下的遗产到底得有多夸张？"
+      },
+      {
+        "source": "V05·P000032—P000034",
+        "text": "　　“说起来，彷徨沼泽到底是个什么样的地方。”\n　　殷方简短地回答说道：“一片很广阔的沼泽，足足有一个行省那么大，那里的天气每一天都在失控，异种每天都在发疯……总之你不会喜欢上那个地方。”\n　　“我也没说要去，只是感到好奇，”楚光看向了前方，拍了拍车顶盖，示意司机在附近找个地方停车，“就在前面了，我们到了。”"
+      }
+    ],
+    "scene": "地标图片/LMK-0039_scene.png",
+    "layout": "地标图片/LMK-0039_layout.png",
+    "status": "已完成两张",
+    "images": {
+      "scene": "地标图片/LMK-0039_scene.png",
+      "layout": "地标图片/LMK-0039_layout.png"
+    },
+    "selectedVisual": "CONCEPTUAL Wandering Marsh regional landscape. Hero: extensive murky wetland channels through low misty vegetated terrain under restless gray cloud, a far indistinct raised central landmass only. No giant fantasy glowing swamp trees, fixed special species or invented complete travel network.",
+    "spatialCore": "Broad wetland basins and vegetated low hummocks; a subdued distant central region is only a spatial cue. Generic land/water relationships, no exact island chart.",
+    "conceptual": true
+  },
+  {
+    "id": "LMK-0040",
+    "type": "LOC",
+    "classification": "LANDMARK",
+    "name": "彷徨沼泽中央学院辖地",
+    "aliases": [],
+    "summary": "位于沼泽中央／深处的学院所在地，仅作为重要势力核心节点保留。 所属／关联地区：彷徨沼泽。 【人物知识】学院位于彷徨沼泽中央，是现有明确的选址级关系。 【人物历史说明】后文说明学院的影响已收缩到沼泽深处；这是活动范围背景，不提供校区街道和建筑形状。",
+    "limits": "地图要点：在沼泽总览内部只标学院核心位置，方位为原文中央／深处级别，无经纬度。 范围与缺项：不补学院高塔、城墙、码头、玻璃研究楼或桥网；资料简略不代表可以自行设计形制。",
+    "source": "环境资料：简略；V04·P008844—P008848；V05·P000387—P000390",
+    "href": "../03_实体档案/地标/LMK-0040_彷徨沼泽中央学院辖地.md",
+    "regionIds": [
+      "REG-0022"
+    ],
+    "detailLevel": "简略",
+    "archive": "# 彷徨沼泽中央学院辖地\n\nLMK-0040 · 地标 · 环境资料：简略 · 所属／关联地区：彷徨沼泽。\n\n位于沼泽中央／深处的学院所在地，仅作为重要势力核心节点保留。\n\n## 环境与场景依据\n\n- **人物知识**：学院位于彷徨沼泽中央，是现有明确的选址级关系。（[V04·P008844—P008848](C:/Users/Leung/vwork/b2g-zyx/Novel_World_Reconstruction_v3/00_分卷原文/V04.txt)）\n\n- **人物历史说明**：后文说明学院的影响已收缩到沼泽深处；这是活动范围背景，不提供校区街道和建筑形状。（[V05·P000387—P000390](C:/Users/Leung/vwork/b2g-zyx/Novel_World_Reconstruction_v3/00_分卷原文/V05.txt)）\n\n## 地图整理要点\n\n在沼泽总览内部只标学院核心位置，方位为原文中央／深处级别，无经纬度。\n\n**范围与缺项**：不补学院高塔、城墙、码头、玻璃研究楼或桥网；资料简略不代表可以自行设计形制。\n\n[返回地标入口](地标入口.md) · [集中阅读地标设定集](C:/Users/Leung/vwork/b2g-zyx/Novel_World_Reconstruction_v3/05_世界设定集/地标设定集.md)\n",
+    "excerpts": [
+      {
+        "source": "V04·P008844—P008848",
+        "text": "　　大概十分钟前，他从殷方那里了解到了关于学院的情况，其中有不少值得他在意的地方。\n　　“学院位于彷徨沼泽的中央。繁荣纪元之前，那里曾经是一片沙漠，繁荣纪元之后，被改造成了人造生态保护区。在末日之战中，由于遭到战略武器的轰炸，那里的地貌被永久改变成了沼泽地，面积相当于河谷行省的1.5倍。”\n　　“学院起源不祥，其绝大多数技术来源于‘考古’，基层由研究员和勘探员构成。其中E级勘探员大概类似于企业的E级员工，军团的十夫长？而D级人员，则相当于中层干部，疑似对标军团的百夫长或者千夫长。”\n　　“另外，学院似乎走上了一条与军团、企业均不相同的道路。那里的植入义体、信息学技术相当发达，装备以能量武器和护盾技术为主，工业能力似乎较弱……或许是因为家在沼泽里？”\n　　不过，考了两个世纪的古，都没让他们考完，这战前文明留下的遗产到底得有多夸张？"
+      },
+      {
+        "source": "V05·P000387—P000390",
+        "text": "　　“没什么，你自己也说过，学院的历史已经有两百年，这其中肯定发生了很多事情。或许，它早已经不是当年的学院。”\n　　在听到这句话的时候，殷方几乎是本能地下了结论，这是没有根据的臆测，然而他又想不出有理有据反驳的理由。\n　　事实上，这两个世纪，学院的影响力确实削弱了太多。从原来遍布整个废土，到如今已经收缩至彷徨沼泽的深处，就连追捕叛徒都需要向那些赏金猎人发布悬赏。\n　　看着沉默不语的殷方，楚光安慰了他一句说道。"
+      }
+    ],
+    "scene": "地标图片/LMK-0040_scene.png",
+    "layout": "地标图片/LMK-0040_layout.png",
+    "status": "已完成两张",
+    "images": {
+      "scene": "地标图片/LMK-0040_scene.png",
+      "layout": "地标图片/LMK-0040_layout.png"
+    },
+    "selectedVisual": "CONCEPTUAL Academy's central-domain scene deep within Wandering Marsh. Hero: misty central wetland terrain with a restrained, largely obscured low geometric compound silhouette, enough to suggest an inhabited research core but no invented signature tower, palace or glass campus. The surrounding isolation dominates.",
+    "spatialCore": "One understated obscured central compound mass within swamp terrain, open wetland around it. A conceptual node, not an asserted Academy campus street/floor plan.",
+    "conceptual": true
+  },
+  {
+    "id": "LMK-0041",
+    "type": "LOC",
+    "classification": "LANDMARK",
+    "name": "巨石城整体环境总览",
+    "aliases": [],
+    "summary": "巨壁、墙外棚区、墙内重建街巷与中心高楼内城层层递进，构成工业大聚落的整体面貌。 所属／关联地区：巨石城、清泉市。 【原文场景】入口远景是两座直入云端大厦之间的大坝般巨壁，约二十层楼高。 【原文场景】城门外有大片棚户，入城后街道翻新、重建楼房逐渐增高，中央另有内城围墙和翻修战前高楼。 【到访观察记录】城内街道、居住、贸易站与内城边缘社区具有差别，具体结构由到访者现场观察记录。",
+    "limits": "地图要点：总览展示外棚区—巨壁入口—外城—中心内城的尺度关系；内部细景四处另列。 范围与缺项：不将内城、外城与墙外棚区混作一套房屋；现有材料不能生成完整城墙闭合轮廓。",
+    "source": "环境资料：详尽；V06·P003819—P003827；V06·P003847—P003854；V06·P003960—P003967",
+    "href": "../03_实体档案/地标/LMK-0041_巨石城整体环境总览.md",
+    "regionIds": [
+      "REG-0033",
+      "REG-0002"
+    ],
+    "detailLevel": "详尽",
+    "archive": "# 巨石城整体环境总览\n\nLMK-0041 · 地标 · 环境资料：详尽 · 所属／关联地区：巨石城、清泉市。\n\n巨壁、墙外棚区、墙内重建街巷与中心高楼内城层层递进，构成工业大聚落的整体面貌。\n\n## 环境与场景依据\n\n- **原文场景**：入口远景是两座直入云端大厦之间的大坝般巨壁，约二十层楼高。（[V06·P003819—P003827](C:/Users/Leung/vwork/b2g-zyx/Novel_World_Reconstruction_v3/00_分卷原文/V06.txt)）\n\n- **原文场景**：城门外有大片棚户，入城后街道翻新、重建楼房逐渐增高，中央另有内城围墙和翻修战前高楼。（[V06·P003847—P003854](C:/Users/Leung/vwork/b2g-zyx/Novel_World_Reconstruction_v3/00_分卷原文/V06.txt)）\n\n- **到访观察记录**：城内街道、居住、贸易站与内城边缘社区具有差别，具体结构由到访者现场观察记录。（[V06·P003960—P003967](C:/Users/Leung/vwork/b2g-zyx/Novel_World_Reconstruction_v3/00_分卷原文/V06.txt)）\n\n## 地图整理要点\n\n总览展示外棚区—巨壁入口—外城—中心内城的尺度关系；内部细景四处另列。\n\n**范围与缺项**：不将内城、外城与墙外棚区混作一套房屋；现有材料不能生成完整城墙闭合轮廓。\n\n[返回地标入口](地标入口.md) · [集中阅读地标设定集](C:/Users/Leung/vwork/b2g-zyx/Novel_World_Reconstruction_v3/05_世界设定集/地标设定集.md)\n",
+    "excerpts": [
+      {
+        "source": "V06·P003819—P003827",
+        "text": "　　拐过了一处街角，站在一条笔直的十二车道高架上，方长脸上的兴奋，渐渐被震撼取代。\n　　一座巍峨的巨壁，足足有二十层楼那么高，如水坝一样耸立在两座直入云霄的大厦之间。\n　　巨物的威压感扑面而来。\n　　即便隔着一公里远，也能清晰感觉到！\n　　“看到了那座巨壁，就等于看见了巨石城。后面的路会好走很多，”钱莱的脸上露出了如释重负地笑容，“总算是有温暖的床垫可以睡了，你们可以住我家里，那里虽然不大，但环境肯定比旅店好很多！”\n　　同样被眼前的景象震撼到了，徐顺忍不住开口说道。\n　　“这得多少吨水泥？”\n　　钱莱笑着说。\n　　“这谁知道，而且里面也并非全是水泥，也许混了一些垃圾或者废弃的混凝土块，总之有些历史了。这座巨壁主要是为了应对异种以及‘浪潮’的威胁，不过有一说一，浪潮已经很久没有威胁到巨石城的墙角下了。”"
+      },
+      {
+        "source": "V06·P003847—P003854",
+        "text": "　　巍峨的巨壁让巨石城成为了远近闻名的乐土，相比起遥远的云间行省与理想城，这里看起来似乎触手可及。\n　　然而。\n　　这份巍峨，并不惠及这里的每一个人。\n　　往巨石城正门走去的路上，最先映入眼帘的是一座庞大的贫民窟。\n　　破烂的窝棚就像牛皮癣一样，长在巨壁的脚底下，远远望去像一条望不到边的臭水沟。\n　　生活在这里的人大多面黄肌瘦，裹着一件不知道穿了多久的衣服坐在门前发呆，或者准备外出去拾荒。\n　　附近一带已经没什么可捡的垃圾，想有个好收成，只能去更高的楼层，或者去更远的地方。\n　　随处可见的污水与排泄物，将本该是白色的雪染成了其他颜色，想必等雪化了情况会更糟，没有爆发瘟疫真是一场奇迹。"
+      },
+      {
+        "source": "V06·P003960—P003967",
+        "text": "　　“城内的情况与城外截然不同，这里的街道被翻新过，楼房是在推倒的废墟上重建的，越往城内越高，但都高不过那座巨壁。”\n　　“好的酒店很贵，便宜的旅店和酒馆都藏在错综复杂的小巷中，那儿的条件比外面的贫民窟好不了太多。但值得一提的是，由于修建了排水系统，所以闻起来不算太臭。”\n　　“或许策划是在暗示我们，我们也该考虑给地表的据点新增一些市政设施了？”\n　　“再说衣着方面，这里的居民衣着主要以棉布和亚麻布为主，织布产业应该很发达。对于在城内有工作的市民们而言，穿衣基本上没什么问题，只不过一件衣服会穿很久。佣兵更喜欢选择皮革制的衣服，或者特殊材料做成的防弹衣，所以即便他们将枪藏起来，也很好区分他们。”\n　　“少数的医院与学校，零星分布在内城边缘的几个社区。生活在那里的人们，精神面貌与外面完全不同，消费能力也更强。”\n　　“在市中心还有一道围墙，那里是巨石城的内城，十余座战前的高楼被翻新，构成了巨石城的金字塔顶。而支配这一切的统治者，是一个叫房明的男人。他很少直接在大众面前露面，多以全息影像示人。大多数人对他充满敬畏，但也有相当一部分人并不关心。”\n　　“值得一提的是，巨石城的物资并不算匮乏，生产力也不低，不少技术甚至达到了科幻的领域，但绝大多数人仍然过的很拮据。尤其是对于未受教育的下层人士而言，想要发财只有两条路，要么加入商队，要么成为佣兵。”\n　　“解决了落脚的地方之后，我们和商队的人一起，将魔鬼布和精神叶带去了贸易站。整个巨石城的大宗商品都在那儿交易，里面有上百个摊位，像集贸市场一样。那里的摊主惊叹于我们的织布工艺，这里得给藤藤小改改点赞……但我能感觉到，他们明显对精神叶更感兴趣。”"
+      }
+    ],
+    "scene": "地标图片/LMK-0041_scene.png",
+    "layout": "地标图片/LMK-0041_layout.png",
+    "status": "已完成两张",
+    "images": {
+      "scene": "地标图片/LMK-0041_scene.png",
+      "layout": "地标图片/LMK-0041_layout.png"
+    },
+    "selectedVisual": "Boulder City overall layered settlement. Hero: colossal dam-like wall between two high-rises, low shanties outside, denser rebuilt ordinary streets inside and a few taller central towers beyond an inner boundary. Crop a section rather than drawing a complete ring wall.",
+    "spatialCore": "Three clear bands: outer shacks before the great wall/gate, rebuilt outer-city blocks behind, smaller inner enclosure with tall center towers farther back. Partial city section.",
+    "conceptual": false
+  },
+  {
+    "id": "LMK-0042",
+    "type": "LOC",
+    "classification": "LANDMARK",
+    "name": "巨石城巨壁与城门",
+    "aliases": [],
+    "summary": "高架道路尽头，两座高楼间横着大坝般巨壁，城门检查和墙上枪口构成进出界面。 所属／关联地区：巨石城、清泉市。 【原文场景】远处可从十二车道笔直高架望见两栋大厦夹着约二十层楼高的巨壁，隔一公里亦有压迫感。 【现场观察及推测分开】城门处队列与检查并存，巨壁上可以看见重机枪枪管；未见位置的狙击手只属于观察者推测。",
+    "limits": "地图要点：选择城门一段及连接两楼的墙面绘制，表现高架接近道路与入口队列，不按字面补环城全周。 范围与缺项：二十层楼是原文类比，不换算成确定米数；内部材料是否混废料为人物猜测。",
+    "source": "环境资料：详尽；V06·P003819—P003827；V06·P003927—P003943",
+    "href": "../03_实体档案/地标/LMK-0042_巨石城巨壁与城门.md",
+    "regionIds": [
+      "REG-0033",
+      "REG-0002"
+    ],
+    "detailLevel": "详尽",
+    "archive": "# 巨石城巨壁与城门\n\nLMK-0042 · 地标 · 环境资料：详尽 · 所属／关联地区：巨石城、清泉市。\n\n高架道路尽头，两座高楼间横着大坝般巨壁，城门检查和墙上枪口构成进出界面。\n\n## 环境与场景依据\n\n- **原文场景**：远处可从十二车道笔直高架望见两栋大厦夹着约二十层楼高的巨壁，隔一公里亦有压迫感。（[V06·P003819—P003827](C:/Users/Leung/vwork/b2g-zyx/Novel_World_Reconstruction_v3/00_分卷原文/V06.txt)）\n\n- **现场观察及推测分开**：城门处队列与检查并存，巨壁上可以看见重机枪枪管；未见位置的狙击手只属于观察者推测。（[V06·P003927—P003943](C:/Users/Leung/vwork/b2g-zyx/Novel_World_Reconstruction_v3/00_分卷原文/V06.txt)）\n\n## 地图整理要点\n\n选择城门一段及连接两楼的墙面绘制，表现高架接近道路与入口队列，不按字面补环城全周。\n\n**范围与缺项**：二十层楼是原文类比，不换算成确定米数；内部材料是否混废料为人物猜测。\n\n[返回地标入口](地标入口.md) · [集中阅读地标设定集](C:/Users/Leung/vwork/b2g-zyx/Novel_World_Reconstruction_v3/05_世界设定集/地标设定集.md)\n",
+    "excerpts": [
+      {
+        "source": "V06·P003819—P003827",
+        "text": "　　拐过了一处街角，站在一条笔直的十二车道高架上，方长脸上的兴奋，渐渐被震撼取代。\n　　一座巍峨的巨壁，足足有二十层楼那么高，如水坝一样耸立在两座直入云霄的大厦之间。\n　　巨物的威压感扑面而来。\n　　即便隔着一公里远，也能清晰感觉到！\n　　“看到了那座巨壁，就等于看见了巨石城。后面的路会好走很多，”钱莱的脸上露出了如释重负地笑容，“总算是有温暖的床垫可以睡了，你们可以住我家里，那里虽然不大，但环境肯定比旅店好很多！”\n　　同样被眼前的景象震撼到了，徐顺忍不住开口说道。\n　　“这得多少吨水泥？”\n　　钱莱笑着说。\n　　“这谁知道，而且里面也并非全是水泥，也许混了一些垃圾或者废弃的混凝土块，总之有些历史了。这座巨壁主要是为了应对异种以及‘浪潮’的威胁，不过有一说一，浪潮已经很久没有威胁到巨石城的墙角下了。”"
+      },
+      {
+        "source": "V06·P003927—P003943",
+        "text": "　　“走吧，咱该去城门口排队了……对了，入城税你们准备了吗？”\n　　徐顺愣了下。\n　　“入城税？进去还要交税？”\n　　管理者大人和他说过，这些货物卖掉，给商队一笔分成，剩下的钱可以拿一部分作为他们的活动经费。\n　　但那些货还没卖掉，他兜里可没有筹码。\n　　不知道那些人收银币不……\n　　钱莱笑着说：“当然，进城一次3枚筹码，所以大多数人不会随意进出。没带没事儿，这次就我帮你们付吧。”\n　　以后打交道的机会还多。\n　　从老板的那天晚上的反应和那位管理者之后的态度来看，钱莱觉得自己有必要和他们搞好关系。\n　　这是一笔长远的投资。\n　　六枚筹码无论是对他还是对他的老板而言，都只是个小数目。\n　　排队没用很久。\n　　主要是检查货物里面有没有危险品。\n　　值得注意的是，当量在300g以上的炸药是违禁品，但子弹和步枪却不是。也许是有着绝对的自信能够将闹事儿的人在第一时间击毙，这些民兵似乎压根儿不在意他们带不带武器进去。\n　　想想也是。\n　　这巨壁上能看见的就有好几挺重机枪的枪管，看不见的地方安排几个狙击手或者类似的东西也很合理。\n　　倒是在检查到方长的时候，几个民兵意外地多看了他和他背后的弓两眼，低声交流了几句之后，在一张写满字的本子上添了一笔。"
+      }
+    ],
+    "scene": "地标图片/LMK-0042_scene.png",
+    "layout": "地标图片/LMK-0042_layout.png",
+    "status": "已完成两张",
+    "images": {
+      "scene": "地标图片/LMK-0042_scene.png",
+      "layout": "地标图片/LMK-0042_layout.png"
+    },
+    "selectedVisual": "Boulder City great wall and gate. Hero: a massively tall wall braced between two skyscrapers, viewed along a straight broad elevated-road approach, with a modest entry queue. Emphasize scale and threshold, not a full city ring or hidden snipers.",
+    "spatialCore": "Straight broad approach road terminates at gate in the connecting wall between two tall building anchors; a small outside waiting area and glimpsed inner passage.",
+    "conceptual": false
+  },
+  {
+    "id": "LMK-0043",
+    "type": "LOC",
+    "classification": "LANDMARK",
+    "name": "巨石城外城街巷与贸易站",
+    "aliases": [],
+    "summary": "翻修道路、逐渐增高的重建楼房、曲折小巷与大宗贸易摊位，呈现墙内普通市民的城市环境。 所属／关联地区：巨石城。 【到访观察记录】入城街道翻新，废墟推平后重建的楼房越向内越高，但未高过巨壁；廉价旅店酒馆藏在复杂小巷，街区已有排水。 【到访观察记录】内城边缘有医院学校等社区，贸易站有上百摊位、大宗货物在此交易。 【原文场景】靠近内城的一条繁华街有霓虹与高消费人群，但这仍是接近内城的街段，不据此写成已进入内城内部。",
+    "limits": "地图要点：把外城街巷、贸易站及渐向富裕区的街面变化作为一个场景，不把内城贵族区位置全部外推。 范围与缺项：原文的工业规模不能替代厂区的完整厂房排布；匿名商铺位置不逐一虚构。",
+    "source": "环境资料：详尽；V06·P003960—P003962；V06·P003964—P003967；V08·P002109—P002117",
+    "href": "../03_实体档案/地标/LMK-0043_巨石城外城街巷与贸易站.md",
+    "regionIds": [
+      "REG-0033"
+    ],
+    "detailLevel": "详尽",
+    "archive": "# 巨石城外城街巷与贸易站\n\nLMK-0043 · 地标 · 环境资料：详尽 · 所属／关联地区：巨石城。\n\n翻修道路、逐渐增高的重建楼房、曲折小巷与大宗贸易摊位，呈现墙内普通市民的城市环境。\n\n## 环境与场景依据\n\n- **到访观察记录**：入城街道翻新，废墟推平后重建的楼房越向内越高，但未高过巨壁；廉价旅店酒馆藏在复杂小巷，街区已有排水。（[V06·P003960—P003962](C:/Users/Leung/vwork/b2g-zyx/Novel_World_Reconstruction_v3/00_分卷原文/V06.txt)）\n\n- **到访观察记录**：内城边缘有医院学校等社区，贸易站有上百摊位、大宗货物在此交易。（[V06·P003964—P003967](C:/Users/Leung/vwork/b2g-zyx/Novel_World_Reconstruction_v3/00_分卷原文/V06.txt)）\n\n- **原文场景**：靠近内城的一条繁华街有霓虹与高消费人群，但这仍是接近内城的街段，不据此写成已进入内城内部。（[V08·P002109—P002117](C:/Users/Leung/vwork/b2g-zyx/Novel_World_Reconstruction_v3/00_分卷原文/V08.txt)）\n\n## 地图整理要点\n\n把外城街巷、贸易站及渐向富裕区的街面变化作为一个场景，不把内城贵族区位置全部外推。\n\n**范围与缺项**：原文的工业规模不能替代厂区的完整厂房排布；匿名商铺位置不逐一虚构。\n\n[返回地标入口](地标入口.md) · [集中阅读地标设定集](C:/Users/Leung/vwork/b2g-zyx/Novel_World_Reconstruction_v3/05_世界设定集/地标设定集.md)\n",
+    "excerpts": [
+      {
+        "source": "V06·P003960—P003962",
+        "text": "　　“城内的情况与城外截然不同，这里的街道被翻新过，楼房是在推倒的废墟上重建的，越往城内越高，但都高不过那座巨壁。”\n　　“好的酒店很贵，便宜的旅店和酒馆都藏在错综复杂的小巷中，那儿的条件比外面的贫民窟好不了太多。但值得一提的是，由于修建了排水系统，所以闻起来不算太臭。”\n　　“或许策划是在暗示我们，我们也该考虑给地表的据点新增一些市政设施了？”"
+      },
+      {
+        "source": "V06·P003964—P003967",
+        "text": "　　“少数的医院与学校，零星分布在内城边缘的几个社区。生活在那里的人们，精神面貌与外面完全不同，消费能力也更强。”\n　　“在市中心还有一道围墙，那里是巨石城的内城，十余座战前的高楼被翻新，构成了巨石城的金字塔顶。而支配这一切的统治者，是一个叫房明的男人。他很少直接在大众面前露面，多以全息影像示人。大多数人对他充满敬畏，但也有相当一部分人并不关心。”\n　　“值得一提的是，巨石城的物资并不算匮乏，生产力也不低，不少技术甚至达到了科幻的领域，但绝大多数人仍然过的很拮据。尤其是对于未受教育的下层人士而言，想要发财只有两条路，要么加入商队，要么成为佣兵。”\n　　“解决了落脚的地方之后，我们和商队的人一起，将魔鬼布和精神叶带去了贸易站。整个巨石城的大宗商品都在那儿交易，里面有上百个摊位，像集贸市场一样。那里的摊主惊叹于我们的织布工艺，这里得给藤藤小改改点赞……但我能感觉到，他们明显对精神叶更感兴趣。”"
+      },
+      {
+        "source": "V08·P002109—P002117",
+        "text": "　　方长不紧不慢地跟在后面，一路尾随着他们，来到了靠近内城最繁华的街道。\n　　从进入这条街开始，整个城市的风格都发生了变化。\n　　街道两边闪烁着炫目的霓虹，往来的行人大多是姿容绰约的女郎，装着昂贵的仿生学义体的佣兵，或者衣着华贵的商人，甚至是内城的贵族。\n　　他们的气质和寻常人明显不同。\n　　和外面的世界相比，这儿简直不像是废土，更像是个缩小版的赛博朋克街道。\n　　尤其是前段时间，新联盟对巨石城的“文化输出”，让这儿原来土味儿十足的衣着风格多了几分“时尚”。\n　　方长对这里倒是不算陌生。\n　　身为一名专业的玩家，他在探索地图这一块是专业的。\n　　然而让他意外的是，这三个男人并没有将他带到幕后黑手的老巢，而是在夜之女王酒吧的门口停下了脚步。"
+      }
+    ],
+    "scene": "地标图片/LMK-0043_scene.png",
+    "layout": "地标图片/LMK-0043_layout.png",
+    "status": "已完成两张",
+    "images": {
+      "scene": "地标图片/LMK-0043_scene.png",
+      "layout": "地标图片/LMK-0043_layout.png"
+    },
+    "selectedVisual": "Boulder City outer-city streets and trading station. Hero: repaired roads through progressively taller ordinary rebuilt blocks, a lively wholesale market court and narrow winding side alleys. No inner aristocratic palace or every school/hospital.",
+    "spatialCore": "Main repaired street links a trade courtyard to a denser higher inner-facing block; a few narrow alleys branch around ordinary buildings. Maintain clear social transition.",
+    "conceptual": false
+  },
+  {
+    "id": "LMK-0044",
+    "type": "LOC",
+    "classification": "LANDMARK",
+    "name": "巨石城内城围墙与高楼群",
+    "aliases": [],
+    "summary": "城市中心第二道围墙围住十余座翻修战前高楼，是巨石城最核心的高层片区。 所属／关联地区：巨石城。 【到访观察记录】市中心另有围墙，内部十余座战前高楼翻新形成内城，是政治经济顶层的空间象征。 【原文场景】临近内城街区的霓虹繁华可作外围视域，不代表内城每栋楼内部均有描写。",
+    "limits": "地图要点：地标画面以第二重围墙及其中的旧高楼轮廓为核心；从外城与内城之间设置边界。 范围与缺项：没有内城街网和完整室内实景，不按贵族身份补宫殿庭院、花园、水池或统一装饰。",
+    "source": "环境资料：中等；V06·P003964—P003966；V08·P002109—P002114",
+    "href": "../03_实体档案/地标/LMK-0044_巨石城内城围墙与高楼群.md",
+    "regionIds": [
+      "REG-0033"
+    ],
+    "detailLevel": "中等",
+    "archive": "# 巨石城内城围墙与高楼群\n\nLMK-0044 · 地标 · 环境资料：中等 · 所属／关联地区：巨石城。\n\n城市中心第二道围墙围住十余座翻修战前高楼，是巨石城最核心的高层片区。\n\n## 环境与场景依据\n\n- **到访观察记录**：市中心另有围墙，内部十余座战前高楼翻新形成内城，是政治经济顶层的空间象征。（[V06·P003964—P003966](C:/Users/Leung/vwork/b2g-zyx/Novel_World_Reconstruction_v3/00_分卷原文/V06.txt)）\n\n- **原文场景**：临近内城街区的霓虹繁华可作外围视域，不代表内城每栋楼内部均有描写。（[V08·P002109—P002114](C:/Users/Leung/vwork/b2g-zyx/Novel_World_Reconstruction_v3/00_分卷原文/V08.txt)）\n\n## 地图整理要点\n\n地标画面以第二重围墙及其中的旧高楼轮廓为核心；从外城与内城之间设置边界。\n\n**范围与缺项**：没有内城街网和完整室内实景，不按贵族身份补宫殿庭院、花园、水池或统一装饰。\n\n[返回地标入口](地标入口.md) · [集中阅读地标设定集](C:/Users/Leung/vwork/b2g-zyx/Novel_World_Reconstruction_v3/05_世界设定集/地标设定集.md)\n",
+    "excerpts": [
+      {
+        "source": "V06·P003964—P003966",
+        "text": "　　“少数的医院与学校，零星分布在内城边缘的几个社区。生活在那里的人们，精神面貌与外面完全不同，消费能力也更强。”\n　　“在市中心还有一道围墙，那里是巨石城的内城，十余座战前的高楼被翻新，构成了巨石城的金字塔顶。而支配这一切的统治者，是一个叫房明的男人。他很少直接在大众面前露面，多以全息影像示人。大多数人对他充满敬畏，但也有相当一部分人并不关心。”\n　　“值得一提的是，巨石城的物资并不算匮乏，生产力也不低，不少技术甚至达到了科幻的领域，但绝大多数人仍然过的很拮据。尤其是对于未受教育的下层人士而言，想要发财只有两条路，要么加入商队，要么成为佣兵。”"
+      },
+      {
+        "source": "V08·P002109—P002114",
+        "text": "　　方长不紧不慢地跟在后面，一路尾随着他们，来到了靠近内城最繁华的街道。\n　　从进入这条街开始，整个城市的风格都发生了变化。\n　　街道两边闪烁着炫目的霓虹，往来的行人大多是姿容绰约的女郎，装着昂贵的仿生学义体的佣兵，或者衣着华贵的商人，甚至是内城的贵族。\n　　他们的气质和寻常人明显不同。\n　　和外面的世界相比，这儿简直不像是废土，更像是个缩小版的赛博朋克街道。\n　　尤其是前段时间，新联盟对巨石城的“文化输出”，让这儿原来土味儿十足的衣着风格多了几分“时尚”。"
+      }
+    ],
+    "scene": "地标图片/LMK-0044_scene.png",
+    "layout": "地标图片/LMK-0044_layout.png",
+    "status": "已完成两张",
+    "images": {
+      "scene": "地标图片/LMK-0044_scene.png",
+      "layout": "地标图片/LMK-0044_layout.png"
+    },
+    "selectedVisual": "Boulder City inner enclosure and refurbished towers. Hero: a second inner-city wall surrounding a group of repaired prewar high-rises rising above ordinary outer-city rooftops. Understated wealthy enclave silhouette, no invented palace gardens or fountain.",
+    "spatialCore": "Smaller inner boundary contains a compact cluster of tall refurbished towers, with a narrow strip of lower outer-city blocks outside. Do not pretend to know the complete internal road system.",
+    "conceptual": false
+  },
+  {
+    "id": "LMK-0045",
+    "type": "LOC",
+    "classification": "LANDMARK",
+    "name": "巨石城墙外棚户区",
+    "aliases": [],
+    "summary": "巨壁脚下延展开的破旧棚屋，污水、排泄物和染脏积雪构成与墙内强烈不同的居住环境。 所属／关联地区：巨石城、清泉市。 【原文场景】从正门道路接近时先经过大贫民窟，破棚沿巨壁脚下延伸，地面污水和排泄物将雪染色。 【原文场景】居民外出拾荒，附近可回收物稀少，生存活动向更高楼层和更远区域延伸。",
+    "limits": "地图要点：位于城门外与巨壁脚下，聚落边界只画局部延展，突出墙体与低棚的尺度反差。 范围与缺项：该段为冬季画面，雪化后的情况是叙述预期；不能将外城排水条件搬给棚区。",
+    "source": "环境资料：详尽；V06·P003847—P003854；V06·P003852—P003853",
+    "href": "../03_实体档案/地标/LMK-0045_巨石城墙外棚户区.md",
+    "regionIds": [
+      "REG-0033",
+      "REG-0002"
+    ],
+    "detailLevel": "详尽",
+    "archive": "# 巨石城墙外棚户区\n\nLMK-0045 · 地标 · 环境资料：详尽 · 所属／关联地区：巨石城、清泉市。\n\n巨壁脚下延展开的破旧棚屋，污水、排泄物和染脏积雪构成与墙内强烈不同的居住环境。\n\n## 环境与场景依据\n\n- **原文场景**：从正门道路接近时先经过大贫民窟，破棚沿巨壁脚下延伸，地面污水和排泄物将雪染色。（[V06·P003847—P003854](C:/Users/Leung/vwork/b2g-zyx/Novel_World_Reconstruction_v3/00_分卷原文/V06.txt)）\n\n- **原文场景**：居民外出拾荒，附近可回收物稀少，生存活动向更高楼层和更远区域延伸。（[V06·P003852—P003853](C:/Users/Leung/vwork/b2g-zyx/Novel_World_Reconstruction_v3/00_分卷原文/V06.txt)）\n\n## 地图整理要点\n\n位于城门外与巨壁脚下，聚落边界只画局部延展，突出墙体与低棚的尺度反差。\n\n**范围与缺项**：该段为冬季画面，雪化后的情况是叙述预期；不能将外城排水条件搬给棚区。\n\n[返回地标入口](地标入口.md) · [集中阅读地标设定集](C:/Users/Leung/vwork/b2g-zyx/Novel_World_Reconstruction_v3/05_世界设定集/地标设定集.md)\n",
+    "excerpts": [
+      {
+        "source": "V06·P003847—P003854",
+        "text": "　　巍峨的巨壁让巨石城成为了远近闻名的乐土，相比起遥远的云间行省与理想城，这里看起来似乎触手可及。\n　　然而。\n　　这份巍峨，并不惠及这里的每一个人。\n　　往巨石城正门走去的路上，最先映入眼帘的是一座庞大的贫民窟。\n　　破烂的窝棚就像牛皮癣一样，长在巨壁的脚底下，远远望去像一条望不到边的臭水沟。\n　　生活在这里的人大多面黄肌瘦，裹着一件不知道穿了多久的衣服坐在门前发呆，或者准备外出去拾荒。\n　　附近一带已经没什么可捡的垃圾，想有个好收成，只能去更高的楼层，或者去更远的地方。\n　　随处可见的污水与排泄物，将本该是白色的雪染成了其他颜色，想必等雪化了情况会更糟，没有爆发瘟疫真是一场奇迹。"
+      },
+      {
+        "source": "V06·P003852—P003853",
+        "text": "　　生活在这里的人大多面黄肌瘦，裹着一件不知道穿了多久的衣服坐在门前发呆，或者准备外出去拾荒。\n　　附近一带已经没什么可捡的垃圾，想有个好收成，只能去更高的楼层，或者去更远的地方。"
+      }
+    ],
+    "scene": "地标图片/LMK-0045_scene.png",
+    "layout": "地标图片/LMK-0045_layout.png",
+    "status": "已完成两张",
+    "images": {
+      "scene": "地标图片/LMK-0045_scene.png",
+      "layout": "地标图片/LMK-0045_layout.png"
+    },
+    "selectedVisual": "Boulder City's winter wall-foot shanties. Hero: very low patched shelters pressed along the base of the huge wall, dirty melting snow and muddy runoff in narrow lanes. Strong vertical scale contrast, dignified tiny inhabitants, no graphic waste or suffering close-ups.",
+    "spatialCore": "A local strip of shacks along the outside face of a massive wall; crooked narrow lanes and one open approach gap. No complete slum perimeter or modern drains.",
+    "conceptual": false
+  },
+  {
+    "id": "LMK-0046",
+    "type": "LOC",
+    "classification": "LANDMARK",
+    "name": "大荒漠太空电梯遗址",
+    "aliases": [],
+    "summary": "荒漠中部赤道附近的巨大旧航天遗址，塌毁残片散布广大区域，近旁存在临时避难设施。 所属／关联地区：大荒漠。 【目击者讲述】负伤返回者述部分开拓者乘员躲进电梯残骸附近的临时避难设施。 【人物知识】太空电梯两百年前已倒塌，遗址在大荒漠中部赤道附近，碎片散得极远。",
+    "limits": "地图要点：以主遗址与邻近临时庇护点作远方节点；散片范围只以注记表达，不据传述绘所有碎块。 范围与缺项：残片具体形状、尺寸、倾倒方向及零号内部均未见，不画成仍直立可用的电梯。",
+    "source": "环境资料：简略；V08·P010811—P010814；V08·P010818—P010821",
+    "href": "../03_实体档案/地标/LMK-0046_大荒漠太空电梯遗址.md",
+    "regionIds": [
+      "REG-0032"
+    ],
+    "detailLevel": "简略",
+    "archive": "# 大荒漠太空电梯遗址\n\nLMK-0046 · 地标 · 环境资料：简略 · 所属／关联地区：大荒漠。\n\n荒漠中部赤道附近的巨大旧航天遗址，塌毁残片散布广大区域，近旁存在临时避难设施。\n\n## 环境与场景依据\n\n- **目击者讲述**：负伤返回者述部分开拓者乘员躲进电梯残骸附近的临时避难设施。（[V08·P010811—P010814](C:/Users/Leung/vwork/b2g-zyx/Novel_World_Reconstruction_v3/00_分卷原文/V08.txt)）\n\n- **人物知识**：太空电梯两百年前已倒塌，遗址在大荒漠中部赤道附近，碎片散得极远。（[V08·P010818—P010821](C:/Users/Leung/vwork/b2g-zyx/Novel_World_Reconstruction_v3/00_分卷原文/V08.txt)）\n\n## 地图整理要点\n\n以主遗址与邻近临时庇护点作远方节点；散片范围只以注记表达，不据传述绘所有碎块。\n\n**范围与缺项**：残片具体形状、尺寸、倾倒方向及零号内部均未见，不画成仍直立可用的电梯。\n\n[返回地标入口](地标入口.md) · [集中阅读地标设定集](C:/Users/Leung/vwork/b2g-zyx/Novel_World_Reconstruction_v3/05_世界设定集/地标设定集.md)\n",
+    "excerpts": [
+      {
+        "source": "V08·P010811—P010814",
+        "text": "　　楚光看了眼手中的银色卡片，陷入了沉思。\n　　躺在扫描床上的罗骅停顿了片刻，继续说道。\n　　“他们比想象中的难对付……虽然我们有动力装甲，但他们的战斗力并不弱，而且距离大荒漠最近的2号绿洲，那里的猎鹰王国是他们的附庸。”\n　　“面对潮水一般涌来的士兵，我们只能放弃了开拓者号，一部分人躲进了太空电梯残骸附近的临时避难设施。”"
+      },
+      {
+        "source": "V08·P010818—P010821",
+        "text": "　　罗骅奇怪地看了楚光一眼，见后者缓缓点头，于是继续说道。\n　　“大荒漠中部赤道附近就是人联时代太空电梯的遗址……那东西两百年前就塌了，整个大荒漠上到处都是它的碎片，最远的一块甚至掉到了东海岸。不过这些都不是重点，重点是0号避难所就在大荒漠中！”\n　　深深吸了口气，他认真地看着楚光。\n　　“卢扬……我们的队长让我一路向东走，无论如何绝不能让军团的人拿到那张卡片。”"
+      }
+    ],
+    "scene": "地标图片/LMK-0046_scene.png",
+    "layout": "地标图片/LMK-0046_layout.png",
+    "status": "已完成两张",
+    "images": {
+      "scene": "地标图片/LMK-0046_scene.png",
+      "layout": "地标图片/LMK-0046_layout.png"
+    },
+    "selectedVisual": "CONCEPTUAL collapsed space-elevator ruins in the Great Desert. Hero: a few immense weathered industrial/tether fragments lying partly buried across sand, with a tiny temporary refuge nearby for scale. Everything collapsed, no standing operational elevator or revealed Vault Zero.",
+    "spatialCore": "Several aligned but broken buried structural fragments across a desert slice; a small refuge offset near the main wreck mass and a simple approach track. Fragment shapes are art interpretation.",
+    "conceptual": true
+  },
+  {
+    "id": "LMK-0047",
+    "type": "LOC",
+    "classification": "LANDMARK",
+    "name": "九号绿洲",
+    "aliases": [],
+    "summary": "落霞行省内雄狮王国所在的绿洲节点，保留王国与沙漠商路背景，尚无充分现场景观描写。 所属／关联地区：落霞行省。 【行旅目的地与身份说明】西行目的地被明确称作落霞行省九号绿洲，来客自称来自该绿洲的雄狮王国。 【文书内容】王室任命书将雄狮王国及九号绿洲外交事务联系起来，为属地身份补充依据。",
+    "limits": "地图要点：作为绿洲整体地标保留，所属地区为落霞行省；具体城镇、农田与水体的位置留空。 范围与缺项：未到访实景，不根据绿洲名称自动补椰枣林、湖泊、城堡或灌溉网；王国与绿洲不视作完全相同尺度。",
+    "source": "环境资料：简略；V08·P006827—P006830；V08·P012875—P012879",
+    "href": "../03_实体档案/地标/LMK-0047_九号绿洲.md",
+    "regionIds": [
+      "REG-0029"
+    ],
+    "detailLevel": "简略",
+    "archive": "# 九号绿洲\n\nLMK-0047 · 地标 · 环境资料：简略 · 所属／关联地区：落霞行省。\n\n落霞行省内雄狮王国所在的绿洲节点，保留王国与沙漠商路背景，尚无充分现场景观描写。\n\n## 环境与场景依据\n\n- **行旅目的地与身份说明**：西行目的地被明确称作落霞行省九号绿洲，来客自称来自该绿洲的雄狮王国。（[V08·P006827—P006830](C:/Users/Leung/vwork/b2g-zyx/Novel_World_Reconstruction_v3/00_分卷原文/V08.txt)）\n\n- **文书内容**：王室任命书将雄狮王国及九号绿洲外交事务联系起来，为属地身份补充依据。（[V08·P012875—P012879](C:/Users/Leung/vwork/b2g-zyx/Novel_World_Reconstruction_v3/00_分卷原文/V08.txt)）\n\n## 地图整理要点\n\n作为绿洲整体地标保留，所属地区为落霞行省；具体城镇、农田与水体的位置留空。\n\n**范围与缺项**：未到访实景，不根据绿洲名称自动补椰枣林、湖泊、城堡或灌溉网；王国与绿洲不视作完全相同尺度。\n\n[返回地标入口](地标入口.md) · [集中阅读地标设定集](C:/Users/Leung/vwork/b2g-zyx/Novel_World_Reconstruction_v3/05_世界设定集/地标设定集.md)\n",
+    "excerpts": [
+      {
+        "source": "V08·P006827—P006830",
+        "text": "　　一周之前，帕伊返回101号营地，护卫任务告一段落，闲不住的尾巴忽然提出“想要实现斯斯看一眼沙漠的梦想”，于是将白熊骑士团旅行的下一站定在了落霞行省的9号绿洲。\n　　虽然那奇怪的表述让人无力吐槽，但对于尾巴居然记得自己曾经说过的话这件事情，斯斯还是有一点点小感动的。\n　　就这样，她们带上了几箱魔鬼丝和藤藤设计的“艺术品”，以及一些在沙漠中可能会比较值钱的货物，踏上了一路向西的旅程。\n　　经过一个星期的跋涉，她们总算是来到了河谷行省与落霞行省的交界处。"
+      },
+      {
+        "source": "V08·P012875—P012879",
+        "text": "　　“这是我们陛下亲笔写的任命书。”卡里曼从怀中取出了一卷丝绢，递到了眼前的这个年轻的警卫手中。\n　　徐顺注意到，织造这卷轴的材料居然是魔鬼丝，而且搞不好还是从他们这儿卖过去的。\n　　不过，这不是重点。\n　　将卷轴展开，徐顺大致看了一眼。\n　　这上面写的内容大致是，雄狮王国的国王钦定，将雄狮王国以及9号绿洲一切外交事宜，全权委托给了眼前这个叫卡里曼的王子。"
+      }
+    ],
+    "scene": "地标图片/LMK-0047_scene.png",
+    "layout": "地标图片/LMK-0047_layout.png",
+    "status": "已完成两张",
+    "images": {
+      "scene": "地标图片/LMK-0047_scene.png",
+      "layout": "地标图片/LMK-0047_layout.png"
+    },
+    "selectedVisual": "CONCEPTUAL Oasis Nine, associated with Lion Kingdom. Hero: restrained green settled ground in a wide arid landscape, a few low indistinct earthen settlement blocks and a small caravan arrival patch. No invented royal castle, date-palm forest, giant lake or exact irrigation system.",
+    "spatialCore": "Simple contrast of settled greener core and surrounding dry terrain with a modest caravan approach. Generic game-concept massing only, not a factual oasis survey.",
+    "conceptual": true
+  },
+  {
+    "id": "LMK-0048",
+    "type": "LOC",
+    "classification": "LANDMARK",
+    "name": "二号绿洲",
+    "aliases": [],
+    "summary": "猎鹰王国所在的绿洲节点，与军团西线驻留和荒漠交通有关。 所属／关联地区：落霞行省。 【人物说明】雄狮来使称猎鹰王国统治二号绿洲，评价部分属于敌方人物立场。 【人物报告】返回者称此地是距大荒漠最近的绿洲，猎鹰王国为军团附庸，提供了荒漠外围的战略关系。",
+    "limits": "地图要点：作为整体绿洲节点，不拆未有环境描述的城市和军营；邻接大荒漠的关系只作相对注记。 范围与缺项：缺具体山水、城墙和种植景观，不能把军官想回去享受的叙述补成可见宫殿。",
+    "source": "环境资料：简略；V08·P007388—P007391；V08·P010811—P010814",
+    "href": "../03_实体档案/地标/LMK-0048_二号绿洲.md",
+    "regionIds": [
+      "REG-0029"
+    ],
+    "detailLevel": "简略",
+    "archive": "# 二号绿洲\n\nLMK-0048 · 地标 · 环境资料：简略 · 所属／关联地区：落霞行省。\n\n猎鹰王国所在的绿洲节点，与军团西线驻留和荒漠交通有关。\n\n## 环境与场景依据\n\n- **人物说明**：雄狮来使称猎鹰王国统治二号绿洲，评价部分属于敌方人物立场。（[V08·P007388—P007391](C:/Users/Leung/vwork/b2g-zyx/Novel_World_Reconstruction_v3/00_分卷原文/V08.txt)）\n\n- **人物报告**：返回者称此地是距大荒漠最近的绿洲，猎鹰王国为军团附庸，提供了荒漠外围的战略关系。（[V08·P010811—P010814](C:/Users/Leung/vwork/b2g-zyx/Novel_World_Reconstruction_v3/00_分卷原文/V08.txt)）\n\n## 地图整理要点\n\n作为整体绿洲节点，不拆未有环境描述的城市和军营；邻接大荒漠的关系只作相对注记。\n\n**范围与缺项**：缺具体山水、城墙和种植景观，不能把军官想回去享受的叙述补成可见宫殿。\n\n[返回地标入口](地标入口.md) · [集中阅读地标设定集](C:/Users/Leung/vwork/b2g-zyx/Novel_World_Reconstruction_v3/05_世界设定集/地标设定集.md)\n",
+    "excerpts": [
+      {
+        "source": "V08·P007388—P007391",
+        "text": "　　“仆从？”尾巴歪了下头。\n　　“猎鹰，”走到一旁的卡里曼脸上写满阴霾，插话说道，“统治2号绿洲的王国……一群卑躬屈膝的懦夫，抛弃了尊严和信仰，将灵魂献给了无主之地的蛮夷。”\n　　尾巴：“？”\n　　左手按了按有些酸胀的眉心，斯斯叹了口气说道。"
+      },
+      {
+        "source": "V08·P010811—P010814",
+        "text": "　　楚光看了眼手中的银色卡片，陷入了沉思。\n　　躺在扫描床上的罗骅停顿了片刻，继续说道。\n　　“他们比想象中的难对付……虽然我们有动力装甲，但他们的战斗力并不弱，而且距离大荒漠最近的2号绿洲，那里的猎鹰王国是他们的附庸。”\n　　“面对潮水一般涌来的士兵，我们只能放弃了开拓者号，一部分人躲进了太空电梯残骸附近的临时避难设施。”"
+      }
+    ],
+    "scene": "地标图片/LMK-0048_scene.png",
+    "layout": "地标图片/LMK-0048_layout.png",
+    "status": "已完成两张",
+    "images": {
+      "scene": "地标图片/LMK-0048_scene.png",
+      "layout": "地标图片/LMK-0048_layout.png"
+    },
+    "selectedVisual": "CONCEPTUAL Oasis Two on the Great Desert fringe, associated with Falcon Kingdom and western Legion logistics. Hero: a sparse settled green-brown patch beside open desert with a modest roadside supply stop. Broad wind-swept terrain and low restrained structures, no palace or elaborate military city.",
+    "spatialCore": "Dry desert edge meets a limited settled patch and small caravan/supply clearing. Different local arrangement from Oasis Nine, with no claimed royal-town street plan.",
+    "conceptual": true
+  },
+  {
+    "id": "LMK-0049",
+    "type": "LOC",
+    "classification": "LANDMARK",
+    "name": "卡廷驿站帐篷聚落",
+    "aliases": [],
+    "summary": "森林边缘的商旅帐篷聚落，牧猎生活、少量种植与大量外来商队营帐共存。 所属／关联地区：瑞谷市。 【原文场景】位于瑞谷边缘、森林附近的商旅停留点；北山、东林、南平原是其区域背景。 【原文场景】本地人多住帐篷，以牧猎为生，种少量谷薯和耐旱果树；六成以上帐篷来自商队。 【原文场景】北门与营地在军团强迁行动中出现，后居民被要求搬至落叶岭附近新营地。",
+    "limits": "地图要点：整体保留帐篷、商旅驻地与森林边缘的组合；旅行时期和强迁后状态分开。 范围与缺项：不把计划迁走直接写成某时点帐篷已全部烧毁；井、营墙及每顶帐篷的具体布局没有完整图。",
+    "source": "环境资料：详尽；V08·P006830—P006833；V08·P006834—P006836；V08·P009191—P009217",
+    "href": "../03_实体档案/地标/LMK-0049_卡廷驿站帐篷聚落.md",
+    "regionIds": [
+      "REG-0025"
+    ],
+    "detailLevel": "详尽",
+    "archive": "# 卡廷驿站帐篷聚落\n\nLMK-0049 · 地标 · 环境资料：详尽 · 所属／关联地区：瑞谷市。\n\n森林边缘的商旅帐篷聚落，牧猎生活、少量种植与大量外来商队营帐共存。\n\n## 环境与场景依据\n\n- **原文场景**：位于瑞谷边缘、森林附近的商旅停留点；北山、东林、南平原是其区域背景。（[V08·P006830—P006833](C:/Users/Leung/vwork/b2g-zyx/Novel_World_Reconstruction_v3/00_分卷原文/V08.txt)）\n\n- **原文场景**：本地人多住帐篷，以牧猎为生，种少量谷薯和耐旱果树；六成以上帐篷来自商队。（[V08·P006834—P006836](C:/Users/Leung/vwork/b2g-zyx/Novel_World_Reconstruction_v3/00_分卷原文/V08.txt)）\n\n- **原文场景**：北门与营地在军团强迁行动中出现，后居民被要求搬至落叶岭附近新营地。（[V08·P009191—P009217](C:/Users/Leung/vwork/b2g-zyx/Novel_World_Reconstruction_v3/00_分卷原文/V08.txt)）\n\n## 地图整理要点\n\n整体保留帐篷、商旅驻地与森林边缘的组合；旅行时期和强迁后状态分开。\n\n**范围与缺项**：不把计划迁走直接写成某时点帐篷已全部烧毁；井、营墙及每顶帐篷的具体布局没有完整图。\n\n[返回地标入口](地标入口.md) · [集中阅读地标设定集](C:/Users/Leung/vwork/b2g-zyx/Novel_World_Reconstruction_v3/05_世界设定集/地标设定集.md)\n",
+    "excerpts": [
+      {
+        "source": "V08·P006830—P006833",
+        "text": "　　经过一个星期的跋涉，她们总算是来到了河谷行省与落霞行省的交界处。\n　　这里是一个叫瑞谷市的地方，城市的北面是崇山峻岭，东面是一片森林，南面是一马平川，倒塌的民房和建筑垃圾覆盖了整片旷野。\n　　由于这儿是河谷行省南部走廊的西出口，因此这儿的商队倒是络绎不绝，森林的边缘也零星分布着一些幸存者聚居地。\n　　比如她们下榻的卡廷驿站，便是附近最大的一座幸存者聚居地。往来的商队大多会选择在这儿停留，因此她们也就跟了过来。"
+      },
+      {
+        "source": "V08·P006834—P006836",
+        "text": "　　这儿的人们大多住在帐篷里，以放牧和打猎为生，并种植有少量的青麦、羊角薯和一种不太需要浇水的果树。\n　　除了本地人的帐篷，这里至少有六成以上的帐篷属于外来的商队。\n　　当地人没有自己的货币，平时大多以物易物，或者用纯金的第纳尔交易。"
+      },
+      {
+        "source": "V08·P009191—P009217",
+        "text": "　　卡廷驿站的北大门，迎来了一群不速之客。\n　　看着门口那一队身披黑袍、荷枪实弹的士兵，村长穆德卡的心情一瞬间沉入了谷底。\n　　昨天军团的人刚来过，从他们这儿牵走了5头牛和1000公斤青麦。\n　　没想到今天他们又来了。\n　　而且数量是昨天的十倍，来了足足200多人……\n　　虽然猜到准没好事儿，但老人还是挪动灌了铅的腿，硬着头皮走上前去。\n　　“大人……我是这儿的村长，我们昨天见过的。”\n　　皱纹纵横的脸上堆满了讨好的笑容，然而那个带头的军官并没有看他。\n　　扫视了一眼营地，科尔威微微眯起眼睛，用不紧不慢的声音说道。\n　　“昨天，我们有一支巡逻队附近遭到了袭击。”\n　　一听到这话，老人额前顿时冒出了冷汗。\n　　昨晚他确实听见了枪声，不过离这儿挺远的，少说得有三四公里。\n　　这种事情在废土上并不罕见，要么是两拨废土客在火拼，要么是撞上了活跃在森林中的异种，他都根本没当回事儿。\n　　“那，那跟我们没关系……肯定是，是企业的人干的，我好像见过那些穿着外骨骼的家伙！”\n　　那些人说过，遇到危险可以把锅全甩到他们头上，反正他们也不差这一点。\n　　穆德卡当然不会客气，立刻就把他们的身份给抖了出来。\n　　对这种情报毫无兴趣，科尔威面无表情地继续说道。\n　　“不管和你们有没有关系，这里已经成为了战区。”\n　　“在我们把那些臭虫翻出来解决掉之前，你们需要跟我们迁徙到指定的地点扎营。”\n　　话音落下，周围顿时传开一片骚动的声音，站在营地旁边的幸存者们脸上纷纷露出诧异、惊讶甚至于惶恐的表情。\n　　“迁徙？”穆德卡愣愣的看着眼前的军官，声音颤抖的问道，“可，可为什么——”\n　　科尔威毫不客气地打断了他的话。\n　　“没有为什么，这是命令。”\n　　“我们是在保护你们，希望你们不要不识抬举。”\n　　这是麦克伦将军制订的计划。\n　　军团将在瑞谷市西北侧的落叶岭附近修建一座大型营地，收容方圆百里的幸存者。\n　　那儿是山峦、森林与平原的交汇处，水资源丰富，规划中的营地预计能够容纳10万人。"
+      }
+    ],
+    "scene": "地标图片/LMK-0049_scene.png",
+    "layout": "地标图片/LMK-0049_layout.png",
+    "status": "已完成两张",
+    "images": {
+      "scene": "地标图片/LMK-0049_scene.png",
+      "layout": "地标图片/LMK-0049_layout.png"
+    },
+    "selectedVisual": "Katin caravan tent settlement at the forest edge before forced relocation. Hero: a clear shared caravan court surrounded by simple local and visitor tents, with dense woodland behind and small pastoral ground. No grand fortification, burned ruins or invented permanent town.",
+    "spatialCore": "Tent clusters around one shared arrival/cargo clearing; forest on one side, open travel approach on the other. Most visible tents belong to visiting caravans, only a few permanent local dwellings.",
+    "conceptual": false
+  }
+]
